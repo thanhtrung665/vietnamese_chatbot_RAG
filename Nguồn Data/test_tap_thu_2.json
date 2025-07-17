@@ -1,0 +1,2708 @@
+[
+  {
+    "intent": "nguyen_lieu_goi_cuon",
+    "patterns": "Những thành phần chính của gỏi cuốn là gì?",
+    "responses": "Gỏi cuốn thường gồm tôm tươi, thịt luộc, bún tươi, rau sống các loại và bánh tráng. Có thể thêm chả giò hoặc tai heo."
+  },
+  {
+    "intent": "cach_lam_goi_cuon",
+    "patterns": "Bạn có thể chỉ cách làm gỏi cuốn không?",
+    "responses": "Để làm gỏi cuốn, bạn luộc tôm và thịt, thái lát mỏng. Trải bánh tráng, lần lượt cho rau sống, bún, tôm, thịt vào rồi cuốn chặt tay. Sau đó, chấm nước mắm chua ngọt hoặc tương đen."
+  },
+  {
+    "intent": "mo_ta_goi_cuon",
+    "patterns": "Mô tả hình dáng bên ngoài của món gỏi cuốn.",
+    "responses": "Gỏi cuốn là những cuộn tròn hoặc dẹt, màu trắng của bún và bánh tráng, bên trong nhìn rõ màu đỏ của tôm, xanh của rau. Vẻ ngoài thanh thoát, đẹp mắt."
+  },
+  {
+    "intent": "huong_vi_goi_cuon",
+    "patterns": "Vị của gỏi cuốn như thế nào nhỉ?",
+    "responses": "Gỏi cuốn có vị thanh mát của rau sống, ngọt của tôm thịt, dai dai của bún và bánh tráng. Khi chấm sốt sẽ có thêm vị đậm đà, chua cay hoặc béo bùi."
+  },
+  {
+    "intent": "nguyen_lieu_nem_chua_ran",
+    "patterns": "Để làm nem chua rán cần gì?",
+    "responses": "Nguyên liệu chính của nem chua rán là thịt heo nạc, bì heo, thính gạo, các loại gia vị như tỏi, ớt, đường, muối, tiêu, và lá ổi."
+  },
+  {
+    "intent": "cach_lam_nem_chua_ran",
+    "patterns": "Cách chế biến nem chua rán?",
+    "responses": "Nem chua rán được làm bằng cách trộn đều thịt nạc xay, bì heo luộc thái sợi, thính và gia vị. Gói chặt thành từng chiếc nhỏ bằng lá ổi, để lên men tự nhiên. Khi ăn thì đem rán vàng giòn."
+  },
+  {
+    "intent": "mo_ta_nem_chua_ran",
+    "patterns": "Hình dạng của nem chua rán là gì?",
+    "responses": "Nem chua rán có hình trụ ngắn, màu hồng nhạt của thịt lên men, khi rán lên có màu vàng cánh gián hấp dẫn. Lớp vỏ bên ngoài giòn rụm, bên trong mềm mọng."
+  },
+  {
+    "intent": "huong_vi_nem_chua_ran",
+    "patterns": "Món nem chua rán có hương vị gì?",
+    "responses": "Nem chua rán có vị chua nhẹ đặc trưng của nem lên men, cay cay của ớt, thơm của tỏi và thính, bên ngoài giòn rụm, bên trong dai mềm. Rất cuốn hút."
+  },
+  {
+    "intent": "nguyen_lieu_nom_hoa_chuoi",
+    "patterns": "Những thứ cần để làm nộm hoa chuối là gì?",
+    "responses": "Nộm hoa chuối cần hoa chuối thái mỏng, tai heo luộc chín, đậu phộng rang, rau thơm, và nước trộn gỏi chua ngọt."
+  },
+  {
+    "intent": "cach_lam_nom_hoa_chuoi",
+    "patterns": "Làm thế nào để trộn nộm hoa chuối?",
+    "responses": "Để làm nộm hoa chuối, bạn thái mỏng hoa chuối ngâm nước chanh để không bị thâm. Trộn đều hoa chuối với tai heo thái sợi, rau thơm, nước mắm chua ngọt, sau đó rắc đậu phộng rang lên trên."
+  },
+  {
+    "intent": "mo_ta_nom_hoa_chuoi",
+    "patterns": "Món nộm hoa chuối trông ra sao?",
+    "responses": "Nộm hoa chuối có màu trắng ngà của hoa chuối, điểm xuyết màu xanh của rau thơm và màu đỏ của ớt. Món ăn tươi mát, hấp dẫn với các thành phần được trộn đều."
+  },
+  {
+    "intent": "huong_vi_nom_hoa_chuoi",
+    "patterns": "Nộm hoa chuối có vị gì?",
+    "responses": "Nộm hoa chuối có vị giòn sần sật của hoa chuối, bùi của tai heo, thơm của rau thơm và vị chua cay mặn ngọt hài hòa của nước trộn gỏi."
+  },
+  {
+    "intent": "nguyen_lieu_goi_ga_bap_cai",
+    "patterns": "Gỏi gà bắp cải cần những gì để chế biến?",
+    "responses": "Gỏi gà bắp cải bao gồm thịt gà luộc xé phay, bắp cải thái sợi, cà rốt, hành tây, rau răm, đậu phộng rang và nước trộn gỏi."
+  },
+  {
+    "intent": "cach_lam_goi_ga_bap_cai",
+    "patterns": "Xin hướng dẫn làm gỏi gà bắp cải?",
+    "responses": "Bạn luộc chín gà, xé phay. Bắp cải, cà rốt thái sợi. Trộn tất cả với nước trộn gỏi chua ngọt. Để món ăn thấm vị, rắc thêm đậu phộng rang và rau răm thái nhỏ."
+  },
+  {
+    "intent": "mo_ta_goi_ga_bap_cai",
+    "patterns": "Hãy mô tả hình thức của gỏi gà bắp cải.",
+    "responses": "Gỏi gà bắp cải có màu sắc tươi sáng với màu trắng của bắp cải và thịt gà, màu cam của cà rốt, và màu xanh của rau thơm. Món ăn trình bày đẹp mắt, hấp dẫn."
+  },
+  {
+    "intent": "huong_vi_goi_ga_bap_cai",
+    "patterns": "Gỏi gà bắp cải có hương vị đặc trưng nào?",
+    "responses": "Gỏi gà bắp cải có vị giòn ngọt của rau, dai mềm của thịt gà, béo bùi của đậu phộng, và vị chua cay mặn ngọt hài hòa của nước trộn gỏi. Rất thanh mát và kích thích vị giác."
+  },
+  {
+    "intent": "nguyen_lieu_goi_tom_thit",
+    "patterns": "Cần những gì để làm gỏi tôm thịt?",
+    "responses": "Gỏi tôm thịt cần tôm tươi, thịt ba chỉ luộc, bún tàu, dưa chuột, hành tây, cà rốt, rau thơm, và nước trộn gỏi chua ngọt."
+  },
+  {
+    "intent": "cach_lam_goi_tom_thit",
+    "patterns": "Cách làm gỏi tôm thịt ra sao?",
+    "responses": "Luộc tôm và thịt ba chỉ. Thái mỏng các loại rau củ. Trộn đều tôm, thịt, rau củ với nước mắm chua ngọt. Sau đó, bày ra đĩa và rắc thêm đậu phộng rang."
+  },
+  {
+    "intent": "mo_ta_goi_tom_thit",
+    "patterns": "Gỏi tôm thịt trông như thế nào?",
+    "responses": "Gỏi tôm thịt có màu sắc phong phú: đỏ của tôm, hồng của thịt, xanh của rau, trắng của bún tàu. Món ăn trông tươi ngon, hấp dẫn và đầy màu sắc."
+  },
+  {
+    "intent": "huong_vi_goi_tom_thit",
+    "patterns": "Mùi vị của gỏi tôm thịt là gì?",
+    "responses": "Gỏi tôm thịt có vị tươi ngọt của tôm, béo ngậy của thịt, giòn mát của rau củ và vị chua cay mặn ngọt đậm đà của nước trộn gỏi. Món này rất ngon miệng và dễ ăn."
+  },
+
+  {
+    "intent": "nguyen_lieu_suon_nuong",
+    "patterns": "Suất sườn nướng cần những nguyên liệu gì?",
+    "responses": "Sườn nướng thường được làm từ sườn non heo, ướp với gia vị như sả, tỏi, ớt, ngũ vị hương, mật ong và dầu hào."
+  },
+  {
+    "intent": "cach_lam_suon_nuong",
+    "patterns": "Làm thế nào để nướng sườn ngon?",
+    "responses": "Bạn ướp sườn với các loại gia vị, để thấm khoảng vài tiếng hoặc qua đêm. Sau đó, đem sườn nướng trên than hoa hoặc trong lò nướng cho đến khi vàng đều và chín mềm. Trong quá trình nướng, bạn có thể phết thêm nước ướp để sườn không bị khô."
+  },
+  {
+    "intent": "mo_ta_suon_nuong",
+    "patterns": "Mô tả hình ảnh của món sườn nướng.",
+    "responses": "Sườn nướng có màu vàng óng hoặc nâu cánh gián hấp dẫn, bề mặt hơi cháy xém nhẹ. Miếng sườn trông bóng bẩy, thơm lừng và kích thích vị giác."
+  },
+  {
+    "intent": "huong_vi_suon_nuong",
+    "patterns": "Hương vị của món sườn nướng ra sao?",
+    "responses": "Sườn nướng có vị ngọt mặn hài hòa, đậm đà gia vị, thơm mùi sả tỏi và ngũ vị hương. Thịt mềm, mọng nước, có lớp vỏ ngoài hơi giòn. Rất thơm ngon và dễ gây nghiện."
+  },
+  {
+    "intent": "nguyen_lieu_ga_nuong_muoi_ot",
+    "patterns": "Gà nướng muối ớt cần những thứ gì?",
+    "responses": "Gà nướng muối ớt cần gà nguyên con hoặc đùi/cánh gà, ướp với muối, ớt tươi, tỏi, sả, dầu ăn và một chút đường."
+  },
+  {
+    "intent": "cach_lam_ga_nuong_muoi_ot",
+    "patterns": "Cách làm gà nướng muối ớt thế nào?",
+    "responses": "Bạn làm sạch gà, ướp kỹ với hỗn hợp muối ớt đã chuẩn bị. Để gà thấm gia vị trong vài giờ. Sau đó, đem nướng trên than hồng hoặc trong lò nướng đến khi gà chín vàng đều, da giòn và thơm lừng."
+  },
+  {
+    "intent": "mo_ta_ga_nuong_muoi_ot",
+    "patterns": "Gà nướng muối ớt trông như thế nào?",
+    "responses": "Gà nướng muối ớt có màu vàng nâu óng ả, lớp da giòn rụm và có thể nhìn thấy những hạt muối ớt bám trên bề mặt. Món ăn trông rất hấp dẫn và dậy mùi thơm."
+  },
+  {
+    "intent": "huong_vi_ga_nuong_muoi_ot",
+    "patterns": "Món gà nướng muối ớt có vị gì?",
+    "responses": "Gà nướng muối ớt có vị mặn mà của muối, cay nồng của ớt, thơm của sả tỏi. Thịt gà mềm, ngọt nước, da giòn. Hương vị đậm đà, kích thích vị giác."
+  },
+  {
+    "intent": "nguyen_lieu_ca_nuong_giay_bac",
+    "patterns": "Cần những nguyên liệu gì để nướng cá bằng giấy bạc?",
+    "responses": "Cá nướng giấy bạc cần cá tươi (như cá lóc, cá diêu hồng), các loại rau thơm (thì là, hành lá), cà chua, hành tây, gừng, và gia vị ướp."
+  },
+  {
+    "intent": "cach_lam_ca_nuong_giay_bac",
+    "patterns": "Chế biến cá nướng giấy bạc như thế nào?",
+    "responses": "Làm sạch cá, ướp gia vị. Nhồi rau củ và gừng vào bụng cá. Gói cá thật kín trong giấy bạc rồi đem nướng trên than hoặc trong lò đến khi cá chín mềm, thơm lừng."
+  },
+  {
+    "intent": "mo_ta_ca_nuong_giay_bac",
+    "patterns": "Mô tả hình dáng của món cá nướng giấy bạc.",
+    "responses": "Cá nướng giấy bạc khi dọn ra còn nguyên bọc giấy bạc, giữ được hơi nóng và hương thơm. Khi mở ra, cá có màu trắng ngà, rau củ mềm mọng, nước sốt trong veo, hấp dẫn."
+  },
+  {
+    "intent": "huong_vi_ca_nuong_giay_bac",
+    "patterns": "Cá nướng giấy bạc có vị gì?",
+    "responses": "Cá nướng giấy bạc có vị ngọt tự nhiên của cá, thơm mùi gừng và rau thơm, thịt cá mềm, không bị khô. Nước sốt đậm đà, rất vừa miệng."
+  },
+  {
+    "intent": "nguyen_lieu_muc_nuong_sa_te",
+    "patterns": "Mực nướng sa tế cần nguyên liệu gì?",
+    "responses": "Mực nướng sa tế cần mực tươi, sa tế tôm, sả băm, tỏi băm, ớt, dầu ăn và một chút đường."
+  },
+  {
+    "intent": "cach_lam_muc_nuong_sa_te",
+    "patterns": "Cách làm mực nướng sa tế?",
+    "responses": "Bạn làm sạch mực, khứa vảy rồng (nếu muốn). Ướp mực với sa tế, sả băm, tỏi và gia vị. Để mực thấm. Sau đó, đem nướng nhanh trên than hoa hoặc vỉ nướng cho đến khi mực chín tới, săn lại và thơm nức."
+  },
+  {
+    "intent": "mo_ta_muc_nuong_sa_te",
+    "patterns": "Món mực nướng sa tế trông như thế nào?",
+    "responses": "Mực nướng sa tế có màu cam đỏ hấp dẫn của sa tế, bề mặt hơi cháy xém và thơm lừng. Các miếng mực có thể được khứa vảy rồng, trông rất đẹp mắt."
+  },
+  {
+    "intent": "huong_vi_muc_nuong_sa_te",
+    "patterns": "Mực nướng sa tế có hương vị gì?",
+    "responses": "Mực nướng sa tế có vị cay nồng của sa tế, thơm của sả tỏi, thịt mực dai giòn sần sật và ngọt tự nhiên. Hương vị đậm đà, rất kích thích vị giác."
+  },
+  {
+    "intent": "nguyen_lieu_thit_ba_chi_nuong",
+    "patterns": "Thịt ba chỉ nướng cần những gì để làm?",
+    "responses": "Thịt ba chỉ nướng cần thịt ba chỉ tươi, ướp với hành, tỏi, sả, ngũ vị hương, dầu hào, mật ong và một chút rượu Mai Quế Lộ (tùy chọn)."
+  },
+  {
+    "intent": "cach_lam_thit_ba_chi_nuong",
+    "patterns": "Làm thế nào để nướng thịt ba chỉ?",
+    "responses": "Thái thịt ba chỉ thành miếng vừa ăn. Ướp kỹ với gia vị đã chuẩn bị, để thấm ít nhất 30 phút. Nướng thịt trên bếp than hoặc lò nướng cho đến khi thịt chín vàng, bì giòn và mỡ chảy ra bớt. Lật đều tay để thịt chín đều."
+  },
+  {
+    "intent": "mo_ta_thit_ba_chi_nuong",
+    "patterns": "Mô tả hình dáng của món thịt ba chỉ nướng.",
+    "responses": "Thịt ba chỉ nướng có màu vàng nâu hấp dẫn, lớp bì có thể giòn rụm và bóng. Các miếng thịt xếp đều, thơm lừng và kích thích vị giác."
+  },
+  {
+    "intent": "huong_vi_thit_ba_chi_nuong",
+    "patterns": "Hương vị của thịt ba chỉ nướng là gì?",
+    "responses": "Thịt ba chỉ nướng có vị ngọt mặn đậm đà, thơm lừng mùi gia vị ướp. Lớp mỡ béo ngậy tan chảy, hòa quyện với thịt mềm và lớp bì giòn. Rất thơm ngon và đậm đà."
+  },
+
+  {
+    "intent": "nguyen_lieu_lau_hai_san",
+    "patterns": "Các nguyên liệu chính của lẩu hải sản gồm những gì?",
+    "responses": "Lẩu hải sản cần các loại hải sản tươi sống như tôm, mực, ngao, cá, cùng với rau nấm, đậu phụ và nước lẩu được nấu từ xương hoặc nước dùng hải sản."
+  },
+  {
+    "intent": "cach_lam_lau_hai_san",
+    "patterns": "Hướng dẫn nấu lẩu hải sản?",
+    "responses": "Bạn làm sạch hải sản và rau nấm. Nấu nước lẩu với các gia vị chua cay như sả, ớt, gừng, me. Khi ăn, nhúng hải sản, rau và đậu vào nước lẩu đang sôi cho chín tới."
+  },
+  {
+    "intent": "mo_ta_lau_hai_san",
+    "patterns": "Món lẩu hải sản trông như thế nào?",
+    "responses": "Nồi lẩu hải sản sôi sùng sục, bốc khói nghi ngút, với màu đỏ của tôm, trắng của mực, xanh của rau. Món ăn trông rất hấp dẫn và nóng hổi, mời gọi."
+  },
+  {
+    "intent": "huong_vi_lau_hai_san",
+    "patterns": "Vị của lẩu hải sản có đặc điểm gì?",
+    "responses": "Lẩu hải sản có vị chua cay đậm đà, ngọt thanh của hải sản tươi. Nước lẩu thơm mùi sả, gừng, ớt. Rất kích thích vị giác và ấm bụng."
+  },
+  {
+    "intent": "nguyen_lieu_lau_ga_la_e",
+    "patterns": "Cần những gì để nấu lẩu gà lá é?",
+    "responses": "Lẩu gà lá é cần thịt gà ta, lá é tươi, măng tươi (hoặc khô), nấm, bún và nước dùng gà."
+  },
+  {
+    "intent": "cach_lam_lau_ga_la_e",
+    "patterns": "Cách nấu lẩu gà lá é?",
+    "responses": "Bạn chặt gà thành miếng vừa ăn, ướp gia vị. Nấu nước dùng gà, cho măng, nấm vào. Khi nước sôi, cho gà vào. Cuối cùng, nhúng lá é tươi vào và thưởng thức với bún."
+  },
+  {
+    "intent": "mo_ta_lau_ga_la_e",
+    "patterns": "Mô tả nồi lẩu gà lá é.",
+    "responses": "Nồi lẩu gà lá é có màu nước dùng trong, nổi bật màu xanh của lá é và miếng gà vàng óng. Món ăn trông dân dã nhưng rất hấp dẫn và thơm lừng."
+  },
+  {
+    "intent": "huong_vi_lau_ga_la_e",
+    "patterns": "Hương vị của lẩu gà lá é là gì?",
+    "responses": "Lẩu gà lá é có vị ngọt tự nhiên của gà, thơm đặc trưng của lá é, hơi cay the. Nước lẩu thanh mát, đậm đà, rất dễ chịu và lạ miệng."
+  },
+  {
+    "intent": "nguyen_lieu_lau_rieu_cua_bap_bo",
+    "patterns": "Nguyên liệu chính của lẩu riêu cua bắp bò?",
+    "responses": "Lẩu riêu cua bắp bò cần riêu cua đồng, bắp bò thái mỏng, đậu phụ chiên, chả cốm, cà chua, hành lá, và nước dùng xương."
+  },
+  {
+    "intent": "cach_lam_lau_rieu_cua_bap_bo",
+    "patterns": "Chế biến lẩu riêu cua bắp bò như thế nào?",
+    "responses": "Bạn phi thơm hành, cà chua, cho gạch cua và riêu cua vào xào. Nấu nước dùng xương, nêm gia vị, cho riêu cua, đậu phụ, chả cốm vào. Khi ăn, nhúng bắp bò vào nước lẩu sôi."
+  },
+  {
+    "intent": "mo_ta_lau_rieu_cua_bap_bo",
+    "patterns": "Món lẩu riêu cua bắp bò trông ra sao?",
+    "responses": "Nồi lẩu riêu cua bắp bò có màu đỏ cam của cà chua và riêu cua, điểm xuyết màu xanh của hành lá và màu vàng của đậu phụ. Món ăn trông rất đầy đặn, hấp dẫn và dậy mùi thơm."
+  },
+  {
+    "intent": "huong_vi_lau_rieu_cua_bap_bo",
+    "patterns": "Mùi vị của lẩu riêu cua bắp bò là gì?",
+    "responses": "Lẩu riêu cua bắp bò có vị chua thanh của cà chua, ngọt đậm của cua đồng, béo ngậy của riêu và thịt bò mềm. Nước lẩu đậm đà, rất tròn vị và hấp dẫn."
+  },
+  {
+    "intent": "nguyen_lieu_lau_thai",
+    "patterns": "Các thứ cần có để nấu lẩu Thái?",
+    "responses": "Lẩu Thái cần hải sản (tôm, mực), thịt bò, nấm, rau củ, bún hoặc mì. Nước lẩu đặc trưng với sả, riềng, lá chanh, ớt, nước cốt dừa và sốt Tom Yum."
+  },
+  {
+    "intent": "cach_lam_lau_thai",
+    "patterns": "Làm thế nào để nấu lẩu Thái?",
+    "responses": "Bạn làm sạch các nguyên liệu. Nấu nước dùng với sả, riềng, lá chanh, ớt, sau đó cho sốt Tom Yum và nước cốt dừa vào để tạo hương vị đặc trưng. Khi ăn, nhúng hải sản, thịt, rau nấm vào nước lẩu sôi."
+  },
+  {
+    "intent": "mo_ta_lau_thai",
+    "patterns": "Món lẩu Thái trông như thế nào?",
+    "responses": "Nồi lẩu Thái có màu đỏ cam đặc trưng, bốc khói thơm lừng. Các loại rau củ và hải sản được bày biện đẹp mắt xung quanh, tạo nên một bữa ăn thịnh soạn."
+  },
+  {
+    "intent": "huong_vi_lau_thai",
+    "patterns": "Hương vị của lẩu Thái là gì?",
+    "responses": "Lẩu Thái có vị chua cay đậm đà đặc trưng, thơm mùi sả, riềng, lá chanh, và béo nhẹ của nước cốt dừa. Hương vị rất nồng nàn và kích thích vị giác."
+  },
+  {
+    "intent": "nguyen_lieu_lau_chay",
+    "patterns": "Lẩu chay cần những nguyên liệu gì?",
+    "responses": "Lẩu chay cần nấm các loại, đậu phụ, rau củ quả tươi (cải thảo, cà rốt, củ cải trắng), váng đậu, và nước dùng rau củ."
+  },
+  {
+    "intent": "cach_lam_lau_chay",
+    "patterns": "Cách làm lẩu chay?",
+    "responses": "Bạn hầm rau củ để lấy nước dùng ngọt thanh. Phi thơm hành boa-rô, cho cà chua vào xào rồi đổ vào nước dùng. Nêm nếm gia vị chay. Khi ăn, nhúng nấm, đậu phụ, và rau củ vào nồi lẩu đang sôi."
+  },
+  {
+    "intent": "mo_ta_lau_chay",
+    "patterns": "Món lẩu chay trông như thế nào?",
+    "responses": "Nồi lẩu chay có màu nước dùng trong hoặc hơi vàng nhạt, các loại nấm và rau củ tươi xanh được bày biện đẹp mắt. Món ăn trông thanh đạm nhưng rất hấp dẫn."
+  },
+  {
+    "intent": "huong_vi_lau_chay",
+    "patterns": "Lẩu chay có vị gì?",
+    "responses": "Lẩu chay có vị ngọt thanh tự nhiên từ rau củ, thơm nhẹ của nấm và đậu phụ. Nước lẩu trong, dễ ăn và rất tốt cho sức khỏe."
+  },
+
+  {
+    "intent": "nguyen_lieu_muc_xao_sa_ot",
+    "patterns": "Mực xào sả ớt cần những thành phần gì?",
+    "responses": "Mực xào sả ớt cần mực tươi, sả băm, ớt tươi, tỏi băm, hành tây, và các loại gia vị cơ bản như nước mắm, đường, dầu ăn."
+  },
+  {
+    "intent": "cach_lam_muc_xao_sa_ot",
+    "patterns": "Làm thế nào để xào mực sả ớt?",
+    "responses": "Bạn làm sạch mực, thái miếng vừa ăn. Phi thơm sả, tỏi, ớt băm, cho mực vào xào nhanh tay trên lửa lớn. Nêm nếm gia vị cho vừa ăn. Thêm hành tây thái múi cau vào đảo đều rồi tắt bếp."
+  },
+  {
+    "intent": "mo_ta_muc_xao_sa_ot",
+    "patterns": "Món mực xào sả ớt trông như thế nào?",
+    "responses": "Mực xào sả ớt có màu trắng ngà của mực, điểm xuyết màu xanh của sả và đỏ của ớt. Món ăn trông rất hấp dẫn, bóng bẩy và dậy mùi thơm đặc trưng."
+  },
+  {
+    "intent": "huong_vi_muc_xao_sa_ot",
+    "patterns": "Hương vị của mực xào sả ớt là gì?",
+    "responses": "Mực xào sả ớt có vị cay nồng của ớt, thơm lừng của sả tỏi, thịt mực dai giòn sần sật và thấm vị. Món ăn rất đậm đà và kích thích vị giác."
+  },
+  {
+    "intent": "nguyen_lieu_thit_bo_xao_luc_lac",
+    "patterns": "Thịt bò xào lúc lắc cần nguyên liệu gì?",
+    "responses": "Thịt bò xào lúc lắc cần thịt bò thăn thái vuông, hành tây, ớt chuông ba màu, tỏi, và gia vị ướp (dầu hào, hạt nêm, tiêu)."
+  },
+  {
+    "intent": "cach_lam_thit_bo_xao_luc_lac",
+    "patterns": "Bạn có thể hướng dẫn làm bò lúc lắc không?",
+    "responses": "Bạn ướp thịt bò với gia vị, dầu hào. Phi thơm tỏi, cho thịt bò vào xào nhanh trên lửa lớn cho săn lại rồi trút ra. Tiếp tục xào hành tây và ớt chuông, sau đó cho thịt bò vào đảo đều, nêm nếm lại cho vừa ăn."
+  },
+  {
+    "intent": "mo_ta_thit_bo_xao_luc_lac",
+    "patterns": "Mô tả món thịt bò xào lúc lắc.",
+    "responses": "Thịt bò xào lúc lắc có màu nâu sẫm của thịt bò, kết hợp với màu sắc tươi sáng của ớt chuông (đỏ, vàng, xanh) và hành tây. Món ăn trông rất hấp dẫn và bắt mắt."
+  },
+  {
+    "intent": "huong_vi_thit_bo_xao_luc_lac",
+    "patterns": "Vị của thịt bò xào lúc lắc như thế nào?",
+    "responses": "Thịt bò xào lúc lắc có vị ngọt mềm của thịt bò, giòn ngọt của rau củ, thơm lừng mùi tỏi và đậm đà gia vị. Món ăn rất hài hòa và dễ ăn."
+  },
+  {
+    "intent": "nguyen_lieu_com_chien_duong_chau",
+    "patterns": "Cơm chiên Dương Châu cần những nguyên liệu nào?",
+    "responses": "Cơm chiên Dương Châu cần cơm nguội, trứng gà, lạp xưởng, chả lụa, tôm khô, hạt sen, cà rốt, đậu Hà Lan, và hành lá."
+  },
+  {
+    "intent": "cach_lam_com_chien_duong_chau",
+    "patterns": "Cách làm món cơm chiên Dương Châu?",
+    "responses": "Bạn đánh trứng với cơm. Phi thơm tỏi, cho lạp xưởng, chả lụa, tôm khô vào xào thơm. Tiếp theo cho cà rốt, đậu Hà Lan, hạt sen vào. Cuối cùng, cho cơm vào đảo đều trên lửa lớn, nêm nếm gia vị và rắc hành lá thái nhỏ."
+  },
+  {
+    "intent": "mo_ta_com_chien_duong_chau",
+    "patterns": "Mô tả đĩa cơm chiên Dương Châu.",
+    "responses": "Đĩa cơm chiên Dương Châu có màu vàng óng của cơm và trứng, điểm xuyết màu hồng của lạp xưởng, xanh của đậu Hà Lan, cam của cà rốt. Món ăn trông rất bắt mắt, tơi xốp và hấp dẫn."
+  },
+  {
+    "intent": "huong_vi_com_chien_duong_chau",
+    "patterns": "Cơm chiên Dương Châu có vị gì?",
+    "responses": "Cơm chiên Dương Châu có vị thơm béo của trứng, ngọt mặn đậm đà của các loại topping, cơm tơi xốp và thấm vị. Mùi vị tổng hòa rất hài hòa và hấp dẫn."
+  },
+  {
+    "intent": "nguyen_lieu_rau_muong_xao_toi",
+    "patterns": "Để làm rau muống xào tỏi cần những thứ gì?",
+    "responses": "Rau muống xào tỏi cần rau muống tươi, tỏi băm, dầu ăn, và gia vị cơ bản như nước mắm, đường, bột ngọt."
+  },
+  {
+    "intent": "cach_lam_rau_muong_xao_toi",
+    "patterns": "Chế biến rau muống xào tỏi như thế nào?",
+    "responses": "Bạn nhặt sạch rau muống, luộc sơ qua nước sôi rồi vớt ra để ráo. Phi thơm tỏi băm, cho rau muống vào xào nhanh trên lửa lớn, nêm nếm gia vị vừa ăn. Đảo đều rồi tắt bếp."
+  },
+  {
+    "intent": "mo_ta_rau_muong_xao_toi",
+    "patterns": "Rau muống xào tỏi trông ra sao?",
+    "responses": "Đĩa rau muống xào tỏi có màu xanh tươi của rau, điểm xuyết những miếng tỏi phi vàng thơm. Món ăn trông đơn giản nhưng hấp dẫn và mời gọi."
+  },
+  {
+    "intent": "huong_vi_rau_muong_xao_toi",
+    "patterns": "Vị của rau muống xào tỏi là gì?",
+    "responses": "Rau muống xào tỏi có vị giòn ngọt tự nhiên của rau, thơm nồng của tỏi phi và đậm đà gia vị. Món ăn thanh đạm, dễ ăn và rất đưa cơm."
+  },
+  {
+    "intent": "nguyen_lieu_mi_xao_bo",
+    "patterns": "Mì xào bò cần nguyên liệu gì?",
+    "responses": "Mì xào bò cần mì trứng hoặc mì gói, thịt bò thái lát mỏng, cải ngọt, cà rốt, hành tây, và gia vị ướp thịt, sốt xào."
+  },
+  {
+    "intent": "cach_lam_mi_xao_bo",
+    "patterns": "Bạn có thể hướng dẫn làm mì xào bò không?",
+    "responses": "Bạn luộc mì chín tới, xả nước lạnh cho tơi. Ướp thịt bò. Xào thịt bò nhanh tay rồi trút ra. Phi thơm tỏi, xào rau củ, sau đó cho mì và thịt bò vào đảo đều, nêm nếm sốt xào cho vừa miệng."
+  },
+  {
+    "intent": "mo_ta_mi_xao_bo",
+    "patterns": "Mô tả đĩa mì xào bò.",
+    "responses": "Đĩa mì xào bò có màu vàng óng của mì, màu nâu của thịt bò, và màu xanh tươi của cải ngọt. Món ăn trông rất hấp dẫn, đầy đặn và thơm lừng."
+  },
+  {
+    "intent": "huong_vi_mi_xao_bo",
+    "patterns": "Mì xào bò có hương vị gì?",
+    "responses": "Mì xào bò có vị dai của mì, ngọt mềm của thịt bò, giòn ngọt của rau củ và đậm đà sốt xào. Hương vị tổng hòa rất hài hòa và hấp dẫn."
+  },
+
+  {
+    "intent": "nguyen_lieu_ca_tai_tuong_chien_xu",
+    "patterns": "Cần những thành phần gì để chiên cá tai tượng?",
+    "responses": "Cá tai tượng chiên xù cần cá tai tượng tươi, bột chiên giòn, trứng gà, bột chiên xù, và dầu ăn."
+  },
+  {
+    "intent": "cach_lam_ca_tai_tuong_chien_xu",
+    "patterns": "Làm thế nào để chiên cá tai tượng giòn?",
+    "responses": "Bạn làm sạch cá, khứa vảy rồng. Lăn cá lần lượt qua bột chiên giòn, trứng đánh tan và bột chiên xù. Sau đó, chiên cá trong chảo dầu nóng ngập dầu cho đến khi vàng giòn và chín đều."
+  },
+  {
+    "intent": "mo_ta_ca_tai_tuong_chien_xu",
+    "patterns": "Món cá tai tượng chiên xù trông như thế nào?",
+    "responses": "Cá tai tượng chiên xù được chiên vàng ruộm, lớp vảy xù ra trông rất đẹp mắt và hấp dẫn. Món ăn thường được bày nguyên con trên đĩa, có thể kèm theo rau sống."
+  },
+  {
+    "intent": "huong_vi_ca_tai_tuong_chien_xu",
+    "patterns": "Vị của cá tai tượng chiên xù là gì?",
+    "responses": "Cá tai tượng chiên xù có lớp vỏ ngoài giòn rụm, thịt cá bên trong mềm ngọt tự nhiên. Khi chấm nước mắm chua ngọt, hương vị càng thêm đậm đà và cuốn hút."
+  },
+  {
+    "intent": "nguyen_lieu_tom_chien_bot",
+    "patterns": "Tôm chiên bột cần những gì để chế biến?",
+    "responses": "Tôm chiên bột cần tôm tươi, bột mì, bột năng, trứng gà, nước có ga (hoặc bia) để làm bột, và dầu ăn."
+  },
+  {
+    "intent": "cach_lam_tom_chien_bot",
+    "patterns": "Cách làm tôm chiên bột ra sao?",
+    "responses": "Bạn bóc vỏ tôm, bỏ chỉ đen, giữ lại phần đuôi. Pha bột chiên với nước/bia và trứng. Nhúng tôm vào bột rồi chiên trong chảo dầu nóng cho đến khi tôm vàng giòn."
+  },
+  {
+    "intent": "mo_ta_tom_chien_bot",
+    "patterns": "Mô tả hình thức của tôm chiên bột.",
+    "responses": "Tôm chiên bột có màu vàng óng đẹp mắt, lớp vỏ bột bên ngoài giòn xốp, ôm trọn thân tôm cong cong. Món ăn trông rất hấp dẫn và mời gọi."
+  },
+  {
+    "intent": "huong_vi_tom_chien_bot",
+    "patterns": "Tôm chiên bột có hương vị đặc trưng nào?",
+    "responses": "Tôm chiên bột có vị ngọt tự nhiên của tôm tươi, lớp vỏ bột bên ngoài giòn tan, béo ngậy. Khi chấm tương ớt hoặc sốt mayonnaise, hương vị càng thêm hấp dẫn."
+  },
+  {
+    "intent": "nguyen_lieu_cha_gio",
+    "patterns": "Chả giò (nem rán) cần những nguyên liệu nào?",
+    "responses": "Chả giò (nem rán) cần thịt nạc vai xay, tôm tươi băm nhỏ, miến dong, mộc nhĩ, nấm hương, trứng gà, hành tây, khoai môn (hoặc khoai tây), và bánh đa nem."
+  },
+  {
+    "intent": "cach_lam_cha_gio",
+    "patterns": "Chế biến chả giò như thế nào?",
+    "responses": "Bạn trộn đều các nguyên liệu làm nhân với gia vị. Trải bánh đa nem, cho nhân vào cuốn chặt tay. Chiên chả giò trong chảo dầu nóng ngập dầu cho đến khi vàng giòn đều."
+  },
+  {
+    "intent": "mo_ta_cha_gio",
+    "patterns": "Mô tả hình dáng của món chả giò.",
+    "responses": "Chả giò có hình trụ dài hoặc tròn, màu vàng cánh gián đẹp mắt sau khi chiên. Lớp vỏ bên ngoài giòn rụm, bên trong nhân đầy đặn và thơm lừng."
+  },
+  {
+    "intent": "huong_vi_cha_gio",
+    "patterns": "Chả giò có vị gì?",
+    "responses": "Chả giò có vị giòn rụm của vỏ nem, nhân bên trong đậm đà, thơm mùi nấm hương, mộc nhĩ và bùi bùi của tôm thịt. Khi chấm nước mắm chua ngọt thì càng thêm hấp dẫn."
+  },
+  {
+    "intent": "nguyen_lieu_khoai_tay_chien",
+    "patterns": "Khoai tây chiên cần những gì để làm?",
+    "responses": "Khoai tây chiên chỉ cần khoai tây tươi, dầu ăn, và một chút muối."
+  },
+  {
+    "intent": "cach_lam_khoai_tay_chien",
+    "patterns": "Làm thế nào để chiên khoai tây?",
+    "responses": "Bạn gọt vỏ khoai tây, thái thành thanh dài hoặc hình que. Ngâm khoai tây trong nước muối loãng cho bớt nhựa, sau đó vớt ra để ráo và thấm khô. Chiên khoai tây trong dầu nóng đến khi vàng giòn. Vớt ra, rắc muối và thưởng thức."
+  },
+  {
+    "intent": "mo_ta_khoai_tay_chien",
+    "patterns": "Mô tả đĩa khoai tây chiên.",
+    "responses": "Đĩa khoai tây chiên có màu vàng ươm, giòn rụm, được rắc chút muối tinh. Các thanh khoai tây đều nhau, trông rất bắt mắt và hấp dẫn."
+  },
+  {
+    "intent": "huong_vi_khoai_tay_chien",
+    "patterns": "Mùi vị của khoai tây chiên là gì?",
+    "responses": "Khoai tây chiên có vị bùi của khoai, giòn tan và mặn nhẹ của muối. Món ăn đơn giản nhưng rất hấp dẫn, đặc biệt khi ăn nóng."
+  },
+  {
+    "intent": "nguyen_lieu_dau_phu_chien",
+    "patterns": "Đậu phụ chiên cần những gì?",
+    "responses": "Đậu phụ chiên cần đậu phụ tươi, dầu ăn, và có thể thêm chút bột nghệ để tạo màu."
+  },
+  {
+    "intent": "cach_lam_dau_phu_chien",
+    "patterns": "Cách làm đậu phụ chiên?",
+    "responses": "Bạn cắt đậu phụ thành miếng vừa ăn. Để ráo nước. Đun nóng dầu trong chảo, cho đậu phụ vào chiên vàng đều các mặt. Vớt ra để ráo dầu."
+  },
+  {
+    "intent": "mo_ta_dau_phu_chien",
+    "patterns": "Mô tả miếng đậu phụ chiên.",
+    "responses": "Miếng đậu phụ chiên có màu vàng óng bên ngoài, bên trong trắng mịn. Các miếng đậu được chiên đều, trông rất đơn giản nhưng hấp dẫn."
+  },
+  {
+    "intent": "huong_vi_dau_phu_chien",
+    "patterns": "Hương vị của đậu phụ chiên là gì?",
+    "responses": "Đậu phụ chiên có vị béo ngậy, bên ngoài giòn nhẹ, bên trong mềm mịn. Mùi vị thanh đạm, thường được ăn kèm với nước tương hoặc mắm tôm."
+  },
+
+  {
+    "intent": "nguyen_lieu_canh_chua_ca_loc",
+    "patterns": "Canh chua cá lóc cần những nguyên liệu gì?",
+    "responses": "Canh chua cá lóc cần cá lóc tươi, cà chua, dứa (thơm), đậu bắp, bạc hà (dọc mùng), giá đỗ, rau nêm (ngò gai, rau om), và gia vị chua (me hoặc nước cốt chanh)."
+  },
+  {
+    "intent": "cach_lam_canh_chua_ca_loc",
+    "patterns": "Làm thế nào để nấu canh chua cá lóc?",
+    "responses": "Bạn làm sạch cá, ướp gia vị. Xào cà chua cho ra màu, thêm nước. Khi nước sôi, cho me hoặc nước cốt chanh, dứa vào. Thêm cá, sau đó là các loại rau củ như đậu bắp, bạc hà, giá đỗ. Nêm nếm lại và rắc rau nêm khi tắt bếp."
+  },
+  {
+    "intent": "mo_ta_canh_chua_ca_loc",
+    "patterns": "Món canh chua cá lóc trông như thế nào?",
+    "responses": "Bát canh chua cá lóc có màu đỏ cam của cà chua, xanh của rau, trắng của cá. Các nguyên liệu hòa quyện, trông rất hấp dẫn và nóng hổi."
+  },
+  {
+    "intent": "huong_vi_canh_chua_ca_loc",
+    "patterns": "Hương vị của canh chua cá lóc ra sao?",
+    "responses": "Canh chua cá lóc có vị chua thanh, ngọt nhẹ của cá, cay nồng của ớt, thơm mùi rau nêm. Nước canh trong, rất dễ ăn và kích thích vị giác."
+  },
+  {
+    "intent": "nguyen_lieu_canh_bi_dao_thit_bam",
+    "patterns": "Cần những gì để nấu canh bí đao thịt băm?",
+    "responses": "Canh bí đao thịt băm cần bí đao, thịt heo băm, hành lá, ngò rí, và các gia vị thông thường như muối, đường, hạt nêm."
+  },
+  {
+    "intent": "cach_lam_canh_bi_dao_thit_bam",
+    "patterns": "Bạn có thể chỉ cách nấu canh bí đao thịt băm không?",
+    "responses": "Bạn băm nhỏ thịt heo, ướp gia vị. Bí đao gọt vỏ, thái miếng vừa ăn. Phi thơm hành, cho thịt băm vào xào sơ. Đổ nước vào đun sôi, cho bí đao vào nấu chín mềm. Nêm nếm lại và rắc hành ngò khi tắt bếp."
+  },
+  {
+    "intent": "mo_ta_canh_bi_dao_thit_bam",
+    "patterns": "Món canh bí đao thịt băm trông như thế nào?",
+    "responses": "Bát canh bí đao thịt băm có màu xanh của bí đao, điểm xuyết màu trắng của thịt băm và xanh của hành ngò. Món ăn trông đơn giản, thanh đạm nhưng rất hấp dẫn."
+  },
+  {
+    "intent": "huong_vi_canh_bi_dao_thit_bam",
+    "patterns": "Vị của canh bí đao thịt băm là gì?",
+    "responses": "Canh bí đao thịt băm có vị ngọt mát của bí đao, đậm đà của thịt băm. Nước canh trong, thanh và rất dễ ăn, thích hợp cho bữa cơm gia đình."
+  },
+  {
+    "intent": "nguyen_lieu_canh_kho_qua_nhoi_thit",
+    "patterns": "Nguyên liệu chính của canh khổ qua nhồi thịt?",
+    "responses": "Canh khổ qua nhồi thịt cần khổ qua (mướp đắng), thịt heo băm, mộc nhĩ, nấm hương, bún tàu, hành lá, và gia vị."
+  },
+  {
+    "intent": "cach_lam_canh_kho_qua_nhoi_thit",
+    "patterns": "Cách nấu canh khổ qua nhồi thịt?",
+    "responses": "Bạn nạo ruột khổ qua, nhồi hỗn hợp thịt băm đã trộn với mộc nhĩ, nấm hương, bún tàu vào. Đun sôi nước dùng, cho khổ qua nhồi thịt vào hầm mềm. Nêm nếm lại gia vị cho vừa ăn."
+  },
+  {
+    "intent": "mo_ta_canh_kho_qua_nhoi_thit",
+    "patterns": "Mô tả bát canh khổ qua nhồi thịt.",
+    "responses": "Bát canh khổ qua nhồi thịt có màu xanh đậm của khổ qua, bên trong là phần nhân thịt màu hồng. Nước canh trong, có thể thấy hành lá thái nhỏ nổi lên. Món ăn trông rất hấp dẫn và truyền thống."
+  },
+  {
+    "intent": "huong_vi_canh_kho_qua_nhoi_thit",
+    "patterns": "Hương vị của canh khổ qua nhồi thịt là gì?",
+    "responses": "Canh khổ qua nhồi thịt có vị đắng nhẹ đặc trưng của khổ qua, hòa quyện với vị ngọt đậm đà của nhân thịt. Nước canh thanh mát, rất tốt cho sức khỏe và dễ ăn."
+  },
+  {
+    "intent": "nguyen_lieu_canh_sup_bong_cai_xanh",
+    "patterns": "Cần những gì để nấu súp bông cải xanh?",
+    "responses": "Súp bông cải xanh cần bông cải xanh, hành tây, khoai tây, kem tươi (hoặc sữa tươi), bơ, và gia vị."
+  },
+  {
+    "intent": "cach_lam_canh_sup_bong_cai_xanh",
+    "patterns": "Chế biến súp bông cải xanh như thế nào?",
+    "responses": "Bạn xào hành tây với bơ, cho bông cải xanh và khoai tây vào xào sơ. Thêm nước dùng hoặc nước lọc, đun mềm. Xay nhuyễn hỗn hợp, sau đó cho kem tươi hoặc sữa vào, đun sôi nhẹ và nêm nếm."
+  },
+  {
+    "intent": "mo_ta_canh_sup_bong_cai_xanh",
+    "patterns": "Súp bông cải xanh trông như thế nào?",
+    "responses": "Bát súp bông cải xanh có màu xanh lá cây tươi mát, sánh mịn và béo ngậy. Món ăn trông rất hấp dẫn, tinh tế và thích hợp để khai vị."
+  },
+  {
+    "intent": "huong_vi_canh_sup_bong_cai_xanh",
+    "patterns": "Mùi vị của súp bông cải xanh là gì?",
+    "responses": "Súp bông cải xanh có vị ngọt thanh của rau củ, béo ngậy của kem tươi, và thơm nhẹ mùi bơ. Kết cấu sánh mịn, rất dễ ăn và bổ dưỡng."
+  },
+  {
+    "intent": "nguyen_lieu_canh_ngao_chua",
+    "patterns": "Canh ngao chua cần nguyên liệu gì?",
+    "responses": "Canh ngao chua cần ngao tươi, cà chua, dứa (thơm), me, hành lá, thì là, và gia vị."
+  },
+  {
+    "intent": "cach_lam_canh_ngao_chua",
+    "patterns": "Hướng dẫn nấu canh ngao chua?",
+    "responses": "Bạn rửa sạch ngao, luộc ngao lấy nước. Phi thơm hành, xào cà chua, dứa. Đổ nước luộc ngao vào đun sôi, cho me vào. Nêm nếm gia vị, cho ngao đã tách vỏ vào. Rắc hành lá và thì là khi tắt bếp."
+  },
+  {
+    "intent": "mo_ta_canh_ngao_chua",
+    "patterns": "Mô tả bát canh ngao chua.",
+    "responses": "Bát canh ngao chua có màu đỏ cam của cà chua, trong veo của nước dùng, và nổi bật những con ngao trắng ngà. Món ăn trông rất hấp dẫn và nóng hổi."
+  },
+  {
+    "intent": "huong_vi_canh_ngao_chua",
+    "patterns": "Canh ngao chua có vị gì?",
+    "responses": "Canh ngao chua có vị chua thanh của me, ngọt dịu của ngao, thơm mùi cà chua và thì là. Nước canh trong, rất dễ ăn và giải nhiệt."
+  },
+
+  {
+    "intent": "nguyen_lieu_che_kho",
+    "patterns": "Chè kho cần những gì để chế biến?",
+    "responses": "Chè kho cần đậu xanh cà vỏ, đường, dầu ăn (hoặc mỡ heo), và một chút hương liệu như vani hoặc tinh dầu hoa bưởi."
+  },
+  {
+    "intent": "cach_lam_che_kho",
+    "patterns": "Cách làm chè kho như thế nào?",
+    "responses": "Bạn đồ chín đậu xanh, tán nhuyễn. Trộn đậu xanh với đường và dầu ăn, sau đó sên trên lửa nhỏ cho đến khi chè đặc sánh, mịn màng và không dính nồi. Thêm hương liệu và để nguội."
+  },
+  {
+    "intent": "mo_ta_che_kho",
+    "patterns": "Món chè kho trông ra sao?",
+    "responses": "Chè kho có màu vàng nhạt đặc trưng của đậu xanh, bề mặt mịn màng và có độ bóng nhẹ. Chè được tạo hình thành khối tròn hoặc vuông, trông rất hấp dẫn và tinh tế."
+  },
+  {
+    "intent": "huong_vi_che_kho",
+    "patterns": "Hương vị của chè kho là gì?",
+    "responses": "Chè kho có vị ngọt bùi của đậu xanh, béo ngậy của dầu (hoặc mỡ), và thơm nhẹ mùi vani hoặc hoa bưởi. Kết cấu mềm mịn, tan chảy trong miệng."
+  },
+  {
+    "intent": "nguyen_lieu_banh_flan",
+    "patterns": "Bánh flan cần những nguyên liệu gì?",
+    "responses": "Bánh flan cần trứng gà, sữa tươi không đường, sữa đặc có đường, và đường để làm caramel."
+  },
+  {
+    "intent": "cach_lam_banh_flan",
+    "patterns": "Làm thế nào để làm bánh flan?",
+    "responses": "Bạn thắng đường thành caramel rồi đổ vào khuôn. Đánh tan trứng với sữa tươi và sữa đặc, lọc qua rây cho mịn. Đổ hỗn hợp trứng sữa vào khuôn đã có caramel. Hấp cách thủy hoặc nướng cách thủy cho bánh chín. Để nguội và làm lạnh trước khi ăn."
+  },
+  {
+    "intent": "mo_ta_banh_flan",
+    "patterns": "Mô tả hình dáng của bánh flan.",
+    "responses": "Bánh flan có hình tròn hoặc oval, màu vàng óng đẹp mắt, phía trên là lớp caramel nâu bóng. Bánh trông mịn màng, hấp dẫn và có độ rung rinh."
+  },
+  {
+    "intent": "huong_vi_banh_flan",
+    "patterns": "Bánh flan có vị gì?",
+    "responses": "Bánh flan có vị ngọt béo của sữa, thơm mùi trứng, và vị đắng nhẹ, thanh của caramel. Kết cấu mềm mịn, tan chảy trong miệng, rất dễ chịu."
+  },
+  {
+    "intent": "nguyen_lieu_kem_caramel",
+    "patterns": "Kem caramel cần những thứ gì?",
+    "responses": "Kem caramel cần sữa tươi, kem tươi whipping cream, đường, lòng đỏ trứng gà, và vani."
+  },
+  {
+    "intent": "cach_lam_kem_caramel",
+    "patterns": "Cách làm kem caramel tại nhà?",
+    "responses": "Bạn nấu đường thành caramel. Đun nóng sữa và kem tươi. Đánh tan lòng đỏ trứng với đường, từ từ đổ sữa nóng vào khuấy đều. Cho hỗn hợp lên bếp đun nhỏ lửa cho sánh lại, thêm caramel và vani. Để nguội, cho vào máy làm kem hoặc cấp đông và thỉnh thoảng khuấy đều."
+  },
+  {
+    "intent": "mo_ta_kem_caramel",
+    "patterns": "Mô tả món kem caramel.",
+    "responses": "Kem caramel có màu vàng nhạt hoặc nâu caramel, thường được múc thành viên tròn. Kem trông mịn màng, hấp dẫn và có độ lạnh giá."
+  },
+  {
+    "intent": "huong_vi_kem_caramel",
+    "patterns": "Mùi vị của kem caramel là gì?",
+    "responses": "Kem caramel có vị ngọt béo của kem và sữa, thơm đặc trưng của caramel, và mát lạnh. Hương vị rất lôi cuốn và sảng khoái."
+  },
+  {
+    "intent": "nguyen_lieu_pannacotta",
+    "patterns": "Nguyên liệu chính của pannacotta là gì?",
+    "responses": "Panna cotta cần kem tươi whipping cream, sữa tươi không đường, đường, lá gelatine (hoặc bột gelatine), và vani. Có thể thêm các loại sốt trái cây."
+  },
+  {
+    "intent": "cach_lam_pannacotta",
+    "patterns": "Làm thế nào để làm panna cotta?",
+    "responses": "Bạn ngâm gelatine cho mềm. Đun nóng kem tươi, sữa và đường cho tan. Cho gelatine đã ngâm vào khuấy tan, thêm vani. Đổ hỗn hợp vào khuôn, để nguội và làm lạnh ít nhất 4 tiếng cho đông lại. Khi ăn, úp ra đĩa và rưới sốt trái cây."
+  },
+  {
+    "intent": "mo_ta_pannacotta",
+    "patterns": "Mô tả món panna cotta.",
+    "responses": "Panna cotta có màu trắng ngà hoặc màu kem, bề mặt mịn màng và bóng bẩy. Món ăn thường được trang trí thêm sốt trái cây màu sắc, trông rất tinh tế và đẹp mắt."
+  },
+  {
+    "intent": "huong_vi_pannacotta",
+    "patterns": "Panna cotta có vị gì?",
+    "responses": "Panna cotta có vị ngọt nhẹ, béo ngậy của kem, mềm mịn tan chảy trong miệng. Khi ăn kèm sốt trái cây sẽ có thêm vị chua ngọt thanh mát, rất hài hòa."
+  },
+  {
+    "intent": "nguyen_lieu_tiramisu",
+    "patterns": "Tiramisu cần những nguyên liệu nào?",
+    "responses": "Tiramisu cần phô mai mascarpone, lòng đỏ trứng gà, đường, rượu Marsala (hoặc rượu rum), cà phê espresso, bánh ladyfingers (bánh sampa), và bột cacao."
+  },
+  {
+    "intent": "cach_lam_tiramisu",
+    "patterns": "Cách làm bánh Tiramisu?",
+    "responses": "Bạn đánh lòng đỏ trứng với đường và rượu cho bông. Trộn nhẹ nhàng với mascarpone. Nhúng bánh ladyfingers vào cà phê espresso. Xếp một lớp bánh, một lớp kem vào khuôn, lặp lại. Để lạnh vài giờ cho đông lại. Rắc bột cacao trước khi dùng."
+  },
+  {
+    "intent": "mo_ta_tiramisu",
+    "patterns": "Mô tả hình dáng của Tiramisu.",
+    "responses": "Tiramisu thường có hình vuông hoặc chữ nhật, bề mặt được rắc một lớp bột cacao mịn màng. Khi cắt ra, có thể nhìn thấy các lớp bánh và kem xen kẽ. Món ăn trông rất tinh tế và sang trọng."
+  },
+  {
+    "intent": "huong_vi_tiramisu",
+    "patterns": "Mùi vị của Tiramisu là gì?",
+    "responses": "Tiramisu có vị ngọt nhẹ, béo ngậy của kem mascarpone, thơm nồng của cà phê và rượu, xen lẫn vị đắng nhẹ của cacao. Món bánh rất hài hòa, tinh tế và tan chảy trong miệng."
+  },
+  {
+    "intent": "nguyen_lieu_salad_ Nga",
+    "patterns": "Những thành phần nào cần để làm món salad Nga?",
+    "responses": "Salad Nga thường có khoai tây, cà rốt, thịt nguội hoặc thịt gà luộc, đậu Hà Lan, trứng luộc, và sốt mayonnaise."
+  },
+  {
+    "intent": "cach_lam_salad_Nga",
+    "patterns": "Xin chỉ cách chế biến salad Nga?",
+    "responses": "Bạn luộc chín khoai tây, cà rốt, trứng rồi cắt hạt lựu. Trộn đều với thịt nguội (hoặc gà), đậu Hà Lan và sốt mayonnaise. Nêm nếm gia vị vừa ăn rồi làm lạnh."
+  },
+  {
+    "intent": "mo_ta_salad_Nga",
+    "patterns": "Mô tả hình dáng của món salad Nga.",
+    "responses": "Salad Nga có màu sắc tươi sáng với màu trắng của khoai tây, cam của cà rốt, xanh của đậu, hồng của thịt. Các nguyên liệu được cắt nhỏ và trộn đều, trông rất hấp dẫn."
+  },
+  {
+    "intent": "huong_vi_salad_Nga",
+    "patterns": "Vị của salad Nga như thế nào?",
+    "responses": "Salad Nga có vị bùi của khoai tây, ngọt của cà rốt và đậu, béo ngậy của mayonnaise, cùng với vị đậm đà của thịt. Món ăn thanh mát, dễ chịu."
+  },
+  {
+    "intent": "nguyen_lieu_sup_ga_ngo",
+    "patterns": "Nguyên liệu làm súp gà ngô là gì?",
+    "responses": "Súp gà ngô cần thịt gà xé, hạt ngô tươi hoặc đóng hộp, trứng gà, bột năng (hoặc bột bắp), nấm hương, và hành lá."
+  },
+  {
+    "intent": "cach_lam_sup_ga_ngo",
+    "patterns": "Cách làm súp gà ngô như thế nào?",
+    "responses": "Bạn nấu nước dùng gà, cho thịt gà xé và ngô vào đun. Pha bột năng với nước rồi từ từ cho vào nồi để tạo độ sánh. Cuối cùng, đổ từ từ trứng đánh tan vào, khuấy đều tạo vân và rắc hành lá."
+  },
+  {
+    "intent": "mo_ta_sup_ga_ngo",
+    "patterns": "Mô tả hình dáng của món súp gà ngô.",
+    "responses": "Súp gà ngô có màu vàng nhạt của ngô và trứng, sánh mịn, bốc khói nghi ngút. Món ăn trông hấp dẫn và rất ấm áp."
+  },
+  {
+    "intent": "huong_vi_sup_ga_ngo",
+    "patterns": "Hương vị của súp gà ngô có gì đặc biệt?",
+    "responses": "Súp gà ngô có vị ngọt thanh của gà và ngô, béo nhẹ của trứng, sánh mịn dễ ăn. Rất thích hợp để khai vị, đặc biệt vào những ngày se lạnh."
+  },
+  {
+    "intent": "nguyen_lieu_cha_nem_re",
+    "patterns": "Chả nem rế cần những gì để chế biến?",
+    "responses": "Chả nem rế cần thịt nạc vai, tôm tươi, miến dong, mộc nhĩ, nấm hương, trứng, hành tây, và bánh đa nem rế."
+  },
+  {
+    "intent": "cach_lam_cha_nem_re",
+    "patterns": "Chế biến chả nem rế như thế nào?",
+    "responses": "Bạn trộn đều các nguyên liệu làm nhân. Dùng bánh đa nem rế cuốn nhân thành hình vuông hoặc chữ nhật. Chiên ngập dầu cho đến khi nem vàng giòn, vỏ rế xù đẹp mắt."
+  },
+  {
+    "intent": "mo_ta_cha_nem_re",
+    "patterns": "Hình thức của món chả nem rế trông ra sao?",
+    "responses": "Chả nem rế có hình vuông hoặc chữ nhật, lớp vỏ bên ngoài xù giòn như sợi rơm, màu vàng cánh gián. Món ăn trông rất độc đáo và bắt mắt."
+  },
+  {
+    "intent": "huong_vi_cha_nem_re",
+    "patterns": "Vị của chả nem rế là gì?",
+    "responses": "Chả nem rế có vị giòn tan của vỏ rế, nhân bên trong đậm đà, thơm mùi nấm và bùi bùi của tôm thịt. Ăn kèm nước mắm chua ngọt rất hợp."
+  },
+  {
+    "intent": "nguyen_lieu_nom_dua_chuot",
+    "patterns": "Những thứ cần để làm nộm dưa chuột?",
+    "responses": "Nộm dưa chuột cần dưa chuột tươi, lạc rang, tỏi, ớt, rau thơm (kinh giới, tía tô), và nước trộn nộm chua ngọt."
+  },
+  {
+    "intent": "cach_lam_nom_dua_chuot",
+    "patterns": "Làm thế nào để trộn nộm dưa chuột?",
+    "responses": "Bạn thái dưa chuột thành lát mỏng hoặc sợi, bóp muối nhẹ rồi rửa sạch, vắt ráo nước. Trộn dưa chuột với tỏi, ớt băm, rau thơm và nước trộn nộm chua ngọt. Rắc lạc rang giã dập lên trên."
+  },
+  {
+    "intent": "mo_ta_nom_dua_chuot",
+    "patterns": "Mô tả đĩa nộm dưa chuột.",
+    "responses": "Đĩa nộm dưa chuột có màu xanh tươi của dưa chuột, điểm xuyết màu đỏ của ớt và màu nâu của lạc rang. Món ăn trông thanh mát, đơn giản nhưng hấp dẫn."
+  },
+  {
+    "intent": "huong_vi_nom_dua_chuot",
+    "patterns": "Mùi vị của nộm dưa chuột có gì đặc trưng?",
+    "responses": "Nộm dưa chuột có vị giòn mát của dưa chuột, bùi của lạc rang, và vị chua cay mặn ngọt hài hòa của nước trộn nộm. Món ăn rất thanh đạm và giải ngấy."
+  },
+  {
+    "intent": "nguyen_lieu_goi_buoi",
+    "patterns": "Gỏi bưởi cần những nguyên liệu gì?",
+    "responses": "Gỏi bưởi cần tép bưởi tươi, tôm luộc, tai heo luộc, đậu phộng rang, rau thơm (húng quế, bạc hà), và nước trộn gỏi."
+  },
+  {
+    "intent": "cach_lam_goi_buoi",
+    "patterns": "Hướng dẫn làm gỏi bưởi?",
+    "responses": "Bạn tách tép bưởi, luộc tôm và tai heo thái mỏng. Trộn đều tép bưởi với tôm, tai heo, rau thơm và nước trộn gỏi chua ngọt. Rắc đậu phộng rang lên trên."
+  },
+  {
+    "intent": "mo_ta_goi_buoi",
+    "patterns": "Mô tả hình dáng của món gỏi bưởi.",
+    "responses": "Gỏi bưởi có màu sắc tươi sáng với màu vàng nhạt của bưởi, đỏ của tôm, hồng của tai heo và xanh của rau thơm. Món ăn trông rất tươi mát và đẹp mắt."
+  },
+  {
+    "intent": "huong_vi_goi_buoi",
+    "patterns": "Gỏi bưởi có hương vị gì?",
+    "responses": "Gỏi bưởi có vị chua ngọt thanh mát của bưởi, tươi của tôm, giòn của tai heo, hòa quyện với vị chua cay mặn ngọt của nước trộn gỏi. Món ăn rất độc đáo và kích thích vị giác."
+  },
+  {
+    "intent": "nguyen_lieu_cha_muc_ha_long",
+    "patterns": "Để làm chả mực Hạ Long cần những gì?",
+    "responses": "Chả mực Hạ Long cần mực mai tươi, thì là, hành lá, hạt tiêu xay, và một chút bột năng."
+  },
+  {
+    "intent": "cach_lam_cha_muc_ha_long",
+    "patterns": "Cách chế biến chả mực Hạ Long?",
+    "responses": "Bạn giã hoặc xay mực tươi thô, trộn với thì là, hành lá, tiêu và gia vị. Nặn thành từng miếng dẹt rồi chiên vàng trong dầu nóng đến khi chả mực phồng xốp, thơm lừng."
+  },
+  {
+    "intent": "mo_ta_cha_muc_ha_long",
+    "patterns": "Chả mực Hạ Long trông ra sao?",
+    "responses": "Chả mực Hạ Long có màu vàng nâu, bề mặt hơi sần sùi do được giã tay, các miếng chả có hình tròn hoặc dẹt. Món ăn trông dân dã nhưng rất hấp dẫn và thơm nức."
+  },
+  {
+    "intent": "huong_vi_cha_muc_ha_long",
+    "patterns": "Mùi vị của chả mực Hạ Long là gì?",
+    "responses": "Chả mực Hạ Long có vị ngọt dai tự nhiên của mực tươi, thơm mùi thì là và hạt tiêu, bên ngoài giòn nhẹ, bên trong dai sần sật. Hương vị rất đặc trưng và khó quên."
+  },
+  {
+    "intent": "nguyen_lieu_phong_tom_chien",
+    "patterns": "Phồng tôm chiên cần nguyên liệu gì?",
+    "responses": "Phồng tôm chiên cần bánh phồng tôm khô và dầu ăn để chiên."
+  },
+  {
+    "intent": "cach_lam_phong_tom_chien",
+    "patterns": "Làm thế nào để chiên phồng tôm?",
+    "responses": "Bạn đun nóng dầu ăn trong chảo. Khi dầu đủ nóng (thử với một miếng nhỏ), cho từng miếng bánh phồng tôm vào. Bánh sẽ nở phồng nhanh chóng. Vớt ra ngay khi bánh chuyển màu vàng nhạt và nở đều, để ráo dầu."
+  },
+  {
+    "intent": "mo_ta_phong_tom_chien",
+    "patterns": "Mô tả miếng phồng tôm chiên.",
+    "responses": "Miếng phồng tôm chiên có hình tròn hoặc oval, màu trắng ngà hoặc hồng nhạt, nở phồng xốp và rỗng bên trong. Món ăn trông rất nhẹ nhàng và hấp dẫn."
+  },
+  {
+    "intent": "huong_vi_phong_tom_chien",
+    "patterns": "Hương vị của phồng tôm chiên là gì?",
+    "responses": "Phồng tôm chiên có vị giòn xốp, béo ngậy và thơm nhẹ mùi tôm. Món ăn này rất dễ ăn, thích hợp làm món khai vị hoặc ăn vặt."
+  },
+  {
+    "intent": "nguyen_lieu_ha_cao_hap",
+    "patterns": "Nguyên liệu chính của há cảo hấp?",
+    "responses": "Há cảo hấp cần bột há cảo (hoặc bột năng, bột gạo), tôm tươi, thịt băm, nấm hương, mộc nhĩ, và củ sắn (hoặc bắp cải)."
+  },
+  {
+    "intent": "cach_lam_ha_cao_hap",
+    "patterns": "Cách làm há cảo hấp là gì?",
+    "responses": "Bạn trộn tôm, thịt băm và các loại rau củ thái nhỏ làm nhân. Cán bột há cảo thành vỏ mỏng. Cho nhân vào giữa vỏ bánh, gói lại tạo hình bán nguyệt hoặc múi khế. Hấp há cảo trong khoảng 10-15 phút cho chín."
+  },
+  {
+    "intent": "mo_ta_ha_cao_hap",
+    "patterns": "Mô tả hình dáng của món há cảo hấp.",
+    "responses": "Há cảo hấp có hình bán nguyệt hoặc hình túi tiền, vỏ bánh trong suốt có thể nhìn thấy nhân tôm thịt bên trong. Món ăn trông rất đẹp mắt và tinh tế."
+  },
+  {
+    "intent": "huong_vi_ha_cao_hap",
+    "patterns": "Mùi vị của há cảo hấp là gì?",
+    "responses": "Há cảo hấp có vị ngọt thanh của tôm, đậm đà của thịt, giòn sần sật của rau củ. Vỏ bánh dai mềm, trong suốt. Khi chấm nước tương ớt thì càng thêm ngon."
+  },
+  {
+    "intent": "nguyen_lieu_banh_uot_cha_lua",
+    "patterns": "Bánh ướt chả lụa cần những thứ gì?",
+    "responses": "Bánh ướt chả lụa cần bánh ướt (bánh phở ướt), chả lụa thái lát, hành phi, và nước mắm chua ngọt."
+  },
+  {
+    "intent": "cach_lam_banh_uot_cha_lua",
+    "patterns": "Chế biến bánh ướt chả lụa ra sao?",
+    "responses": "Bạn trải bánh ướt ra đĩa, đặt chả lụa lên trên. Rắc hành phi và chan nước mắm chua ngọt. Có thể cuốn bánh ướt lại hoặc ăn từng miếng."
+  },
+  {
+    "intent": "mo_ta_banh_uot_cha_lua",
+    "patterns": "Mô tả món bánh ướt chả lụa.",
+    "responses": "Bánh ướt chả lụa có màu trắng ngà của bánh ướt, điểm xuyết màu hồng của chả lụa và vàng của hành phi. Món ăn trông đơn giản nhưng rất hấp dẫn."
+  },
+  {
+    "intent": "huong_vi_banh_uot_cha_lua",
+    "patterns": "Vị của bánh ướt chả lụa là gì?",
+    "responses": "Bánh ướt chả lụa có vị mềm mượt của bánh ướt, ngọt thơm của chả lụa, béo của hành phi và đậm đà nước mắm chua ngọt. Món ăn thanh đạm, dễ ăn."
+  },
+  {
+    "intent": "nguyen_lieu_banh_khot",
+    "patterns": "Để làm bánh khọt cần những nguyên liệu nào?",
+    "responses": "Bánh khọt cần bột gạo, bột năng, nước cốt dừa, trứng gà, tôm tươi, mỡ hành, và rau sống ăn kèm."
+  },
+  {
+    "intent": "cach_lam_banh_khot",
+    "patterns": "Cách làm bánh khọt ngon?",
+    "responses": "Bạn pha bột với nước cốt dừa, trứng cho đều. Tôm luộc chín, bóc vỏ. Đổ một lớp bột mỏng vào khuôn bánh khọt đã thoa dầu, cho tôm vào giữa. Chiên đến khi bánh chín vàng giòn. Bày ra đĩa với mỡ hành và rau sống."
+  },
+  {
+    "intent": "mo_ta_banh_khot",
+    "patterns": "Mô tả hình dáng của món bánh khọt.",
+    "responses": "Bánh khọt có hình tròn nhỏ xinh, màu vàng ươm của bột và màu đỏ cam của tôm. Bề mặt bánh giòn, có thể thấy mỡ hành xanh tươi. Món ăn trông rất bắt mắt và hấp dẫn."
+  },
+  {
+    "intent": "huong_vi_banh_khot",
+    "patterns": "Mùi vị của bánh khọt là gì?",
+    "responses": "Bánh khọt có vị giòn rụm bên ngoài, mềm xốp bên trong, ngọt của tôm, béo của nước cốt dừa và mỡ hành. Khi chấm nước mắm chua ngọt, hương vị càng thêm đậm đà."
+  },
+  {
+    "intent": "nguyen_lieu_tom_nuong_muoi_ot",
+    "patterns": "Những nguyên liệu chính để nướng tôm muối ớt là gì?",
+    "responses": "Tôm nướng muối ớt cần tôm sú hoặc tôm thẻ tươi, muối hột, ớt tươi, tỏi băm, một chút đường và dầu ăn."
+  },
+  {
+    "intent": "cach_lam_tom_nuong_muoi_ot",
+    "patterns": "Bạn có thể hướng dẫn cách nướng tôm muối ớt không?",
+    "responses": "Bạn làm sạch tôm, ướp với hỗn hợp muối ớt giã nhuyễn, tỏi và đường. Để tôm thấm gia vị khoảng 15-20 phút. Xếp tôm lên vỉ, nướng trên than hồng hoặc lò nướng cho đến khi tôm chuyển màu đỏ cam đẹp mắt và chín tới."
+  },
+  {
+    "intent": "mo_ta_tom_nuong_muoi_ot",
+    "patterns": "Mô tả hình dáng của món tôm nướng muối ớt.",
+    "responses": "Tôm nướng muối ớt có màu đỏ cam hấp dẫn, vỏ tôm hơi cháy xém và có thể thấy những hạt muối ớt bám trên thân. Món ăn trông rất tươi ngon và dậy mùi."
+  },
+  {
+    "intent": "huong_vi_tom_nuong_muoi_ot",
+    "patterns": "Hương vị của tôm nướng muối ớt ra sao?",
+    "responses": "Tôm nướng muối ớt có vị ngọt tự nhiên của tôm tươi, cay nồng của ớt, mặn mà của muối và thơm mùi tỏi. Thịt tôm săn chắc, rất đậm đà và kích thích vị giác."
+  },
+  {
+    "intent": "nguyen_lieu_ngheu_nuong_mo_hanh",
+    "patterns": "Nghêu nướng mỡ hành cần những gì để chế biến?",
+    "responses": "Nghêu nướng mỡ hành cần ngao hoặc nghêu tươi, mỡ hành (hành lá thái nhỏ phi thơm với dầu nóng), đậu phộng rang, và mắm nêm hoặc nước mắm chua ngọt."
+  },
+  {
+    "intent": "cach_lam_ngheu_nuong_mo_hanh",
+    "patterns": "Cách làm nghêu nướng mỡ hành?",
+    "responses": "Bạn rửa sạch nghêu, tách đôi vỏ. Xếp nghêu lên vỉ, cho một ít mỡ hành lên từng con. Nướng trên than hoa hoặc lò nướng cho đến khi nghêu chín và mỡ hành sôi sục. Rắc đậu phộng rang khi dọn ra."
+  },
+  {
+    "intent": "mo_ta_ngheu_nuong_mo_hanh",
+    "patterns": "Món nghêu nướng mỡ hành trông như thế nào?",
+    "responses": "Nghêu nướng mỡ hành được bày biện trên đĩa, vỏ nghêu mở hé, bên trong là thịt nghêu trắng ngà phủ lớp mỡ hành xanh tươi và đậu phộng. Món ăn trông rất hấp dẫn và nóng hổi."
+  },
+  {
+    "intent": "huong_vi_ngheu_nuong_mo_hanh",
+    "patterns": "Mùi vị của nghêu nướng mỡ hành là gì?",
+    "responses": "Nghêu nướng mỡ hành có vị ngọt thanh tự nhiên của nghêu, béo ngậy của mỡ hành, bùi của đậu phộng. Hương vị hài hòa, rất thơm ngon và dễ chịu."
+  },
+  {
+    "intent": "nguyen_lieu_bach_tuoc_nuong_sa_te",
+    "patterns": "Bạch tuộc nướng sa tế cần nguyên liệu gì?",
+    "responses": "Bạch tuộc nướng sa tế cần bạch tuộc tươi, sa tế tôm, sả băm, tỏi băm, ớt tươi, dầu ăn, và các gia vị ướp thông thường."
+  },
+  {
+    "intent": "cach_lam_bach_tuoc_nuong_sa_te",
+    "patterns": "Làm thế nào để nướng bạch tuộc sa tế?",
+    "responses": "Bạn làm sạch bạch tuộc, ướp với sa tế, sả băm, tỏi, ớt và gia vị trong khoảng 30 phút. Nướng bạch tuộc trên than hoa hoặc vỉ nướng cho đến khi bạch tuộc săn lại, chín tới và có màu đỏ cam hấp dẫn."
+  },
+  {
+    "intent": "mo_ta_bach_tuoc_nuong_sa_te",
+    "patterns": "Mô tả hình ảnh của món bạch tuộc nướng sa tế.",
+    "responses": "Bạch tuộc nướng sa tế có màu đỏ cam bắt mắt, bề mặt hơi xém do nướng. Những xúc tu bạch tuộc xoăn lại, trông rất hấp dẫn và kích thích vị giác."
+  },
+  {
+    "intent": "huong_vi_bach_tuoc_nuong_sa_te",
+    "patterns": "Hương vị của bạch tuộc nướng sa tế ra sao?",
+    "responses": "Bạch tuộc nướng sa tế có vị cay nồng của sa tế, thơm của sả tỏi, thịt bạch tuộc dai giòn sần sật và ngọt tự nhiên. Hương vị rất đậm đà và bùng nổ."
+  },
+  {
+    "intent": "nguyen_lieu_ba_roi_heo_cuon_kim_cham",
+    "patterns": "Ba chỉ heo cuộn kim châm cần những thành phần gì?",
+    "responses": "Ba chỉ heo cuộn kim châm cần thịt ba chỉ thái lát mỏng, nấm kim châm, và sốt ướp thịt nướng kiểu Hàn hoặc nước sốt teriyaki."
+  },
+  {
+    "intent": "cach_lam_ba_roi_heo_cuon_kim_cham",
+    "patterns": "Cách làm món ba chỉ heo cuộn nấm kim châm?",
+    "responses": "Bạn trải miếng thịt ba chỉ ra, đặt một ít nấm kim châm vào rồi cuộn chặt lại. Xếp các cuộn thịt lên vỉ hoặc khay. Phết sốt ướp lên trên và nướng trong lò hoặc trên bếp than đến khi thịt chín vàng, nấm mềm và thơm."
+  },
+  {
+    "intent": "mo_ta_ba_roi_heo_cuon_kim_cham",
+    "patterns": "Mô tả hình dáng của ba chỉ heo cuộn nấm kim châm.",
+    "responses": "Ba chỉ heo cuộn nấm kim châm có hình cuộn tròn hoặc oval, màu vàng nâu của thịt ba chỉ được nướng chín, bên trong là nấm kim châm màu trắng. Món ăn trông rất hấp dẫn và gọn gàng."
+  },
+  {
+    "intent": "huong_vi_ba_roi_heo_cuon_kim_cham",
+    "patterns": "Vị của ba chỉ heo cuộn nấm kim châm là gì?",
+    "responses": "Ba chỉ heo cuộn nấm kim châm có vị ngọt mềm của thịt ba chỉ, béo ngậy của mỡ tan chảy, giòn ngọt của nấm kim châm và đậm đà sốt ướp. Hương vị rất hài hòa và thơm ngon."
+  },
+  {
+    "intent": "nguyen_lieu_ga_nuong_mat_ong",
+    "patterns": "Để làm gà nướng mật ong cần gì?",
+    "responses": "Gà nướng mật ong cần thịt gà (đùi, cánh hoặc nguyên con), mật ong, xì dầu, dầu hào, tỏi băm, và ngũ vị hương."
+  },
+  {
+    "intent": "cach_lam_ga_nuong_mat_ong",
+    "patterns": "Chế biến gà nướng mật ong như thế nào?",
+    "responses": "Bạn làm sạch gà, khứa nhẹ. Ướp gà với mật ong, xì dầu, dầu hào, tỏi và ngũ vị hương. Để thấm ít nhất 2 tiếng hoặc qua đêm. Nướng gà trong lò hoặc trên than hoa, phết thêm nước ướp trong quá trình nướng cho đến khi gà chín vàng đều, da giòn và thơm."
+  },
+  {
+    "intent": "mo_ta_ga_nuong_mat_ong",
+    "patterns": "Mô tả miếng gà nướng mật ong.",
+    "responses": "Gà nướng mật ong có màu vàng nâu óng ả, lớp da bóng bẩy do mật ong, trông rất hấp dẫn và dậy mùi thơm ngọt ngào. Miếng gà chín đều, căng mọng."
+  },
+  {
+    "intent": "huong_vi_ga_nuong_mat_ong",
+    "patterns": "Mùi vị của gà nướng mật ong là gì?",
+    "responses": "Gà nướng mật ong có vị ngọt mặn hài hòa, thơm lừng mùi mật ong và ngũ vị hương. Da gà giòn, thịt gà mềm ẩm, đậm đà. Món ăn rất lôi cuốn và dễ ăn."
+  },
+  {
+    "intent": "nguyen_lieu_bo_nuong_lach_chem",
+    "patterns": "Những nguyên liệu nào cần có để làm món bò nướng lá lốt?",
+    "responses": "Bò nướng lá lốt thường dùng thịt bò thăn hoặc bắp bò, lá lốt tươi, sả, tỏi, ớt, và các loại gia vị cơ bản để ướp."
+  },
+  {
+    "intent": "cach_lam_bo_nuong_lach_chem",
+    "patterns": "Làm thế nào để chế biến bò nướng lá lốt?",
+    "responses": "Bạn băm nhỏ thịt bò, trộn đều với sả, tỏi, ớt và gia vị. Trải lá lốt ra, cho nhân thịt bò vào giữa rồi cuộn chặt lại. Xếp các cuộn bò lên vỉ, nướng trên than hoa hoặc trong lò cho đến khi lá lốt chín thơm và thịt bò săn lại."
+  },
+  {
+    "intent": "mo_ta_bo_nuong_lach_chem",
+    "patterns": "Mô tả món bò nướng lá lốt trông như thế nào?",
+    "responses": "Bò nướng lá lốt có màu xanh sẫm của lá lốt bên ngoài, khi nướng lên sẽ chuyển màu đậm hơn và dậy mùi thơm đặc trưng. Các cuộn bò nhỏ gọn, hấp dẫn."
+  },
+  {
+    "intent": "huong_vi_bo_nuong_lach_chem",
+    "patterns": "Vị của bò nướng lá lốt là gì?",
+    "responses": "Bò nướng lá lốt có vị thơm nồng đặc trưng của lá lốt, ngọt mềm của thịt bò, đậm đà gia vị. Món ăn này rất thơm ngon và thường ăn kèm với bún, rau sống và mắm nêm."
+  },
+  {
+    "intent": "nguyen_lieu_chan_ga_nuong_sa_te",
+    "patterns": "Cần những gì để làm chân gà nướng sa tế?",
+    "responses": "Chân gà nướng sa tế cần chân gà tươi, sa tế tôm, sả băm, tỏi băm, ớt tươi, dầu hào và một chút mật ong."
+  },
+  {
+    "intent": "cach_lam_chan_ga_nuong_sa_te",
+    "patterns": "Cách làm chân gà nướng sa tế?",
+    "responses": "Bạn làm sạch chân gà, có thể khứa nhẹ để thấm gia vị. Ướp chân gà với sa tế, sả, tỏi, ớt, dầu hào và mật ong trong ít nhất 1 giờ. Xếp chân gà lên vỉ, nướng trên than hoa hoặc trong lò đến khi chân gà chín vàng đều, da giòn và thơm cay."
+  },
+  {
+    "intent": "mo_ta_chan_ga_nuong_sa_te",
+    "patterns": "Hình thức của món chân gà nướng sa tế trông ra sao?",
+    "responses": "Chân gà nướng sa tế có màu đỏ cam hấp dẫn của sa tế, lớp da chân gà hơi cháy xém và bóng. Món ăn trông rất mời gọi và kích thích vị giác."
+  },
+  {
+    "intent": "huong_vi_chan_ga_nuong_sa_te",
+    "patterns": "Hương vị của chân gà nướng sa tế như thế nào?",
+    "responses": "Chân gà nướng sa tế có vị cay nồng của sa tế, thơm của sả tỏi, da gà giòn, thịt dai sần sật. Hương vị đậm đà, rất cuốn hút, đặc biệt khi ăn nóng."
+  },
+  {
+    "intent": "nguyen_lieu_ngao_nuong_pho_mai",
+    "patterns": "Nguyên liệu chính của món ngao nướng phô mai?",
+    "responses": "Ngao nướng phô mai cần ngao hoặc sò lông tươi, phô mai mozzarella hoặc phô mai con bò cười, bơ lạt, tỏi băm, và một chút sữa tươi."
+  },
+  {
+    "intent": "cach_lam_ngao_nuong_pho_mai",
+    "patterns": "Chế biến ngao nướng phô mai như thế nào?",
+    "responses": "Bạn rửa sạch ngao, tách đôi vỏ. Phi thơm tỏi với bơ, cho sữa tươi và phô mai vào nấu chảy thành sốt. Xếp ngao lên vỉ, cho sốt phô mai lên từng con. Nướng trong lò hoặc trên bếp than đến khi phô mai chảy vàng, sôi sục và thơm lừng."
+  },
+  {
+    "intent": "mo_ta_ngao_nuong_pho_mai",
+    "patterns": "Mô tả món ngao nướng phô mai.",
+    "responses": "Ngao nướng phô mai được bày biện trên đĩa, vỏ ngao mở hé, bên trong là thịt ngao trắng ngà được bao phủ bởi lớp phô mai vàng óng, tan chảy. Món ăn trông rất hấp dẫn và béo ngậy."
+  },
+  {
+    "intent": "huong_vi_ngao_nuong_pho_mai",
+    "patterns": "Mùi vị của ngao nướng phô mai là gì?",
+    "responses": "Ngao nướng phô mai có vị ngọt thanh của ngao, béo ngậy của phô mai, thơm mùi tỏi và bơ. Hương vị hòa quyện, rất độc đáo và lôi cuốn."
+  },
+  {
+    "intent": "nguyen_lieu_lau_vit_nau_chao",
+    "patterns": "Những thành phần cần thiết để làm lẩu vịt nấu chao là gì?",
+    "responses": "Lẩu vịt nấu chao cần vịt tươi, chao đỏ, khoai môn, đậu phụ chiên, nấm rơm, bún tươi, và rau ăn kèm như cải xanh, mồng tơi. Có thể thêm khoai môn chiên giòn."
+  },
+  {
+    "intent": "cach_lam_lau_vit_nau_chao",
+    "patterns": "Bạn có thể hướng dẫn chi tiết cách nấu lẩu vịt nấu chao không?",
+    "responses": "Bạn chặt vịt thành miếng, ướp với chao và gia vị. Xào vịt cho săn rồi cho nước vào hầm mềm. Thêm khoai môn, đậu phụ, nấm rơm vào. Nêm nếm nước lẩu cho vừa ăn. Khi ăn, nhúng rau và bún."
+  },
+  {
+    "intent": "mo_ta_lau_vit_nau_chao",
+    "patterns": "Mô tả tổng quan về nồi lẩu vịt nấu chao.",
+    "responses": "Nồi lẩu vịt nấu chao có màu nước lẩu nâu đỏ đặc trưng của chao, bốc hơi nghi ngút. Miếng thịt vịt mềm, khoai môn bùi bùi và các loại rau xanh tươi tạo nên một tổng thể hấp dẫn."
+  },
+  {
+    "intent": "huong_vi_lau_vit_nau_chao",
+    "patterns": "Lẩu vịt nấu chao có hương vị ra sao?",
+    "responses": "Lẩu vịt nấu chao có vị béo ngậy của chao, ngọt mềm của thịt vịt, bùi của khoai môn. Nước lẩu đậm đà, thơm lừng mùi chao và rất ấm bụng."
+  },
+  {
+    "intent": "nguyen_lieu_lau_thap_cam",
+    "patterns": "Lẩu thập cẩm bao gồm những gì?",
+    "responses": "Lẩu thập cẩm là sự kết hợp đa dạng các loại thịt (bò, gà, tôm), hải sản (mực, ngao), chả cá, đậu phụ, nấm và nhiều loại rau xanh phong phú."
+  },
+  {
+    "intent": "cach_lam_lau_thap_cam",
+    "patterns": "Quy trình chế biến lẩu thập cẩm như thế nào?",
+    "responses": "Bạn chuẩn bị các nguyên liệu tươi sống. Nấu nước dùng lẩu tùy theo sở thích (xương heo, gà, nấm). Bày biện các loại topping ra đĩa. Khi nước lẩu sôi, nhúng lần lượt các loại thịt, hải sản, nấm, rau vào để thưởng thức."
+  },
+  {
+    "intent": "mo_ta_lau_thap_cam",
+    "patterns": "Hình dáng của một nồi lẩu thập cẩm được mô tả như thế nào?",
+    "responses": "Một nồi lẩu thập cẩm trông rất đầy đặn và màu sắc, với đủ loại thịt, hải sản và rau xanh tươi nổi bật trên nền nước lẩu sôi sùng sục. Tổng thể rất mời gọi."
+  },
+  {
+    "intent": "huong_vi_lau_thap_cam",
+    "patterns": "Mùi vị đặc trưng của lẩu thập cẩm là gì?",
+    "responses": "Lẩu thập cẩm có hương vị phong phú, tổng hòa vị ngọt của thịt và hải sản, tươi của rau, và đậm đà của nước lẩu. Mỗi miếng ăn lại mang đến một trải nghiệm vị giác khác nhau, rất hấp dẫn."
+  },
+  {
+    "intent": "nguyen_lieu_lau_kim_chi_han_quoc",
+    "patterns": "Nguyên liệu cần có cho lẩu kim chi Hàn Quốc?",
+    "responses": "Lẩu kim chi Hàn Quốc cần kim chi cải thảo, thịt ba chỉ hoặc thịt bò, đậu phụ, nấm kim châm, hành tây, hành lá, và tương ớt Gochujang."
+  },
+  {
+    "intent": "cach_lam_lau_kim_chi_han_quoc",
+    "patterns": "Chỉ cách làm lẩu kim chi?",
+    "responses": "Bạn xào kim chi với thịt ba chỉ (hoặc bò). Cho nước dùng và tương ớt Gochujang vào đun sôi. Thêm đậu phụ, nấm kim châm, hành tây vào. Nêm nếm gia vị cho vừa miệng. Ăn kèm mì tôm hoặc cơm."
+  },
+  {
+    "intent": "mo_ta_lau_kim_chi_han_quoc",
+    "patterns": "Mô tả một nồi lẩu kim chi Hàn Quốc.",
+    "responses": "Nồi lẩu kim chi Hàn Quốc có màu đỏ cam rực rỡ của kim chi và tương ớt, bốc hơi nóng hổi. Các miếng thịt, đậu phụ và nấm nổi bật trên bề mặt, trông rất bắt mắt và ấm cúng."
+  },
+  {
+    "intent": "huong_vi_lau_kim_chi_han_quoc",
+    "patterns": "Hương vị của lẩu kim chi là gì?",
+    "responses": "Lẩu kim chi Hàn Quốc có vị chua cay đậm đà đặc trưng của kim chi và tương ớt, ngọt thơm của thịt, béo mềm của đậu phụ. Hương vị rất nồng nàn, kích thích vị giác và giữ ấm cơ thể."
+  },
+  {
+    "intent": "nguyen_lieu_lau_ca_keo_la_giang",
+    "patterns": "Lẩu cá kèo lá giang cần những nguyên liệu gì?",
+    "responses": "Lẩu cá kèo lá giang cần cá kèo tươi, lá giang, cà chua, giá đỗ, bắp chuối bào, rau đắng, rau nhút, bún và nước chấm mắm ớt."
+  },
+  {
+    "intent": "cach_lam_lau_ca_keo_la_giang",
+    "patterns": "Quy trình nấu lẩu cá kèo lá giang thế nào?",
+    "responses": "Bạn nấu nước dùng với lá giang để tạo vị chua thanh. Khi nước sôi, cho cà chua, dứa (tùy chọn) vào. Nêm nếm gia vị cho vừa. Khi ăn, nhúng từng con cá kèo tươi vào nồi lẩu đang sôi, sau đó nhúng các loại rau sống và thưởng thức với bún."
+  },
+  {
+    "intent": "mo_ta_lau_ca_keo_la_giang",
+    "patterns": "Mô tả hình ảnh của lẩu cá kèo lá giang.",
+    "responses": "Nồi lẩu cá kèo lá giang có màu nước lẩu trong hoặc hơi ngả vàng của lá giang, cá kèo tươi sống được bày trên đĩa, cùng với đủ loại rau xanh tươi tạo nên một bữa ăn dân dã mà hấp dẫn."
+  },
+  {
+    "intent": "huong_vi_lau_ca_keo_la_giang",
+    "patterns": "Món lẩu cá kèo lá giang có hương vị gì?",
+    "responses": "Lẩu cá kèo lá giang có vị chua thanh mát của lá giang, ngọt béo của cá kèo tươi, hơi đắng nhẹ của rau đắng. Nước lẩu trong, đậm đà, rất đặc trưng của miền Tây sông nước."
+  },
+  {
+    "intent": "nguyen_lieu_lau_chao_long",
+    "patterns": "Lẩu cháo lòng cần các thành phần nào?",
+    "responses": "Lẩu cháo lòng cần lòng heo (lòng non, dạ dày, dồi trường), huyết, gan, tim, lưỡi heo, gạo tẻ, gạo nếp, hành lá, tía tô, và gia vị."
+  },
+  {
+    "intent": "cach_lam_lau_chao_long",
+    "patterns": "Làm thế nào để chế biến lẩu cháo lòng?",
+    "responses": "Bạn ninh xương hoặc luộc lòng để lấy nước dùng. Nấu cháo từ gạo tẻ và gạo nếp. Thái các loại lòng thành miếng vừa ăn. Khi ăn, cho cháo vào nồi lẩu, đun sôi, nhúng các loại lòng đã thái vào cho chín tới. Rắc hành lá, tía tô."
+  },
+  {
+    "intent": "mo_ta_lau_chao_long",
+    "patterns": "Mô tả một nồi lẩu cháo lòng.",
+    "responses": "Nồi lẩu cháo lòng có màu trắng đục của cháo, nổi bật các miếng lòng heo đủ màu sắc (trắng, hồng, nâu). Món ăn trông dân dã nhưng rất hấp dẫn và nóng hổi."
+  },
+  {
+    "intent": "huong_vi_lau_chao_long",
+    "patterns": "Hương vị của lẩu cháo lòng là gì?",
+    "responses": "Lẩu cháo lòng có vị béo ngậy của lòng heo, đậm đà của cháo, thơm mùi hành tía tô. Món ăn nóng hổi, rất bổ dưỡng và được nhiều người yêu thích."
+  },
+  {
+    "intent": "nguyen_lieu_lau_vit_sao",
+    "patterns": "Những nguyên liệu nào cần để nấu lẩu vịt om sấu?",
+    "responses": "Lẩu vịt om sấu cần vịt xiêm hoặc vịt bầu, sấu xanh, khoai sọ, rau rút, nấm hương, và một số gia vị như sả, gừng, tỏi, hành khô."
+  },
+  {
+    "intent": "cach_lam_lau_vit_sao",
+    "patterns": "Bạn có thể chỉ cách nấu lẩu vịt om sấu không?",
+    "responses": "Bạn chặt vịt thành miếng, ướp với gia vị. Phi thơm hành, sả, gừng rồi cho vịt vào xào săn. Thêm nước, sấu và khoai sọ vào hầm đến khi vịt mềm. Nêm nếm lại và cho rau rút, nấm hương vào trước khi dùng."
+  },
+  {
+    "intent": "mo_ta_lau_vit_sao",
+    "patterns": "Mô tả tổng thể về nồi lẩu vịt om sấu.",
+    "responses": "Nồi lẩu vịt om sấu có màu nước dùng trong, hơi ngả vàng, bốc hơi nghi ngút. Miếng thịt vịt mềm, khoai sọ bùi, sấu xanh nổi lên cùng rau rút xanh mướt tạo nên một món ăn hấp dẫn, ấm cúng."
+  },
+  {
+    "intent": "huong_vi_lau_vit_sao",
+    "patterns": "Hương vị của lẩu vịt om sấu như thế nào?",
+    "responses": "Lẩu vịt om sấu có vị chua thanh dịu của sấu, ngọt đậm của thịt vịt, bùi của khoai sọ và thơm mùi rau rút. Nước lẩu trong, dễ ăn và rất phù hợp cho những ngày trời se lạnh."
+  },
+  {
+    "intent": "nguyen_lieu_lau_ca_chua_ngot",
+    "patterns": "Lẩu cá chua ngọt cần các nguyên liệu nào?",
+    "responses": "Lẩu cá chua ngọt cần cá (diêu hồng, basa), cà chua, dứa, đậu bắp, bạc hà, giá đỗ, rau nêm (ngò gai, rau om), me hoặc nước cốt me, và bún tươi."
+  },
+  {
+    "intent": "cach_lam_lau_ca_chua_ngot",
+    "patterns": "Quy trình chế biến lẩu cá chua ngọt?",
+    "responses": "Bạn làm sạch cá, thái khúc. Xào cà chua, dứa cho ra màu, thêm nước dùng và me vào đun sôi. Cho cá vào nấu chín, sau đó cho các loại rau củ như đậu bắp, bạc hà, giá đỗ. Nêm nếm và rắc rau nêm khi tắt bếp."
+  },
+  {
+    "intent": "mo_ta_lau_ca_chua_ngot",
+    "patterns": "Mô tả hình ảnh của một nồi lẩu cá chua ngọt.",
+    "responses": "Nồi lẩu cá chua ngọt có màu đỏ cam của cà chua, xen lẫn màu xanh của rau và trắng của cá. Các thành phần hòa quyện, bốc khói nghi ngút, trông rất tươi ngon và hấp dẫn."
+  },
+  {
+    "intent": "huong_vi_lau_ca_chua_ngot",
+    "patterns": "Mùi vị của lẩu cá chua ngọt là gì?",
+    "responses": "Lẩu cá chua ngọt có vị chua thanh dịu của me và cà chua, ngọt tự nhiên của cá và dứa, cay nhẹ của ớt. Nước lẩu trong, đậm đà, rất kích thích vị giác và dễ ăn."
+  },
+  {
+    "intent": "nguyen_lieu_lau_bo_nhung_giam",
+    "patterns": "Những thứ cần có để làm lẩu bò nhúng giấm?",
+    "responses": "Lẩu bò nhúng giấm cần thịt bò bắp hoặc thăn thái mỏng, bún tươi, bánh đa nem, rau sống (xà lách, rau thơm), và nước lẩu được nấu từ dứa, sả, giấm gạo."
+  },
+  {
+    "intent": "cach_lam_lau_bo_nhung_giam",
+    "patterns": "Chỉ cách làm lẩu bò nhúng giấm?",
+    "responses": "Bạn nấu nước lẩu từ dứa, sả, hành tây và giấm gạo, nêm nếm gia vị. Bày thịt bò thái mỏng, bún, rau sống và bánh đa nem ra đĩa. Khi nước lẩu sôi, nhúng từng lát thịt bò vào cho chín tới, cuộn với rau sống, bún và bánh đa nem, chấm mắm nêm."
+  },
+  {
+    "intent": "mo_ta_lau_bo_nhung_giam",
+    "patterns": "Mô tả hình thức của một nồi lẩu bò nhúng giấm.",
+    "responses": "Nồi lẩu bò nhúng giấm có nước lẩu trong veo, có thể nhìn thấy miếng dứa và sả. Các lát thịt bò đỏ tươi được bày biện đẹp mắt cùng rau xanh mướt. Tổng thể trông rất thanh lịch và mời gọi."
+  },
+  {
+    "intent": "huong_vi_lau_bo_nhung_giam",
+    "patterns": "Vị của lẩu bò nhúng giấm như thế nào?",
+    "responses": "Lẩu bò nhúng giấm có vị chua thanh dịu của giấm và dứa, ngọt mềm của thịt bò. Hương vị rất thanh mát, không gây ngán, đặc biệt khi chấm cùng mắm nêm đậm đà."
+  },
+  {
+    "intent": "nguyen_lieu_lau_nam_chay",
+    "patterns": "Nguyên liệu cần cho lẩu nấm chay là gì?",
+    "responses": "Lẩu nấm chay cần đa dạng các loại nấm tươi (nấm đùi gà, nấm kim châm, nấm hương, nấm rơm), đậu phụ, rau cải, mì gói hoặc bún, và nước dùng rau củ."
+  },
+  {
+    "intent": "cach_lam_lau_nam_chay",
+    "patterns": "Quy trình làm lẩu nấm chay?",
+    "responses": "Bạn hầm các loại rau củ để lấy nước dùng ngọt thanh. Phi thơm hành boa-rô, cho cà chua vào xào rồi đổ vào nước dùng. Nêm nếm gia vị chay. Khi ăn, nhúng các loại nấm, đậu phụ và rau cải vào nồi lẩu đang sôi."
+  },
+  {
+    "intent": "mo_ta_lau_nam_chay",
+    "patterns": "Mô tả nồi lẩu nấm chay.",
+    "responses": "Nồi lẩu nấm chay có nước dùng trong, nổi bật các loại nấm đủ hình dáng và màu sắc, cùng với rau xanh tươi. Món ăn trông rất thanh đạm, tự nhiên và hấp dẫn."
+  },
+  {
+    "intent": "huong_vi_lau_nam_chay",
+    "patterns": "Hương vị của lẩu nấm chay là gì?",
+    "responses": "Lẩu nấm chay có vị ngọt thanh tự nhiên từ nấm và rau củ, nước dùng trong, dễ chịu. Món ăn thanh đạm, bổ dưỡng, rất thích hợp cho những người ăn chay hoặc muốn thanh lọc cơ thể."
+  },
+  {
+    "intent": "nguyen_lieu_lau_mam",
+    "patterns": "Lẩu mắm cần những thành phần gì để chế biến?",
+    "responses": "Lẩu mắm cần mắm cá linh hoặc mắm cá sặc, thịt ba chỉ, tôm, mực, cá (tùy chọn), cà tím, nấm rơm, và rất nhiều loại rau đồng đặc trưng như bông súng, điên điển, rau đắng, kèo nèo."
+  },
+  {
+    "intent": "cach_lam_lau_mam",
+    "patterns": "Hướng dẫn cách nấu lẩu mắm?",
+    "responses": "Bạn lọc mắm lấy nước cốt. Phi thơm sả, ớt, tỏi. Xào thịt ba chỉ, tôm, mực cho săn. Đổ nước mắm cốt và nước dùng vào đun sôi. Thêm cà tím, nấm rơm. Nêm nếm gia vị cho vừa. Khi ăn, nhúng các loại rau đồng và bún tươi."
+  },
+  {
+    "intent": "mo_ta_lau_mam",
+    "patterns": "Mô tả hình dáng của một nồi lẩu mắm.",
+    "responses": "Nồi lẩu mắm có màu nâu sẫm đặc trưng của nước lẩu, bốc khói nghi ngút cùng mùi thơm nồng. Các loại rau đồng xanh tươi được bày biện xung quanh, tạo nên một bữa ăn đậm chất miền Tây sông nước."
+  },
+  {
+    "intent": "huong_vi_lau_mam",
+    "patterns": "Mùi vị của lẩu mắm là gì?",
+    "responses": "Lẩu mắm có vị đậm đà đặc trưng của mắm, béo ngậy của thịt, ngọt của tôm cá và tươi mát của rau đồng. Hương vị rất nồng nàn, khó quên và mang đậm bản sắc ẩm thực miền Tây."
+  },
+  {
+    "intent": "nguyen_lieu_suon_xao_chua_ngot",
+    "patterns": "Những nguyên liệu nào cần để làm sườn xào chua ngọt?",
+    "responses": "Sườn xào chua ngọt cần sườn non heo, hành tây, ớt chuông, cà chua, và nước sốt chua ngọt làm từ đường, giấm, nước mắm, tương ớt, tỏi băm."
+  },
+  {
+    "intent": "cach_lam_suon_xao_chua_ngot",
+    "patterns": "Bạn có thể hướng dẫn cách chế biến sườn xào chua ngọt không?",
+    "responses": "Bạn chặt sườn thành miếng vừa ăn, trần qua nước sôi rồi chiên sơ cho vàng. Phi thơm tỏi, cho sườn vào xào cùng hành tây, ớt chuông và cà chua. Đổ nước sốt chua ngọt vào, đảo đều cho sườn thấm vị và sốt sánh lại."
+  },
+  {
+    "intent": "mo_ta_suon_xao_chua_ngot",
+    "patterns": "Mô tả hình dáng của món sườn xào chua ngọt.",
+    "responses": "Sườn xào chua ngọt có màu nâu đỏ óng ả của sườn được bao phủ bởi lớp sốt sánh. Món ăn trông rất hấp dẫn với màu sắc tươi sáng của rau củ như ớt chuông, cà chua."
+  },
+  {
+    "intent": "huong_vi_suon_xao_chua_ngot",
+    "patterns": "Hương vị của sườn xào chua ngọt ra sao?",
+    "responses": "Sườn xào chua ngọt có vị chua, cay, mặn, ngọt hài hòa, đậm đà gia vị. Thịt sườn mềm, thơm ngon, nước sốt sền sệt rất đưa cơm."
+  },
+  {
+    "intent": "nguyen_lieu_ga_xao_xa_ot",
+    "patterns": "Gà xào sả ớt cần những thứ gì để làm?",
+    "responses": "Gà xào sả ớt cần thịt gà (đùi hoặc cánh), sả băm, ớt tươi, tỏi băm, và các gia vị thông thường như nước mắm, đường, hạt nêm."
+  },
+  {
+    "intent": "cach_lam_ga_xao_xa_ot",
+    "patterns": "Chế biến gà xào sả ớt như thế nào?",
+    "responses": "Bạn chặt gà thành miếng vừa ăn, ướp gia vị. Phi thơm sả, tỏi, ớt băm. Cho gà vào xào săn trên lửa lớn. Nêm nếm lại gia vị cho vừa miệng, đảo đều cho gà thấm và nước sốt sệt lại."
+  },
+  {
+    "intent": "mo_ta_ga_xao_xa_ot",
+    "patterns": "Mô tả đĩa gà xào sả ớt.",
+    "responses": "Đĩa gà xào sả ớt có màu vàng nâu của thịt gà, điểm xuyết màu xanh của sả và đỏ của ớt. Món ăn trông rất hấp dẫn và dậy mùi thơm đặc trưng."
+  },
+  {
+    "intent": "huong_vi_ga_xao_xa_ot",
+    "patterns": "Mùi vị của gà xào sả ớt là gì?",
+    "responses": "Gà xào sả ớt có vị cay nồng của ớt, thơm lừng của sả tỏi, thịt gà mềm ngọt và đậm đà gia vị. Món ăn này rất đưa cơm và hấp dẫn."
+  },
+  {
+    "intent": "nguyen_lieu_dau_phu_sot_ca_chua",
+    "patterns": "Đậu phụ sốt cà chua cần nguyên liệu gì?",
+    "responses": "Đậu phụ sốt cà chua cần đậu phụ, cà chua tươi, hành lá, hành tím, và các gia vị như nước mắm, đường, dầu ăn."
+  },
+  {
+    "intent": "cach_lam_dau_phu_sot_ca_chua",
+    "patterns": "Cách làm đậu phụ sốt cà chua tại nhà?",
+    "responses": "Bạn chiên đậu phụ cho vàng đều. Phi thơm hành tím, cho cà chua thái hạt lựu vào xào nát. Nêm nếm gia vị, cho đậu phụ đã chiên vào đảo nhẹ nhàng cho thấm sốt. Rắc hành lá khi tắt bếp."
+  },
+  {
+    "intent": "mo_ta_dau_phu_sot_ca_chua",
+    "patterns": "Mô tả món đậu phụ sốt cà chua.",
+    "responses": "Đĩa đậu phụ sốt cà chua có màu vàng của đậu phụ và màu đỏ cam hấp dẫn của sốt cà chua. Món ăn trông đơn giản nhưng rất đẹp mắt và dân dã."
+  },
+  {
+    "intent": "huong_vi_dau_phu_sot_ca_chua",
+    "patterns": "Hương vị của đậu phụ sốt cà chua là gì?",
+    "responses": "Đậu phụ sốt cà chua có vị béo mềm của đậu phụ, chua ngọt đậm đà của sốt cà chua. Món ăn thanh đạm, dễ ăn và rất hợp với cơm nóng."
+  },
+  {
+    "intent": "nguyen_lieu_thit_heo_xao_sa_ot",
+    "patterns": "Thịt heo xào sả ớt cần những thành phần nào?",
+    "responses": "Thịt heo xào sả ớt cần thịt ba chỉ hoặc thịt nạc vai, sả băm, ớt tươi, tỏi băm, và gia vị ướp (nước mắm, đường, hạt nêm, dầu ăn)."
+  },
+  {
+    "intent": "cach_lam_thit_heo_xao_sa_ot",
+    "patterns": "Quy trình chế biến thịt heo xào sả ớt?",
+    "responses": "Bạn thái thịt heo miếng vừa ăn, ướp gia vị. Phi thơm sả, tỏi, ớt băm, cho thịt heo vào xào săn trên lửa lớn. Nêm nếm lại cho vừa miệng, đảo đều cho thịt thấm và hơi cháy cạnh."
+  },
+  {
+    "intent": "mo_ta_thit_heo_xao_sa_ot",
+    "patterns": "Mô tả hình ảnh của món thịt heo xào sả ớt.",
+    "responses": "Đĩa thịt heo xào sả ớt có màu vàng nâu của thịt, điểm xuyết màu xanh của sả và đỏ của ớt. Món ăn trông rất hấp dẫn, đậm đà và dậy mùi thơm."
+  },
+  {
+    "intent": "huong_vi_thit_heo_xao_sa_ot",
+    "patterns": "Mùi vị của thịt heo xào sả ớt là gì?",
+    "responses": "Thịt heo xào sả ớt có vị cay nồng của ớt, thơm lừng của sả tỏi, thịt heo mềm và thấm đậm gia vị. Món ăn này rất ngon miệng và đưa cơm."
+  },
+  {
+    "intent": "nguyen_lieu_bông_cải_xanh_xào_thịt_bo",
+    "patterns": "Bông cải xanh xào thịt bò cần gì để làm?",
+    "responses": "Bông cải xanh xào thịt bò cần bông cải xanh tươi, thịt bò thái lát mỏng, tỏi băm, và gia vị ướp thịt, dầu hào."
+  },
+  {
+    "intent": "cach_lam_bông_cải_xanh_xào_thịt_bo",
+    "patterns": "Làm thế nào để xào bông cải xanh với thịt bò?",
+    "responses": "Bạn ướp thịt bò với dầu hào và gia vị. Trụng sơ bông cải xanh. Phi thơm tỏi, cho thịt bò vào xào nhanh tay rồi trút ra. Tiếp tục xào bông cải xanh cho chín tới, sau đó cho thịt bò vào đảo đều, nêm nếm lại cho vừa ăn."
+  },
+  {
+    "intent": "mo_ta_bông_cải_xanh_xào_thịt_bo",
+    "patterns": "Mô tả đĩa bông cải xanh xào thịt bò.",
+    "responses": "Đĩa bông cải xanh xào thịt bò có màu xanh tươi của bông cải, màu nâu đậm của thịt bò. Món ăn trông rất hài hòa về màu sắc, hấp dẫn và đầy đủ dinh dưỡng."
+  },
+  {
+    "intent": "huong_vi_bông_cải_xanh_xào_thịt_bo",
+    "patterns": "Hương vị của bông cải xanh xào thịt bò là gì?",
+    "responses": "Bông cải xanh xào thịt bò có vị ngọt mềm của thịt bò, giòn ngọt của bông cải, thơm mùi tỏi và đậm đà gia vị. Món ăn này rất thanh đạm, bổ dưỡng và dễ ăn."
+  },
+  {
+    "intent": "nguyen_lieu_hoa_thien_ly_xao_thit_bo",
+    "patterns": "Những thành phần cần thiết để làm hoa thiên lý xào thịt bò là gì?",
+    "responses": "Hoa thiên lý xào thịt bò cần hoa thiên lý tươi, thịt bò thăn, tỏi băm, và các gia vị cơ bản như dầu hào, hạt nêm, tiêu."
+  },
+  {
+    "intent": "cach_lam_hoa_thien_ly_xao_thit_bo",
+    "patterns": "Bạn có thể hướng dẫn chi tiết cách chế biến hoa thiên lý xào thịt bò không?",
+    "responses": "Bạn ướp thịt bò thái mỏng với gia vị và dầu hào. Phi thơm tỏi, cho thịt bò vào xào nhanh tay trên lửa lớn rồi trút ra. Cho hoa thiên lý vào xào chín tới, sau đó cho thịt bò trở lại, đảo đều, nêm nếm lại cho vừa ăn."
+  },
+  {
+    "intent": "mo_ta_hoa_thien_ly_xao_thit_bo",
+    "patterns": "Mô tả tổng quan về đĩa hoa thiên lý xào thịt bò.",
+    "responses": "Đĩa hoa thiên lý xào thịt bò có màu xanh non tươi mát của hoa thiên lý, xen lẫn màu nâu của thịt bò. Món ăn trông thanh đạm nhưng rất hấp dẫn và đầy đủ dinh dưỡng."
+  },
+  {
+    "intent": "huong_vi_hoa_thien_ly_xao_thit_bo",
+    "patterns": "Hương vị của hoa thiên lý xào thịt bò ra sao?",
+    "responses": "Hoa thiên lý xào thịt bò có vị ngọt nhẹ, giòn tự nhiên của hoa thiên lý, kết hợp với vị mềm ngọt của thịt bò và thơm của tỏi. Món ăn rất thanh mát và dễ ăn."
+  },
+  {
+    "intent": "nguyen_lieu_lo_long_xao_dua_thai_lat",
+    "patterns": "Lòng gà xào dứa cần những gì?",
+    "responses": "Lòng gà xào dứa cần lòng gà, mề gà, dứa (thơm) thái lát, hành tây, cà chua, hành lá, và các gia vị thông thường."
+  },
+  {
+    "intent": "cach_lam_lo_long_xao_dua_thai_lat",
+    "patterns": "Quy trình làm lòng gà xào dứa thái lát?",
+    "responses": "Bạn làm sạch lòng gà, thái miếng vừa ăn. Phi thơm hành, cho lòng gà vào xào săn. Thêm dứa, hành tây, cà chua vào xào cùng. Nêm nếm gia vị cho vừa miệng, đảo đều cho các nguyên liệu thấm vị và chín tới."
+  },
+  {
+    "intent": "mo_ta_lo_long_xao_dua_thai_lat",
+    "patterns": "Hình dáng của món lòng gà xào dứa trông như thế nào?",
+    "responses": "Đĩa lòng gà xào dứa có màu sắc bắt mắt: vàng của dứa, đỏ của cà chua, xanh của hành lá và màu nâu của lòng gà. Món ăn trông rất hấp dẫn và dậy mùi thơm."
+  },
+  {
+    "intent": "huong_vi_lo_long_xao_dua_thai_lat",
+    "patterns": "Mùi vị đặc trưng của lòng gà xào dứa là gì?",
+    "responses": "Lòng gà xào dứa có vị dai giòn của lòng gà, chua ngọt thanh mát của dứa, và đậm đà gia vị. Món ăn rất lạ miệng, hấp dẫn và không gây ngán."
+  },
+  {
+    "intent": "nguyen_lieu_mướp_đắng_xào_trứng",
+    "patterns": "Mướp đắng xào trứng cần nguyên liệu gì?",
+    "responses": "Mướp đắng xào trứng cần mướp đắng (khổ qua), trứng gà, tỏi băm, và các gia vị cơ bản như dầu ăn, muối, đường, hạt nêm."
+  },
+  {
+    "intent": "cach_lam_mướp_đắng_xao_trứng",
+    "patterns": "Cách làm món mướp đắng xào trứng?",
+    "responses": "Bạn thái mướp đắng thành lát mỏng, trụng sơ qua nước sôi có chút muối để giảm độ đắng. Đánh tan trứng với gia vị. Phi thơm tỏi, cho mướp đắng vào xào nhanh, sau đó đổ trứng vào đảo đều cho chín tới. Nêm nếm lại cho vừa ăn."
+  },
+  {
+    "intent": "mo_ta_mướp_đắng_xao_trứng",
+    "patterns": "Mô tả đĩa mướp đắng xào trứng.",
+    "responses": "Đĩa mướp đắng xào trứng có màu xanh của mướp đắng, xen lẫn màu vàng của trứng. Món ăn trông đơn giản, dân dã nhưng rất hấp dẫn và mộc mạc."
+  },
+  {
+    "intent": "huong_vi_mướp_đắng_xào_trứng",
+    "patterns": "Hương vị của mướp đắng xào trứng ra sao?",
+    "responses": "Mướp đắng xào trứng có vị đắng nhẹ đặc trưng của mướp đắng, hòa quyện với vị béo bùi của trứng và thơm của tỏi. Món ăn này rất thanh nhiệt, bổ dưỡng và dễ ăn."
+  },
+  {
+    "intent": "nguyen_lieu_sa_te_tom_xao_suon_non",
+    "patterns": "Sườn non xào sa tế tôm cần những gì?",
+    "responses": "Sườn non xào sa tế tôm cần sườn non, sa tế tôm, sả băm, tỏi băm, ớt tươi, và các gia vị như nước mắm, đường, dầu ăn."
+  },
+  {
+    "intent": "cach_lam_sa_te_tom_xao_suon_non",
+    "patterns": "Chế biến sườn non xào sa tế tôm như thế nào?",
+    "responses": "Bạn chặt sườn thành miếng, chần qua nước sôi. Ướp sườn với sa tế tôm và gia vị. Phi thơm sả, tỏi, ớt băm, cho sườn vào xào săn trên lửa lớn. Đảo đều cho sườn thấm vị, chín mềm và sốt sánh lại."
+  },
+  {
+    "intent": "mo_ta_sa_te_tom_xao_suon_non",
+    "patterns": "Mô tả đĩa sườn non xào sa tế tôm.",
+    "responses": "Đĩa sườn non xào sa tế tôm có màu đỏ cam hấp dẫn của sa tế, miếng sườn bóng bẩy, thơm lừng và hơi cháy cạnh. Món ăn trông rất kích thích vị giác và đậm đà."
+  },
+  {
+    "intent": "huong_vi_sa_te_tom_xao_suon_non",
+    "patterns": "Vị của sườn non xào sa tế tôm là gì?",
+    "responses": "Sườn non xào sa tế tôm có vị cay nồng của sa tế, thơm của sả tỏi, thịt sườn mềm ngọt và đậm đà gia vị. Món ăn này rất đưa cơm, đặc biệt cho những ai thích vị cay."
+  },
+  {
+    "intent": "nguyen_lieu_ca_thu_sot_ca_chua_xao",
+    "patterns": "Cá thu sốt cà chua cần nguyên liệu gì?",
+    "responses": "Cá thu sốt cà chua cần cá thu tươi, cà chua, hành lá, thì là, hành tím, và gia vị cơ bản như nước mắm, đường, tiêu."
+  },
+  {
+    "intent": "cach_lam_ca_thu_sot_ca_chua_xao",
+    "patterns": "Làm thế nào để chế biến cá thu sốt cà chua?",
+    "responses": "Bạn làm sạch cá thu, chiên sơ cho vàng. Phi thơm hành tím, cho cà chua thái múi cau vào xào nát. Đổ nước vào, nêm nếm gia vị rồi cho cá thu đã chiên vào, đun nhỏ lửa cho cá thấm sốt. Rắc hành lá và thì là khi tắt bếp."
+  },
+  {
+    "intent": "mo_ta_ca_thu_sot_ca_chua_xao",
+    "patterns": "Mô tả đĩa cá thu sốt cà chua.",
+    "responses": "Đĩa cá thu sốt cà chua có màu đỏ cam tươi sáng của sốt cà chua, miếng cá thu vàng ươm nổi bật. Món ăn trông rất hấp dẫn, đậm đà và quen thuộc trong bữa cơm gia đình."
+  },
+  {
+    "intent": "huong_vi_ca_thu_sot_ca_chua_xao",
+    "patterns": "Mùi vị của cá thu sốt cà chua là gì?",
+    "responses": "Cá thu sốt cà chua có vị ngọt mềm của cá thu, chua ngọt đậm đà của sốt cà chua, và thơm mùi thì là. Món ăn rất hài hòa, dễ ăn và đưa cơm."
+  },
+  {
+    "intent": "nguyen_lieu_nuoc_da_chanh",
+    "patterns": "Những thành phần cần thiết để làm nước đá chanh là gì?",
+    "responses": "Nước đá chanh cần chanh tươi, đường, nước lọc và đá viên."
+  },
+  {
+    "intent": "cach_lam_nuoc_da_chanh",
+    "patterns": "Bạn có thể hướng dẫn chi tiết cách pha nước đá chanh không?",
+    "responses": "Bạn vắt lấy nước cốt chanh. Pha nước cốt chanh với đường và nước lọc theo tỷ lệ vừa khẩu vị. Thêm đá viên và khuấy đều là có thể thưởng thức."
+  },
+  {
+    "intent": "mo_ta_nuoc_da_chanh",
+    "patterns": "Mô tả tổng quan về ly nước đá chanh.",
+    "responses": "Ly nước đá chanh có màu vàng nhạt trong suốt, điểm xuyết vài lát chanh mỏng và những viên đá trong veo. Trông rất tươi mát và giải khát."
+  },
+  {
+    "intent": "huong_vi_nuoc_da_chanh",
+    "patterns": "Hương vị của nước đá chanh ra sao?",
+    "responses": "Nước đá chanh có vị chua thanh của chanh, ngọt dịu của đường, rất tươi mát và sảng khoái, đặc biệt là vào những ngày nắng nóng."
+  },
+  {
+    "intent": "nguyen_lieu_tra_chanh",
+    "patterns": "Trà chanh cần những gì để pha?",
+    "responses": "Trà chanh cần trà túi lọc hoặc trà mạn, chanh tươi, đường, và đá viên."
+  },
+  {
+    "intent": "cach_lam_tra_chanh",
+    "patterns": "Quy trình pha trà chanh như thế nào?",
+    "responses": "Bạn pha trà nóng, để nguội bớt. Vắt lấy nước cốt chanh. Trộn trà với nước cốt chanh, đường và đá viên theo tỷ lệ mong muốn. Khuấy đều trước khi uống."
+  },
+    {
+    "intent": "mo_ta_tra_chanh",
+    "patterns": "Hình dáng của ly trà chanh trông ra sao?",
+    "responses": "Ly trà chanh có màu nâu vàng trong của trà, có thể thấy rõ những lát chanh mỏng và đá viên. Đôi khi có thêm lá bạc hà để trang trí, trông rất hấp dẫn."
+  },
+  {
+    "intent": "huong_vi_tra_chanh",
+    "patterns": "Mùi vị của trà chanh là gì?",
+    "responses": "Trà chanh có vị chát nhẹ của trà, chua thanh của chanh, và ngọt mát của đường. Hương vị hài hòa, sảng khoái và rất phổ biến."
+  },
+  {
+    "intent": "nguyen_lieu_nuoc_rau_ma",
+    "patterns": "Nguyên liệu chính của nước rau má?",
+    "responses": "Nước rau má cần rau má tươi, nước lọc, và đường (tùy chọn)."
+  },
+  {
+    "intent": "cach_lam_nuoc_rau_ma",
+    "patterns": "Cách làm nước rau má tại nhà?",
+    "responses": "Bạn rửa sạch rau má, cho vào máy xay sinh tố cùng với một ít nước lọc và đường (nếu muốn). Xay nhuyễn hỗn hợp, sau đó lọc qua rây để lấy nước cốt. Thêm đá và thưởng thức."
+  },
+  {
+    "intent": "mo_ta_nuoc_rau_ma",
+    "patterns": "Mô tả ly nước rau má.",
+    "responses": "Ly nước rau má có màu xanh lục đặc trưng, có thể hơi sánh nhẹ nếu xay nhiều. Món nước này trông rất tự nhiên và tươi mát."
+  },
+  {
+    "intent": "huong_vi_nuoc_rau_ma",
+    "patterns": "Hương vị của nước rau má là gì?",
+    "responses": "Nước rau má có vị thanh mát, hơi nhẫn nhẹ đặc trưng của rau má, rất dễ uống và có tác dụng giải nhiệt. Khi thêm đường sẽ có vị ngọt dịu."
+  },
+  {
+    "intent": "nguyen_lieu_nuoc_mia",
+    "patterns": "Những thứ cần có để ép nước mía?",
+    "responses": "Nước mía cần cây mía tươi, đá viên, và có thể thêm tắc (quất) hoặc cam để tăng hương vị."
+  },
+  {
+    "intent": "cach_lam_nuoc_mia",
+    "patterns": "Quy trình làm nước mía?",
+    "responses": "Bạn lột vỏ mía, chặt khúc. Cho mía vào máy ép chuyên dụng để lấy nước cốt. Rót nước mía ra ly, thêm đá viên và có thể vắt thêm một ít tắc hoặc cam tùy thích."
+  },
+  {
+    "intent": "mo_ta_nuoc_mia",
+    "patterns": "Mô tả ly nước mía.",
+    "responses": "Ly nước mía có màu vàng xanh trong, bốc hơi lạnh từ đá. Đôi khi có bọt trắng nhẹ trên bề mặt và một lát tắc nhỏ nổi trên ly, trông rất hấp dẫn."
+  },
+  {
+    "intent": "huong_vi_nuoc_mia",
+    "patterns": "Vị của nước mía như thế nào?",
+    "responses": "Nước mía có vị ngọt thanh tự nhiên, mát lạnh và rất dễ uống. Khi thêm tắc hoặc cam, nước mía sẽ có thêm chút chua nhẹ, giúp tăng thêm hương vị."
+  },
+  {
+    "intent": "nguyen_lieu_sinh_to_bo",
+    "patterns": "Sinh tố bơ cần các thành phần nào?",
+    "responses": "Sinh tố bơ cần bơ chín, sữa đặc, sữa tươi (hoặc nước cốt dừa), đá bào."
+  },
+  {
+    "intent": "cach_lam_sinh_to_bo",
+    "patterns": "Cách làm sinh tố bơ ngon?",
+    "responses": "Bạn gọt bơ, bỏ hạt, lấy phần thịt bơ. Cho bơ, sữa đặc, sữa tươi (hoặc nước cốt dừa) và đá bào vào máy xay sinh tố. Xay nhuyễn hỗn hợp đến khi mịn màng là có thể thưởng thức."
+  },
+  {
+    "intent": "mo_ta_sinh_to_bo",
+    "patterns": "Mô tả ly sinh tố bơ.",
+    "responses": "Ly sinh tố bơ có màu xanh vàng nhạt đặc trưng của bơ, sánh mịn và béo ngậy. Món đồ uống này trông rất hấp dẫn và giàu dinh dưỡng."
+  },
+  {
+    "intent": "huong_vi_sinh_to_bo",
+    "patterns": "Mùi vị của sinh tố bơ là gì?",
+    "responses": "Sinh tố bơ có vị béo ngậy, ngọt dịu và thơm nhẹ của bơ. Món đồ uống này rất sánh mịn, mát lạnh và bổ dưỡng, thích hợp để giải khát hoặc bổ sung năng lượng."
+  },
+  {
+    "intent": "nguyen_lieu_nuoc_sam",
+    "patterns": "Những nguyên liệu cần có để nấu nước sâm là gì?",
+    "responses": "Nước sâm cần các loại thảo mộc như râu ngô, mía lau, mã đề, lá dứa, la hán quả, và đường phèn."
+  },
+  {
+    "intent": "cach_lam_nuoc_sam",
+    "patterns": "Bạn có thể hướng dẫn cách nấu nước sâm không?",
+    "responses": "Bạn rửa sạch các nguyên liệu, cho vào nồi lớn cùng nước và đường phèn. Đun sôi rồi hạ nhỏ lửa, đun liu riu khoảng 30-45 phút cho các chất trong thảo mộc tiết ra. Lọc bỏ bã, để nguội và có thể thêm đá."
+  },
+  {
+    "intent": "mo_ta_nuoc_sam",
+    "patterns": "Mô tả tổng thể về ly nước sâm.",
+    "responses": "Ly nước sâm có màu vàng nâu trong vắt, toát lên vẻ thanh mát và tự nhiên. Đôi khi có thể thấy vài sợi râu ngô hoặc lát mía nhỏ ở đáy cốc, trông rất dân dã."
+  },
+  {
+    "intent": "huong_vi_nuoc_sam",
+    "patterns": "Hương vị của nước sâm ra sao?",
+    "responses": "Nước sâm có vị ngọt thanh dịu của đường phèn, thơm nhẹ mùi thảo mộc, rất mát và giải khát. Món nước này giúp thanh nhiệt, giải độc cơ thể."
+  },
+  {
+    "intent": "nguyen_lieu_nuoc_ep_cam_tuoi",
+    "patterns": "Nước ép cam tươi cần những gì để pha chế?",
+    "responses": "Nước ép cam tươi cần cam sành hoặc cam vắt, đá viên, và có thể thêm một chút đường nếu thích."
+  },
+  {
+    "intent": "cach_lam_nuoc_ep_cam_tuoi",
+    "patterns": "Quy trình làm nước ép cam tươi?",
+    "responses": "Bạn rửa sạch cam, cắt đôi rồi vắt lấy nước cốt. Lọc bỏ hạt và tép cam nếu không muốn. Rót nước cam ra ly, thêm đá viên và đường tùy theo khẩu vị. Khuấy đều và thưởng thức ngay."
+  },
+    {
+    "intent": "mo_ta_nuoc_ep_cam_tuoi",
+    "patterns": "Hình dáng của ly nước ép cam tươi trông như thế nào?",
+    "responses": "Ly nước ép cam tươi có màu vàng cam rực rỡ, trong suốt hoặc hơi có tép cam. Món nước này trông rất tươi mới, tràn đầy năng lượng và hấp dẫn."
+  },
+  {
+    "intent": "huong_vi_nuoc_ep_cam_tuoi",
+    "patterns": "Mùi vị của nước ép cam tươi là gì?",
+    "responses": "Nước ép cam tươi có vị chua ngọt hài hòa, thơm lừng mùi cam tự nhiên. Rất tươi mát, giàu vitamin C và có tác dụng giải khát cực tốt."
+  },
+  {
+    "intent": "nguyen_lieu_sua_dau_nanh",
+    "patterns": "Nguyên liệu chính của sữa đậu nành?",
+    "responses": "Sữa đậu nành cần hạt đậu nành khô, nước lọc, và đường (tùy chọn)."
+  },
+  {
+    "intent": "cach_lam_sua_dau_nanh",
+    "patterns": "Cách làm sữa đậu nành tại nhà?",
+    "responses": "Bạn ngâm đậu nành khô qua đêm cho nở mềm. Xay nhuyễn đậu nành đã ngâm với nước. Lọc bỏ bã đậu qua vải hoặc rây. Đun sôi phần nước cốt đậu nành với lửa nhỏ, khuấy đều để tránh cháy nồi. Thêm đường khi sữa còn ấm."
+  },
+  {
+    "intent": "mo_ta_sua_dau_nanh",
+    "patterns": "Mô tả ly sữa đậu nành.",
+    "responses": "Ly sữa đậu nành có màu trắng đục, sánh nhẹ và bốc hơi ấm nếu uống nóng. Trông rất đơn giản nhưng lại rất thanh khiết và bổ dưỡng."
+  },
+  {
+    "intent": "huong_vi_sua_dau_nanh",
+    "patterns": "Hương vị của sữa đậu nành là gì?",
+    "responses": "Sữa đậu nành có vị béo ngậy, thơm đặc trưng của đậu nành, ngọt dịu nếu có đường. Món đồ uống này rất dễ uống, mát lành và giàu protein thực vật."
+  },
+  {
+    "intent": "nguyen_lieu_nuoc_ep_oi",
+    "patterns": "Những thứ cần có để ép nước ổi?",
+    "responses": "Nước ép ổi cần ổi tươi chín, nước lọc, đường, và có thể thêm đá viên."
+  },
+  {
+    "intent": "cach_lam_nuoc_ep_oi",
+    "patterns": "Quy trình ép nước ổi thế nào?",
+    "responses": "Bạn rửa sạch ổi, gọt vỏ (nếu muốn), cắt miếng nhỏ và bỏ ruột. Cho ổi vào máy ép hoa quả để lấy nước cốt. Nếu không có máy ép, có thể xay ổi với nước rồi lọc qua rây. Thêm đường và đá nếu thích."
+  },
+  {
+    "intent": "mo_ta_nuoc_ep_oi",
+    "patterns": "Mô tả ly nước ép ổi.",
+    "responses": "Ly nước ép ổi có màu hồng nhạt hoặc xanh nhạt tùy loại ổi, hơi sánh và có thể có chút lợn cợn của thịt ổi. Trông rất tự nhiên và tươi ngon."
+  },
+  {
+    "intent": "huong_vi_nuoc_ep_oi",
+    "patterns": "Vị của nước ép ổi như thế nào?",
+    "responses": "Nước ép ổi có vị ngọt thanh, thơm đặc trưng của ổi, đôi khi kèm chút chua nhẹ. Món đồ uống này rất tươi mát, giàu vitamin và dễ uống."
+  },
+  {
+    "intent": "nguyen_lieu_bac_xiu",
+    "patterns": "Bạc xỉu cần các thành phần nào?",
+    "responses": "Bạc xỉu cần cà phê phin đậm đặc, sữa đặc, và sữa tươi (hoặc nước cốt dừa), đá viên."
+  },
+  {
+    "intent": "cach_lam_bac_xiu",
+    "patterns": "Cách làm bạc xỉu ngon?",
+    "responses": "Bạn pha cà phê phin thật đậm đặc. Cho sữa đặc vào ly, thêm sữa tươi (hoặc nước cốt dừa). Sau đó nhẹ nhàng rót cà phê đã pha lên trên để tạo thành lớp. Thêm đá và khuấy đều trước khi uống."
+  },
+  {
+    "intent": "mo_ta_bac_xiu",
+    "patterns": "Mô tả ly bạc xỉu.",
+    "responses": "Ly bạc xỉu có hai hoặc ba tầng màu rõ rệt: lớp sữa đặc và sữa tươi trắng đục bên dưới, và lớp cà phê nâu đen bên trên. Khi khuấy đều sẽ tạo thành màu nâu sữa đẹp mắt."
+  },
+  {
+    "intent": "huong_vi_bac_xiu",
+    "patterns": "Mùi vị của bạc xỉu là gì?",
+    "responses": "Bạc xỉu có vị ngọt béo của sữa, hòa quyện với chút đắng nhẹ và thơm nồng của cà phê. Món đồ uống này rất hài hòa, dễ uống và được nhiều người yêu thích, đặc biệt là những ai không uống được cà phê quá đậm."
+  },
+  {
+    "intent": "nguyen_lieu_che_khoai_mon",
+    "patterns": "Những thành phần cần thiết để làm chè khoai môn là gì?",
+    "responses": "Chè khoai môn cần khoai môn, đường, nước cốt dừa, bột năng hoặc bột khoai, và dừa tươi nạo sợi."
+  },
+  {
+    "intent": "cach_lam_che_khoai_mon",
+    "patterns": "Bạn có thể hướng dẫn chi tiết cách nấu chè khoai môn không?",
+    "responses": "Bạn hấp hoặc luộc khoai môn cho chín mềm, nghiền nhuyễn một phần, phần còn lại cắt hạt lựu. Nấu nước đường, cho khoai môn vào. Hòa bột năng với nước cốt dừa rồi từ từ cho vào nồi để tạo độ sánh. Nấu cho chè sôi lại là được. Khi ăn, rắc thêm dừa nạo."
+  },
+  {
+    "intent": "mo_ta_che_khoai_mon",
+    "patterns": "Mô tả tổng quan về chén chè khoai môn.",
+    "responses": "Chén chè khoai môn có màu tím nhạt đặc trưng của khoai môn, nước chè sánh mịn, và những miếng khoai môn cắt hạt lựu xen kẽ. Trên cùng có dừa nạo trắng tinh, trông rất hấp dẫn."
+  },
+  {
+    "intent": "huong_vi_che_khoai_mon",
+    "patterns": "Hương vị của chè khoai môn ra sao?",
+    "responses": "Chè khoai môn có vị ngọt dịu, bùi bùi của khoai môn, béo ngậy của nước cốt dừa và thơm lừng mùi dừa tươi. Món chè này rất mềm mịn, dễ ăn và ấm bụng."
+  },
+  {
+    "intent": "nguyen_lieu_suong_sa_hat_luu",
+    "patterns": "Sương sa hạt lựu cần những thứ gì để pha chế?",
+    "responses": "Sương sa hạt lựu cần bột rau câu (để làm sương sa), bột năng hoặc bột lọc (để làm hạt lựu), nước cốt dừa, đường, và nước màu đỏ tự nhiên (từ củ dền)."
+  },
+  {
+    "intent": "cach_lam_suong_sa_hat_luu",
+    "patterns": "Quy trình làm sương sa hạt lựu như thế nào?",
+    "responses": "Bạn nấu sương sa theo hướng dẫn, để nguội cắt sợi. Trộn bột năng với nước màu đỏ, nặn thành viên nhỏ rồi luộc chín để có hạt lựu. Pha nước cốt dừa với đường. Khi ăn, cho sương sa, hạt lựu vào ly, chan nước cốt dừa và thêm đá."
+  },
+  {
+    "intent": "mo_ta_suong_sa_hat_luu",
+    "patterns": "Hình dáng của ly sương sa hạt lựu trông ra sao?",
+    "responses": "Ly sương sa hạt lựu có màu sắc tươi sáng: trắng trong của sương sa, đỏ rực của hạt lựu, và trắng đục của nước cốt dừa. Trông rất bắt mắt và giải nhiệt."
+  },
+  {
+    "intent": "huong_vi_suong_sa_hat_luu",
+    "patterns": "Mùi vị của sương sa hạt lựu là gì?",
+    "responses": "Sương sa hạt lựu có vị giòn dai của sương sa, giòn sần sật của hạt lựu, béo ngậy của nước cốt dừa và ngọt mát của đường. Món ăn này rất thanh mát, giải khát và có nhiều màu sắc hấp dẫn."
+  },
+  {
+    "intent": "nguyen_lieu_banh_flan",
+    "patterns": "Nguyên liệu chính của bánh flan?",
+    "responses": "Bánh flan cần trứng gà, sữa tươi không đường, sữa đặc, và đường để làm caramel."
+  },
+  {
+    "intent": "cach_lam_banh_flan",
+    "patterns": "Cách làm bánh flan tại nhà?",
+    "responses": "Bạn thắng đường thành caramel rồi đổ vào khuôn. Đánh tan trứng với sữa tươi và sữa đặc, lọc qua rây để hỗn hợp mịn. Đổ hỗn hợp trứng sữa vào khuôn đã có caramel. Hấp cách thủy hoặc nướng cách thủy đến khi bánh chín, đông lại."
+  },
+  {
+    "intent": "mo_ta_banh_flan",
+    "patterns": "Mô tả một chiếc bánh flan.",
+    "responses": "Bánh flan có màu vàng nhạt mịn màng, phủ bên trên là lớp caramel nâu óng ánh. Khi úp ra đĩa, lớp caramel sẽ chảy xuống, trông rất hấp dẫn và mềm mại."
+  },
+  {
+    "intent": "huong_vi_banh_flan",
+    "patterns": "Hương vị của bánh flan là gì?",
+    "responses": "Bánh flan có vị ngọt béo ngậy của sữa, thơm lừng mùi trứng, và vị đắng nhẹ, ngọt ngào của caramel. Bánh rất mềm mịn, tan chảy trong miệng, mang lại cảm giác dễ chịu."
+  },
+  {
+    "intent": "nguyen_lieu_dau_phu_tran_chau_duong_den",
+    "patterns": "Đậu phụ trân châu đường đen cần những gì?",
+    "responses": "Đậu phụ trân châu đường đen cần đậu phụ non (tào phớ), trân châu đen, đường đen, và một chút gừng tươi."
+  },
+  {
+    "intent": "cach_lam_dau_phu_tran_chau_duong_den",
+    "patterns": "Quy trình làm đậu phụ trân châu đường đen thế nào?",
+    "responses": "Bạn làm hoặc mua sẵn tào phớ. Nấu trân châu cho chín dai. Nấu đường đen với nước và vài lát gừng để làm sốt đường đen sánh. Khi ăn, múc tào phớ vào chén, cho trân châu lên và chan sốt đường đen gừng nóng hoặc lạnh tùy thích."
+  },
+  {
+    "intent": "mo_ta_dau_phu_tran_chau_duong_den",
+    "patterns": "Mô tả chén đậu phụ trân châu đường đen.",
+    "responses": "Chén đậu phụ trân châu đường đen có màu trắng ngần của tào phớ, nổi bật những hạt trân châu đen bóng bẩy và lớp sốt đường đen nâu óng. Trông rất hấp dẫn và giản dị."
+  },
+  {
+    "intent": "huong_vi_dau_phu_tran_chau_duong_den",
+    "patterns": "Mùi vị của đậu phụ trân châu đường đen là gì?",
+    "responses": "Đậu phụ trân châu đường đen có vị thanh mát, mềm mịn của tào phớ, dai dai của trân châu, và ngọt ấm nồng của đường đen gừng. Hương vị rất hài hòa, dễ chịu và thanh đạm."
+  },
+  {
+    "intent": "nguyen_lieu_banh_chuoi_hap",
+    "patterns": "Bánh chuối hấp cần các thành phần nào?",
+    "responses": "Bánh chuối hấp cần chuối sứ chín, bột năng, bột gạo, đường, nước cốt dừa, mè rang, và dừa tươi nạo sợi."
+  },
+  {
+    "intent": "cach_lam_banh_chuoi_hap",
+    "patterns": "Cách làm bánh chuối hấp ngon?",
+    "responses": "Bạn nghiền chuối, trộn với bột năng, bột gạo, đường. Đổ hỗn hợp vào khuôn và hấp chín. Khi bánh chín, cắt miếng vừa ăn, chan nước cốt dừa và rắc mè rang, dừa nạo lên trên."
+  },
+  {
+    "intent": "mo_ta_banh_chuoi_hap",
+    "patterns": "Mô tả miếng bánh chuối hấp.",
+    "responses": "Miếng bánh chuối hấp có màu vàng nâu trong, mềm dẻo, nhìn rõ được những miếng chuối bên trong. Khi chan nước cốt dừa và rắc dừa nạo, mè rang, trông rất hấp dẫn và truyền thống."
+  },
+  {
+    "intent": "huong_vi_banh_chuoi_hap",
+    "patterns": "Mùi vị của bánh chuối hấp là gì?",
+    "responses": "Bánh chuối hấp có vị ngọt thanh tự nhiên của chuối, dai mềm của bột, béo ngậy của nước cốt dừa và thơm bùi của mè rang. Món ăn này rất dân dã, thơm ngon và dễ ăn."
+  },
+  {
+    "intent": "nguyen_lieu_che_troi_nuoc",
+    "patterns": "Những nguyên liệu nào cần để làm chè trôi nước?",
+    "responses": "Chè trôi nước cần bột nếp, đậu xanh, đường, gừng, mè rang, và nước cốt dừa."
+  },
+  {
+    "intent": "cach_lam_che_troi_nuoc",
+    "patterns": "Bạn có thể hướng dẫn cách nấu chè trôi nước không?",
+    "responses": "Bạn ngâm và hấp đậu xanh cho chín mềm, sau đó nghiền nhuyễn, sên với đường để làm nhân. Trộn bột nếp với nước ấm, nhào mịn. Bọc nhân đậu xanh vào bột, viên tròn. Nấu nước đường gừng, cho các viên chè vào luộc đến khi nổi lên là chín. Chan nước cốt dừa và rắc mè rang khi ăn."
+  },
+  {
+    "intent": "mo_ta_che_troi_nuoc",
+    "patterns": "Mô tả tổng thể về chén chè trôi nước.",
+    "responses": "Chén chè trôi nước có những viên chè trắng ngà, tròn đều, nổi bật trên nền nước đường gừng vàng óng. Khi chan nước cốt dừa, món chè trông càng thêm hấp dẫn và béo ngậy."
+  },
+  {
+    "intent": "huong_vi_che_troi_nuoc",
+    "patterns": "Hương vị của chè trôi nước ra sao?",
+    "responses": "Chè trôi nước có vị ngọt dịu của đường, cay ấm của gừng, bùi bùi của nhân đậu xanh và béo ngậy của nước cốt dừa. Vỏ bánh dai mềm, rất dễ ăn và làm ấm bụng."
+  },
+  {
+    "intent": "nguyen_lieu_tau_hu_nuoc_cot_dua",
+    "patterns": "Tào phớ nước cốt dừa cần những thứ gì để pha chế?",
+    "responses": "Tào phớ nước cốt dừa cần đậu nành (để làm tào phớ), đường, nước cốt dừa, và có thể thêm trân châu hoặc thạch."
+  },
+  {
+    "intent": "cach_lam_tau_hu_nuoc_cot_dua",
+    "patterns": "Quy trình làm tào phớ nước cốt dừa như thế nào?",
+    "responses": "Bạn làm tào phớ từ đậu nành (hoặc mua sẵn tào phớ). Nấu nước cốt dừa với đường cho tan và sôi nhẹ. Khi ăn, múc tào phớ vào chén, chan nước cốt dừa lên và có thể thêm các loại topping như trân châu, thạch."
+  },
+  {
+    "intent": "mo_ta_tau_hu_nuoc_cot_dua",
+    "patterns": "Hình dáng của chén tào phớ nước cốt dừa trông ra sao?",
+    "responses": "Chén tào phớ nước cốt dừa có màu trắng ngần của tào phớ, được bao phủ bởi lớp nước cốt dừa trắng đục, sánh nhẹ. Trông rất thanh mát và giản dị."
+  },
+  {
+    "intent": "huong_vi_tau_hu_nuoc_cot_dua",
+    "patterns": "Mùi vị của tào phớ nước cốt dừa là gì?",
+    "responses": "Tào phớ nước cốt dừa có vị mềm mịn, mát lạnh của tào phớ, béo ngậy của nước cốt dừa và ngọt dịu của đường. Món ăn này rất thanh đạm, giải nhiệt và dễ ăn."
+  },
+  {
+    "intent": "nguyen_lieu_kem_dua",
+    "patterns": "Nguyên liệu chính của kem dừa?",
+    "responses": "Kem dừa cần cơm dừa tươi, nước cốt dừa, sữa tươi, sữa đặc, đường, và có thể thêm dừa khô, đậu phộng rang."
+  },
+  {
+    "intent": "cach_lam_kem_dua",
+    "patterns": "Cách làm kem dừa tại nhà?",
+    "responses": "Bạn xay nhuyễn cơm dừa với nước cốt dừa, sữa tươi, sữa đặc và đường. Đổ hỗn hợp vào máy làm kem hoặc cho vào hộp rồi để tủ đông, cứ vài tiếng lại trộn đều cho kem mịn. Khi ăn, múc kem ra, rắc dừa khô và đậu phộng rang."
+  },
+  {
+    "intent": "mo_ta_kem_dua",
+    "patterns": "Mô tả một viên kem dừa.",
+    "responses": "Kem dừa có màu trắng ngà, sánh mịn, thường được múc vào trong vỏ trái dừa hoặc ly. Phía trên có rắc dừa khô và đậu phộng, trông rất hấp dẫn và độc đáo."
+  },
+  {
+    "intent": "huong_vi_kem_dua",
+    "patterns": "Hương vị của kem dừa là gì?",
+    "responses": "Kem dừa có vị ngọt béo đậm đà của dừa, mát lạnh và tan chảy trong miệng. Hương thơm của dừa rất đặc trưng, mang lại cảm giác sảng khoái và thơm ngon."
+  },
+  {
+    "intent": "nguyen_lieu_banh_da_lon",
+    "patterns": "Bánh da lợn cần những gì để làm?",
+    "responses": "Bánh da lợn cần bột năng, bột gạo, đường, nước cốt dừa, lá dứa, và đậu xanh (hoặc khoai môn) để làm nhân."
+  },
+  {
+    "intent": "cach_lam_banh_da_lon",
+    "patterns": "Quy trình làm bánh da lợn thế nào?",
+    "responses": "Bạn làm nhân đậu xanh hoặc khoai môn. Pha bột năng, bột gạo với đường, nước cốt dừa. Chia bột làm 2 phần, một phần trộn với nước lá dứa cho màu xanh, một phần giữ màu trắng hoặc pha thêm màu khác. Hấp từng lớp bột xen kẽ nhau cho đến khi bánh chín hoàn toàn."
+  },
+  {
+    "intent": "mo_ta_banh_da_lon",
+    "patterns": "Mô tả miếng bánh da lợn.",
+    "responses": "Miếng bánh da lợn có nhiều lớp màu sắc xen kẽ (thường là xanh lá, vàng của nhân và trắng), trong suốt, mềm dẻo. Bánh có hình vuông hoặc chữ nhật, trông rất đẹp mắt."
+  },
+  {
+    "intent": "huong_vi_banh_da_lon",
+    "patterns": "Mùi vị của bánh da lợn là gì?",
+    "responses": "Bánh da lợn có vị ngọt thanh, dai mềm dẻo, béo ngậy của nước cốt dừa và thơm mùi lá dứa hoặc đậu xanh. Món ăn này rất hấp dẫn và có kết cấu đặc trưng."
+  },
+  {
+    "intent": "nguyen_lieu_mut_dua_non",
+    "patterns": "Mứt dừa non cần các thành phần nào?",
+    "responses": "Mứt dừa non cần cơm dừa non tươi, đường cát, và có thể thêm các loại màu tự nhiên (từ lá dứa, củ dền, cà rốt)."
+  },
+  {
+    "intent": "cach_lam_mut_dua_non",
+    "patterns": "Cách làm mứt dừa non ngon?",
+    "responses": "Bạn nạo cơm dừa thành sợi mỏng. Ngâm dừa với đường trong vài giờ cho đường tan và dừa trong. Sên dừa trên chảo lửa nhỏ đến khi đường kết tinh bám trắng vào sợi dừa và dừa khô ráo. Có thể thêm màu tự nhiên vào giai đoạn sên."
+  },
+  {
+    "intent": "mo_ta_mut_dua_non",
+    "patterns": "Mô tả một sợi mứt dừa non.",
+    "responses": "Sợi mứt dừa non có màu trắng đục hoặc các màu sắc khác (xanh, hồng), được phủ một lớp đường trắng li ti bên ngoài. Sợi mứt mềm dẻo, dai nhẹ và trông rất đẹp mắt."
+  },
+  {
+    "intent": "huong_vi_mut_dua_non",
+    "patterns": "Mùi vị của mứt dừa non là gì?",
+    "responses": "Mứt dừa non có vị ngọt đậm đà, thơm lừng mùi dừa, dai dai và mềm dẻo. Món ăn này là đặc sản quen thuộc trong dịp Tết, rất hấp dẫn và dễ ăn."
+  },
+  {
+    "intent": "nguyen_lieu_canh_ngot_khoai_mo",
+    "patterns": "Những thành phần cần thiết để nấu canh khoai mỡ là gì?",
+    "responses": "Canh khoai mỡ cần khoai mỡ tươi, tôm tươi hoặc thịt băm, hành lá, ngò gai, và các gia vị cơ bản như nước mắm, tiêu, hạt nêm."
+  },
+  {
+    "intent": "cach_lam_canh_ngot_khoai_mo",
+    "patterns": "Bạn có thể hướng dẫn chi tiết cách chế biến canh khoai mỡ không?",
+    "responses": "Bạn gọt vỏ khoai mỡ, rửa sạch nhớt rồi nạo hoặc thái sợi. Bóc vỏ tôm, băm nhỏ. Phi thơm hành tím, cho tôm băm vào xào săn. Đổ nước vào đun sôi, cho khoai mỡ vào nấu đến khi khoai mềm và canh có độ sánh tự nhiên. Nêm nếm và rắc hành lá, ngò gai khi tắt bếp."
+  },
+  {
+    "intent": "mo_ta_canh_ngot_khoai_mo",
+    "patterns": "Mô tả tổng quan về bát canh khoai mỡ.",
+    "responses": "Bát canh khoai mỡ có màu tím nhạt hoặc trắng ngà đặc trưng của khoai mỡ, canh sánh nhẹ, bốc hơi nghi ngút. Món canh trông rất dân dã và mộc mạc."
+  },
+  {
+    "intent": "huong_vi_canh_ngot_khoai_mo",
+    "patterns": "Hương vị của canh khoai mỡ ra sao?",
+    "responses": "Canh khoai mỡ có vị ngọt thanh tự nhiên, sánh mịn, thơm bùi của khoai mỡ và vị đậm đà của tôm hoặc thịt. Món canh này rất dễ ăn, bổ dưỡng và ấm bụng."
+  },
+  {
+    "intent": "nguyen_lieu_canh_trai_binh_bat_nau_tom",
+    "patterns": "Canh trái bình bát nấu tôm cần những gì để nấu?",
+    "responses": "Canh trái bình bát nấu tôm cần trái bình bát non, tôm tươi, hành tím, và các gia vị thông thường."
+  },
+  {
+    "intent": "cach_lam_canh_trai_binh_bat_nau_tom",
+    "patterns": "Quy trình nấu canh trái bình bát nấu tôm như thế nào?",
+    "responses": "Bạn gọt vỏ bình bát, bỏ ruột, thái miếng vừa ăn. Bóc vỏ tôm, ướp gia vị. Phi thơm hành tím, cho tôm vào xào săn. Đổ nước vào đun sôi, cho bình bát vào nấu đến khi chín mềm. Nêm nếm lại cho vừa miệng và rắc hành lá."
+  },
+  {
+    "intent": "mo_ta_canh_trai_binh_bat_nau_tom",
+    "patterns": "Hình dáng của bát canh trái bình bát nấu tôm trông ra sao?",
+    "responses": "Bát canh trái bình bát nấu tôm có màu xanh nhạt của bình bát, nước canh trong, điểm xuyết màu hồng của tôm. Món canh trông rất giản dị nhưng hấp dẫn."
+  },
+  {
+    "intent": "huong_vi_canh_trai_binh_bat_nau_tom",
+    "patterns": "Mùi vị của canh trái bình bát nấu tôm là gì?",
+    "responses": "Canh trái bình bát nấu tôm có vị ngọt thanh tự nhiên của bình bát và tôm, nước canh trong và rất dễ ăn. Món canh này thanh mát, giải nhiệt."
+  },
+  {
+    "intent": "nguyen_lieu_canh_chay_la_dang_nau_nam",
+    "patterns": "Canh lá đắng nấu nấm cần nguyên liệu gì?",
+    "responses": "Canh lá đắng nấu nấm cần lá đắng, các loại nấm tươi (nấm rơm, nấm kim châm), đậu phụ, và các gia vị chay."
+  },
+  {
+    "intent": "cach_lam_canh_chay_la_dang_nau_nam",
+    "patterns": "Cách làm canh lá đắng nấu nấm tại nhà?",
+    "responses": "Bạn rửa sạch lá đắng, vò nhẹ. Phi thơm hành boa-rô, cho nấm vào xào sơ. Đổ nước dùng chay vào đun sôi. Nêm nếm gia vị, cho lá đắng và đậu phụ vào nấu thêm vài phút. Tắt bếp và thưởng thức."
+  },
+  {
+    "intent": "mo_ta_canh_chay_la_dang_nau_nam",
+    "patterns": "Mô tả một bát canh lá đắng nấu nấm.",
+    "responses": "Bát canh lá đắng nấu nấm có màu xanh sẫm của lá đắng, nước canh trong hoặc hơi đục nhẹ, nổi bật các loại nấm và đậu phụ. Món canh trông rất dân dã và mộc mạc."
+  },
+  {
+    "intent": "huong_vi_canh_chay_la_dang_nau_nam",
+    "patterns": "Hương vị của canh lá đắng nấu nấm là gì?",
+    "responses": "Canh lá đắng nấu nấm có vị đắng đặc trưng của lá đắng, xen lẫn vị ngọt thanh của nấm. Món canh này có hương vị độc đáo, giúp giải nhiệt và rất tốt cho sức khỏe."
+  },
+  {
+    "intent": "nguyen_lieu_canh_moc_dua_suon_non",
+    "patterns": "Canh mọc dừa sườn non cần những thành phần nào?",
+    "responses": "Canh mọc dừa sườn non cần sườn non, củ dừa tươi, mọc (giò sống), hành lá, và các gia vị thông thường."
+  },
+  {
+    "intent": "cach_lam_canh_moc_dua_suon_non",
+    "patterns": "Quy trình chế biến canh mọc dừa sườn non?",
+    "responses": "Bạn luộc sơ sườn non để loại bỏ tạp chất. Phi thơm hành tím, cho sườn vào xào sơ. Đổ nước dùng vào, đun sôi, cho củ dừa thái lát vào nấu mềm. Vo mọc thành viên nhỏ rồi thả vào nồi canh. Nêm nếm gia vị cho vừa miệng, rắc hành lá khi tắt bếp."
+  },
+  {
+    "intent": "mo_ta_canh_moc_dua_suon_non",
+    "patterns": "Mô tả hình ảnh của món canh mọc dừa sườn non.",
+    "responses": "Bát canh mọc dừa sườn non có nước canh trong, những miếng sườn non mềm, củ dừa trắng ngà và những viên mọc tròn xinh. Món canh trông rất thanh lịch và hấp dẫn."
+  },
+  {
+    "intent": "huong_vi_canh_moc_dua_suon_non",
+    "patterns": "Mùi vị của canh mọc dừa sườn non là gì?",
+    "responses": "Canh mọc dừa sườn non có vị ngọt thanh tự nhiên của củ dừa và sườn, mọc dai mềm, nước canh trong và rất dễ chịu. Món canh này thanh mát, bổ dưỡng."
+  },
+  {
+    "intent": "nguyen_lieu_canh_nghieu_nau_khom",
+    "patterns": "Canh nghêu nấu khóm cần các thành phần nào?",
+    "responses": "Canh nghêu nấu khóm cần nghêu tươi, khóm (dứa), cà chua, hành lá, ngò rí, và các gia vị thông thường."
+  },
+  {
+    "intent": "cach_lam_canh_nghieu_nau_khom",
+    "patterns": "Làm thế nào để nấu canh nghêu nấu khóm?",
+    "responses": "Bạn rửa sạch nghêu, luộc nghêu cho mở miệng, gỡ lấy thịt và lọc nước luộc. Phi thơm hành, cho cà chua, khóm vào xào nhẹ. Đổ nước luộc nghêu vào đun sôi. Nêm nếm gia vị, cho thịt nghêu vào. Tắt bếp rắc hành lá, ngò rí."
+  },
+  {
+    "intent": "mo_ta_canh_nghieu_nau_khom",
+    "patterns": "Mô tả một bát canh nghêu nấu khóm.",
+    "responses": "Bát canh nghêu nấu khóm có màu vàng cam của khóm và cà chua, nước canh trong, nổi bật những miếng nghêu trắng ngà. Món canh trông rất hấp dẫn và thanh mát."
+  },
+  {
+    "intent": "huong_vi_canh_nghieu_nau_khom",
+    "patterns": "Hương vị của canh nghêu nấu khóm là gì?",
+    "responses": "Canh nghêu nấu khóm có vị ngọt thanh của nghêu, chua dịu của khóm và cà chua, rất hài hòa và dễ chịu. Món canh này thanh mát, giải nhiệt và kích thích vị giác."
+  },
+  {
+    "intent": "nguyen_lieu_canh_ngot_trai_sung_nau_tom",
+    "patterns": "Những thành phần cần thiết để nấu canh trái sung nấu tôm là gì?",
+    "responses": "Canh trái sung nấu tôm cần trái sung non, tôm tươi, lá lốt, hành lá, và các gia vị cơ bản như nước mắm, hạt nêm, tiêu."
+  },
+  {
+    "intent": "cach_lam_canh_ngot_trai_sung_nau_tom",
+    "patterns": "Bạn có thể hướng dẫn chi tiết cách chế biến canh trái sung nấu tôm không?",
+    "responses": "Bạn rửa sạch trái sung, thái lát mỏng. Bóc vỏ tôm, ướp gia vị. Phi thơm hành tím, cho tôm vào xào săn. Đổ nước vào đun sôi, cho trái sung vào nấu đến khi sung mềm. Nêm nếm lại và rắc hành lá, lá lốt thái nhỏ khi tắt bếp."
+  },
+  {
+    "intent": "mo_ta_canh_ngot_trai_sung_nau_tom",
+    "patterns": "Mô tả tổng quan về bát canh trái sung nấu tôm.",
+    "responses": "Bát canh trái sung nấu tôm có màu xanh nhạt của sung, điểm xuyết màu hồng của tôm trong nước canh trong. Món canh trông rất dân dã và thanh mát."
+  },
+  {
+    "intent": "huong_vi_canh_ngot_trai_sung_nau_tom",
+    "patterns": "Hương vị của canh trái sung nấu tôm ra sao?",
+    "responses": "Canh trái sung nấu tôm có vị ngọt thanh tự nhiên của sung và tôm, nước canh trong và rất dễ ăn. Món canh này có tác dụng giải nhiệt và bổ dưỡng."
+  },
+  {
+    "intent": "nguyen_lieu_canh_ca_ri_ca_loc_khoai_mon",
+    "patterns": "Canh cà ri cá lóc khoai môn cần những gì để nấu?",
+    "responses": "Canh cà ri cá lóc khoai môn cần cá lóc, khoai môn, bột cà ri, nước cốt dừa, sả, ớt, tỏi, và rau nêm như ngò gai."
+  },
+  {
+    "intent": "cach_lam_canh_ca_ri_ca_loc_khoai_mon",
+    "patterns": "Quy trình nấu canh cà ri cá lóc khoai môn như thế nào?",
+    "responses": "Bạn làm sạch cá lóc, thái khúc. Khoai môn gọt vỏ, thái miếng. Phi thơm sả, ớt, tỏi, cho bột cà ri vào xào. Thêm nước cốt dừa và nước dùng vào đun sôi. Cho khoai môn vào nấu mềm, sau đó cho cá lóc vào nấu chín. Nêm nếm và rắc ngò gai."
+  },
+  {
+    "intent": "mo_ta_canh_ca_ri_ca_loc_khoai_mon",
+    "patterns": "Hình dáng của bát canh cà ri cá lóc khoai môn trông ra sao?",
+    "responses": "Bát canh cà ri cá lóc khoai môn có màu vàng cam đặc trưng của cà ri, nước sánh nhẹ, bốc hơi nóng hổi. Miếng cá và khoai môn nổi bật, trông rất hấp dẫn và đậm đà."
+  },
+  {
+    "intent": "huong_vi_canh_ca_ri_ca_loc_khoai_mon",
+    "patterns": "Mùi vị của canh cà ri cá lóc khoai môn là gì?",
+    "responses": "Canh cà ri cá lóc khoai môn có vị béo ngậy của nước cốt dừa, thơm nồng mùi cà ri, ngọt mềm của cá và bùi của khoai môn. Món canh này rất đậm đà, lạ miệng và ấm bụng."
+  },
+  {
+    "intent": "nguyen_lieu_canh_hen_nau_khế",
+    "patterns": "Canh hến nấu khế cần nguyên liệu gì?",
+    "responses": "Canh hến nấu khế cần thịt hến, khế chua, cà chua, hành lá, rau răm, và các gia vị cơ bản."
+  },
+  {
+    "intent": "cach_lam_canh_hen_nau_khế",
+    "patterns": "Cách làm canh hến nấu khế tại nhà?",
+    "responses": "Bạn rửa sạch hến, luộc hến lấy thịt và lọc nước. Phi thơm hành tím, cho cà chua vào xào nhẹ. Đổ nước luộc hến vào đun sôi, cho khế thái lát vào nấu. Khi nước sôi lại, cho thịt hến vào. Nêm nếm và rắc hành lá, rau răm."
+  },
+  {
+    "intent": "mo_ta_canh_hen_nau_khế",
+    "patterns": "Mô tả một bát canh hến nấu khế.",
+    "responses": "Bát canh hến nấu khế có nước canh trong, màu vàng nhạt của khế và cà chua, điểm xuyết màu trắng của thịt hến. Món canh trông rất thanh đạm và hấp dẫn."
+  },
+  {
+    "intent": "huong_vi_canh_hen_nau_khế",
+    "patterns": "Hương vị của canh hến nấu khế là gì?",
+    "responses": "Canh hến nấu khế có vị ngọt thanh của hến, chua dịu của khế, và thơm mùi rau răm. Nước canh trong, dễ chịu và có tác dụng giải nhiệt."
+  },
+  {
+    "intent": "nguyen_lieu_canh_mướp_đắng_hầm_xương",
+    "patterns": "Canh khổ qua hầm xương cần những thành phần nào?",
+    "responses": "Canh khổ qua hầm xương cần khổ qua (mướp đắng), xương heo, hành lá, và các gia vị thông thường."
+  },
+  {
+    "intent": "cach_lam_canh_mướp_đắng_hầm_xương",
+    "patterns": "Quy trình chế biến canh khổ qua hầm xương?",
+    "responses": "Bạn rửa sạch xương heo, chần sơ. Cho xương vào nồi hầm với nước đến khi mềm. Khổ qua làm sạch, bỏ ruột, cắt khúc. Khi xương đã mềm, cho khổ qua vào hầm cùng đến khi khổ qua mềm nhưng không nát. Nêm nếm và rắc hành lá."
+  },
+  {
+    "intent": "mo_ta_canh_mướp_đắng_hầm_xương",
+    "patterns": "Mô tả hình ảnh của món canh khổ qua hầm xương.",
+    "responses": "Bát canh khổ qua hầm xương có nước canh trong hoặc hơi đục nhẹ, màu xanh sẫm của khổ qua và màu trắng ngà của xương. Món canh trông rất bổ dưỡng và dân dã."
+  },
+  {
+    "intent": "huong_vi_canh_mướp_đắng_hầm_xương",
+    "patterns": "Mùi vị của canh khổ qua hầm xương là gì?",
+    "responses": "Canh khổ qua hầm xương có vị đắng nhẹ đặc trưng của khổ qua, hòa quyện với vị ngọt thanh của xương. Nước canh đậm đà, rất tốt để thanh nhiệt và bồi bổ cơ thể."
+  },
+  {
+    "intent": "nguyen_lieu_canh_bong_tap_cam",
+    "patterns": "Canh bóng thập cẩm cần các thành phần nào?",
+    "responses": "Canh bóng thập cẩm cần bì heo (bóng bì), tôm tươi, nấm hương, mộc nhĩ, cà rốt, su hào, súp lơ, và giò sống."
+  },
+  {
+    "intent": "cach_lam_canh_bong_tap_cam",
+    "patterns": "Làm thế nào để nấu canh bóng thập cẩm?",
+    "responses": "Bạn ngâm bóng bì cho nở mềm, rửa sạch. Luộc sơ tôm, bóc vỏ. Hầm xương lấy nước dùng. Thái các loại rau củ và nấm. Vo giò sống thành viên. Phi thơm hành, cho tôm, rau củ vào xào nhẹ. Đổ nước dùng vào đun sôi, cho bóng bì, giò sống và nấm vào nấu chín. Nêm nếm và rắc hành ngò."
+  },
+  {
+    "intent": "mo_ta_canh_bong_tap_cam",
+    "patterns": "Mô tả một bát canh bóng thập cẩm.",
+    "responses": "Bát canh bóng thập cẩm có nước canh trong, nhiều màu sắc từ các loại rau củ như cà rốt, su hào, súp lơ, và màu trắng trong của bóng bì. Món canh trông rất bắt mắt và đầy đặn."
+  },
+  {
+    "intent": "huong_vi_canh_bong_tap_cam",
+    "patterns": "Hương vị của canh bóng thập cẩm là gì?",
+    "responses": "Canh bóng thập cẩm có vị ngọt thanh của rau củ và xương, vị dai giòn sần sật của bóng bì, đậm đà của tôm và giò sống. Món canh này rất bổ dưỡng, hài hòa và được ưa chuộng trong các dịp lễ Tết."
+  },
+  {
+    "intent": "nguon_goc_cha_la_lot",
+    "patterns": "Món chả lá lốt xuất xứ từ vùng nào?",
+    "responses": "Chả lá lốt là một món ăn truyền thống, rất thân thuộc trong bữa cơm của người Việt, đặc biệt ở miền Bắc. Nó tận dụng mùi thơm đặc biệt của lá lốt để mang lại hương vị quyến rũ, dễ ăn và bổ dưỡng."
+  },
+  {
+    "intent": "mo_ta_cha_la_lot",
+    "patterns": "Chả lá lốt có hình dạng và màu sắc như thế nào?",
+    "responses": "Chả lá lốt thường có hình trụ hoặc bầu dục, bên ngoài là màu xanh đậm của lá lốt, bên trong là nhân thịt màu hồng nâu. Khi chiên, lá lốt sẽ mềm và thơm lừng, còn nhân thịt thì chín tới, ngọt mềm."
+  },
+  {
+    "intent": "nguyen_lieu_cha_la_lot",
+    "patterns": "Để làm chả lá lốt, cần có những nguyên liệu cơ bản nào?",
+    "responses": "Các nguyên liệu chính để chế biến chả lá lốt gồm lá lốt tươi, thịt nạc heo băm, nấm mèo, nấm hương, hành lá, cùng các loại gia vị thông dụng như nước mắm, tiêu, đường. Có thể thêm chút mỡ heo để nhân được mềm mại hơn."
+  },
+  {
+    "intent": "danh_gia_cha_la_lot",
+    "patterns": "Món chả lá lốt được mọi người đón nhận ra sao?",
+    "responses": "Chả lá lốt được rất nhiều người yêu thích vì sự kết hợp hoàn hảo giữa hương thơm đặc trưng của lá lốt và nhân thịt đậm đà, ngon miệng. Đây là món dễ chế biến, dễ ăn và thường góp mặt trong các bữa cơm gia đình hoặc làm món khai vị nhẹ nhàng."
+  },
+  {
+    "intent": "huong_vi_cha_la_lot",
+    "patterns": "Nếm thử chả lá lốt thì vị ra sao?",
+    "responses": "Chả lá lốt mang hương vị thơm nồng đặc trưng của lá lốt, cùng vị ngọt đậm của nhân thịt và chút béo ngậy. Sau khi chiên, lá lốt mềm mượt, nhân thịt chín đều, tạo nên tổng thể hương vị hài hòa, lôi cuốn và dễ chịu."
+  },
+  {
+    "intent": "cha_la_lot_nuoc_cham",
+    "patterns": "Khi ăn chả lá lốt, người ta thường chấm với loại nước chấm nào?",
+    "responses": "Chả lá lốt thường ngon nhất khi dùng kèm nước mắm tỏi ớt chua ngọt hoặc tương ớt. Nước mắm chua ngọt pha chế cân đối sẽ làm tăng thêm hương vị của lá lốt và vị ngọt của thịt."
+  },
+  {
+    "intent": "cach_lam_cha_ram_bap",
+    "patterns": "Cách làm món chả ram bắp đơn giản là gì?",
+    "responses": "Để làm chả ram bắp, bạn cần bào hạt bắp non hoặc bắp Mỹ, trộn với thịt băm (nếu muốn), hành lá, bột năng, trứng và gia vị. Sau đó, cuốn hỗn hợp này vào bánh đa nem rồi chiên giòn trong dầu nóng."
+  },
+  {
+    "intent": "nguon_goc_cha_ram_bap",
+    "patterns": "Chả ram bắp có lịch sử ra đời như thế nào?",
+    "responses": "Chả ram bắp là một nét đặc trưng của ẩm thực miền Trung Việt Nam, đặc biệt phổ biến ở Đà Nẵng và Quảng Nam. Món này kết hợp độc đáo giữa vị ngọt bùi của bắp và độ giòn tan của vỏ ram, thường được xem là món ăn vặt hoặc khai vị hấp dẫn."
+  },
+  {
+    "intent": "mo_ta_cha_ram_bap",
+    "patterns": "Chả ram bắp có đặc điểm nhận dạng nào?",
+    "responses": "Chả ram bắp thường có hình dạng cuộn tròn nhỏ gọn, chuyển sang màu vàng óng sau khi chiên. Vỏ ram giòn tan, nhân bên trong lộ ra màu vàng tươi của hạt bắp cùng màu xanh của hành lá, tạo nên vẻ ngoài rất bắt mắt."
+  },
+  {
+    "intent": "nguyen_lieu_cha_ram_bap",
+    "patterns": "Các loại nguyên liệu cần cho món chả ram bắp?",
+    "responses": "Nguyên liệu chính của chả ram bắp bao gồm bắp tươi (bắp non hoặc bắp Mỹ), bánh đa nem (vỏ ram), bột năng, hành lá và gia vị. Bạn có thể thêm thịt băm hoặc tôm để món ăn thêm phần phong phú."
+  },
+  {
+    "intent": "danh_gia_cha_ram_bap",
+    "patterns": "Món chả ram bắp có gì đặc biệt khiến nó được yêu thích?",
+    "responses": "Chả ram bắp là món ăn vặt và khai vị rất được ưa chuộng nhờ sự giòn rụm của vỏ ram và vị ngọt bùi tự nhiên của hạt bắp. Món này dễ ăn, không hề gây ngán, và thường là lựa chọn tuyệt vời cho các bữa tiệc nhỏ hoặc ăn nhẹ."
+  },
+  {
+    "intent": "huong_vi_cha_ram_bap",
+    "patterns": "Chả ram bắp mang đến hương vị gì khi thưởng thức?",
+    "responses": "Chả ram bắp mang hương vị ngọt bùi đặc trưng của bắp, cùng với độ giòn tan của vỏ ram và mùi thơm của hành lá. Nếu có thêm thịt hoặc tôm, món ăn sẽ thêm phần đậm đà, tạo nên sự hài hòa, hấp dẫn và dễ khiến người ăn 'nghiện'."
+  },
+  {
+    "intent": "cha_ram_bap_nuoc_cham",
+    "patterns": "Thường thì chả ram bắp được ăn kèm với loại nước chấm nào?",
+    "responses": "Chả ram bắp thường được thưởng thức cùng nước mắm chua ngọt. Loại nước chấm này được pha từ nước mắm, đường, chanh hoặc giấm, tỏi băm, ớt băm, giúp cân bằng vị và làm món chả ram thêm phần đậm đà, hấp dẫn."
+  },
+  {
+    "intent": "cach_lam_cha_cua",
+    "patterns": "Quy trình làm chả cua tại nhà như thế nào?",
+    "responses": "Để chế biến chả cua, bạn lấy thịt nạc cua tươi, trộn đều với giò sống, trứng, nấm mèo, hành tây, nấm hương và các loại gia vị. Hỗn hợp này có thể đem hấp hoặc chiên đến khi chín, thường được tạo hình thành miếng tròn hoặc vuông."
+  },
+  {
+    "intent": "nguon_goc_cha_cua",
+    "patterns": "Chả cua xuất phát từ vùng miền nào của Việt Nam?",
+    "responses": "Chả cua là một đặc sản nổi tiếng của các vùng ven biển Việt Nam, đặc biệt là ở miền Trung (như một thành phần trong bún bò Huế) hoặc các tỉnh giàu hải sản. Món này thể hiện sự khéo léo khi kết hợp vị ngọt của thịt cua với các nguyên liệu khác."
+  },
+  {
+    "intent": "mo_ta_cha_cua",
+    "patterns": "Hình dáng và màu sắc của chả cua như thế nào?",
+    "responses": "Chả cua thường có màu vàng cam nhạt do thịt cua và trứng, xen lẫn màu trắng của giò sống và màu đen của mộc nhĩ. Chả có thể được tạo hình thành miếng tròn, vuông hoặc viên nhỏ, với bề mặt mịn màng và hương thơm riêng biệt."
+  },
+  {
+    "intent": "nguyen_lieu_cha_cua",
+    "patterns": "Cần chuẩn bị những nguyên liệu gì để làm chả cua?",
+    "responses": "Các thành phần chính của chả cua bao gồm thịt cua tươi, giò sống (chả lụa sống), trứng gà, nấm mèo, nấm hương, hành tây, hành lá và các loại gia vị như nước mắm, tiêu."
+  },
+  {
+    "intent": "danh_gia_cha_cua",
+    "patterns": "Món chả cua được đánh giá cao vì những lý do gì?",
+    "responses": "Chả cua là một món ăn được đánh giá cao nhờ vị ngọt tự nhiên của thịt cua, kết hợp với độ dai ngon của giò sống và hương thơm đặc trưng từ nấm. Món này không chỉ giàu dinh dưỡng mà còn rất hấp dẫn, thường dùng làm món ăn kèm hoặc khai vị sang trọng."
+  },
+  {
+    "intent": "huong_vi_cha_cua",
+    "patterns": "Hương vị khi nếm chả cua ra sao?",
+    "responses": "Chả cua có hương vị ngọt thanh của thịt cua, vị béo của trứng, dai ngon của giò sống, và thơm nhẹ của nấm hương, mộc nhĩ. Tổng thể món ăn rất hài hòa, đậm đà, mang đậm hương vị của biển cả."
+  },
+  {
+    "intent": "cha_cua_nuoc_cham",
+    "patterns": "Khi thưởng thức chả cua, loại nước chấm nào là phù hợp nhất?",
+    "responses": "Chả cua thường được dùng kèm nước mắm tỏi ớt chua ngọt hoặc tương ớt. Đặc biệt trong bún bò Huế, chả cua sẽ hòa quyện cùng nước dùng đậm đà của món bún."
+  },
+  {
+    "intent": "cach_lam_bo_luc_lac",
+    "patterns": "Làm thế nào để chế biến bò lúc lắc tại nhà?",
+    "responses": "Để làm bò lúc lắc, bạn cần thịt bò thái hạt lựu, ướp với tỏi băm, dầu hào, đường, tiêu. Sau đó, xào nhanh thịt bò trên lửa lớn cùng hành tây và ớt chuông (xanh, đỏ, vàng) thái vuông. Quan trọng là xào nhanh để thịt bò vừa chín tới, giữ được độ mềm ngọt."
+  },
+  {
+    "intent": "nguon_goc_bo_luc_lac",
+    "patterns": "Nguồn gốc của món bò lúc lắc là gì?",
+    "responses": "Bò lúc lắc là món ăn có nguồn gốc từ phong cách ẩm thực phương Tây (dạng beefsteak cắt nhỏ), sau đó được du nhập và biến tấu để phù hợp với khẩu vị người Việt. Món này rất thịnh hành ở các nhà hàng, quán ăn và cả trong bữa cơm gia đình Việt Nam."
+  },
+  {
+    "intent": "mo_ta_bo_luc_lac",
+    "patterns": "Hình ảnh của món bò lúc lắc được mô tả như thế nào?",
+    "responses": "Bò lúc lắc có hình dáng những khối thịt bò vuông vức, được xào chín cùng hành tây và các loại ớt chuông màu sắc tươi sáng (xanh, đỏ, vàng). Món ăn thường được bày trí hấp dẫn với lớp nước sốt bóng bẩy."
+  },
+  {
+    "intent": "nguyen_lieu_bo_luc_lac",
+    "patterns": "Các nguyên liệu cần có để làm bò lúc lắc?",
+    "responses": "Các thành phần chính bao gồm thịt bò thăn hoặc phi lê, hành tây, ớt chuông (xanh, đỏ, vàng), tỏi. Gia vị ướp gồm dầu hào, nước tương, đường, tiêu, và một chút bột năng giúp thịt mềm hơn."
+  },
+  {
+    "intent": "danh_gia_bo_luc_lac",
+    "patterns": "Món bò lúc lắc có được coi là món ăn ngon không?",
+    "responses": "Bò lúc lắc được đánh giá rất cao nhờ thịt bò mềm ngọt, thơm lừng, kết hợp với rau củ giòn ngọt và nước sốt đậm đà. Món này dễ ăn, giàu dinh dưỡng và là lựa chọn tuyệt vời cho cả bữa chính hay món khai vị."
+  },
+  {
+    "intent": "huong_vi_bo_luc_lac",
+    "patterns": "Khi nếm thử, bò lúc lắc có hương vị đặc trưng nào?",
+    "responses": "Bò lúc lắc mang hương vị đậm đà, mềm ngọt của thịt bò, thơm lừng của tỏi và hành tây, cùng độ giòn nhẹ của ớt chuông. Nước sốt sánh mịn, đậm đà, vừa ăn, tạo nên một tổng thể hài hòa, kích thích vị giác."
+  },
+  {
+    "intent": "bo_luc_lac_nuoc_cham",
+    "patterns": "Bò lúc lắc thường được chấm với loại nước chấm nào cho hợp?",
+    "responses": "Bò lúc lắc thường được dùng kèm muối tiêu chanh hoặc tương ớt. Một số nơi còn có nước chấm pha từ nước tương, tương ớt, đường và chanh, tùy theo sở thích."
+  },
+  {
+    "intent": "cach_lam_bo_ne",
+    "patterns": "Các bước làm bò né tại nhà là gì?",
+    "responses": "Để làm bò né, bạn cần thịt bò thái lát mỏng, sau đó ướp gia vị. Thịt bò sẽ được chiên áp chảo nhanh trên chảo gang nóng cùng trứng ốp la, pate, xúc xích và hành tây. Món này thường được ăn kèm với bánh mì nóng giòn."
+  },
+  {
+    "intent": "nguon_goc_bo_ne",
+    "patterns": "Bò né có xuất xứ từ đâu?",
+    "responses": "Bò né là món ăn sáng hoặc trưa rất phổ biến ở Việt Nam, đặc biệt là tại miền Nam. Tên gọi 'bò né' bắt nguồn từ việc khi chiên, thịt bò và các nguyên liệu khác thường 'né' dầu nóng văng ra, tạo nên nét dân dã và thú vị cho món ăn."
+  },
+  {
+    "intent": "mo_ta_bo_ne",
+    "patterns": "Bò né có vẻ ngoài như thế nào?",
+    "responses": "Bò né thường được dọn ra trên chảo gang còn nóng hổi, với những lát thịt bò mỏng xèo xèo, kèm theo trứng ốp la lòng đào, miếng pate béo ngậy, vài lát xúc xích và hành tây. Món ăn bốc khói nghi ngút, trông rất kích thích và hấp dẫn."
+  },
+  {
+    "intent": "nguyen_lieu_bo_ne",
+    "patterns": "Để làm bò né, bạn cần chuẩn bị những nguyên liệu gì?",
+    "responses": "Các nguyên liệu chính gồm: thịt bò thái lát, trứng gà, pate, xúc xích, hành tây, và có thể thêm cà chua. Thịt bò được ướp với dầu hào, tỏi, đường, tiêu. Món này thường ăn kèm bánh mì, salad dưa chuột và cà chua."
+  },
+  {
+    "intent": "danh_gia_bo_ne",
+    "patterns": "Bò né có được đánh giá cao như một món ăn không?",
+    "responses": "Bò né là một món ăn sáng được yêu thích nhờ sự tiện lợi, ngon miệng và đầy đủ dinh dưỡng. Thịt bò mềm, trứng ốp la béo ngậy, pate thơm lừng kết hợp với bánh mì nóng giòn tạo nên một bữa ăn hoàn hảo và rất 'bắt miệng'."
+  },
+  {
+    "intent": "huong_vi_bo_ne",
+    "patterns": "Hương vị của bò né có gì đặc biệt?",
+    "responses": "Bò né có hương vị đậm đà của thịt bò ướp, vị béo ngậy của trứng và pate, cùng mùi thơm của hành tây. Hương vị tổng thể hài hòa giữa các nguyên liệu, khi ăn kèm bánh mì sẽ tạo nên một trải nghiệm ẩm thực đầy đặn và ngon miệng."
+  },
+  {
+    "intent": "bo_ne_nuoc_cham",
+    "patterns": "Nước chấm phổ biến cho món bò né là gì?",
+    "responses": "Bò né thường được ăn kèm tương ớt và tương cà. Ngoài ra, bạn cũng có thể chấm thịt bò với muối tiêu chanh hoặc nước tương pha thêm ớt để tăng thêm hương vị."
+  },
+  {
+    "intent": "nguyen_lieu_chim_cut_nuong",
+    "patterns": "Những thành phần cần để chế biến chim cút nướng là gì?",
+    "responses": "Các nguyên liệu chính cho món chim cút nướng gồm chim cút tươi, ngũ vị hương, mật ong, dầu hào, tỏi băm, sả băm, nước mắm, đường và tiêu."
+  },
+  {
+    "intent": "danh_gia_chim_cut_nuong",
+    "patterns": "Vì sao món chim cút nướng lại được ưa chuộng?",
+    "responses": "Chim cút nướng được đánh giá cao nhờ thịt chim mềm ngọt, ngấm đều gia vị đậm đà và lớp da giòn rụm. Món này rất lôi cuốn, dễ ăn và là lựa chọn tuyệt vời cho các bữa tiệc hoặc sum họp."
+  },
+  {
+    "intent": "huong_vi_chim_cut_nuong",
+    "patterns": "Nếm chim cút nướng có vị gì đặc trưng?",
+    "responses": "Chim cút nướng mang hương vị ngọt mặn hài hòa, cùng mùi thơm lừng của mật ong và ngũ vị hương. Thịt chim mềm mại, da giòn tan, tạo nên trải nghiệm ăn uống vô cùng ngon miệng."
+  },
+  {
+    "intent": "chim_cut_nuong_an_kem",
+    "patterns": "Chim cút nướng thường được ăn kèm với những loại nào?",
+    "responses": "Chim cút nướng thường được thưởng thức cùng dưa chuột và rau răm. Để tăng thêm hương vị, bạn có thể chấm với tương ớt hoặc hỗn hợp muối tiêu chanh ớt."
+  },
+  {
+    "intent": "cach_lam_ga_nuong_la_chanh",
+    "patterns": "Quy trình làm gà nướng lá chanh tại nhà như thế nào?",
+    "responses": "Để làm gà nướng lá chanh, bạn cần chuẩn bị gà ta nguyên con hoặc chặt miếng. Ướp gà với muối, tiêu, nước mắm, đường, tỏi băm, hành tím băm, và không thể thiếu lá chanh thái sợi. Bạn có thể nhồi lá chanh vào bụng gà hoặc rải đều lên thịt. Sau đó, nướng trên than hoa hoặc trong lò đến khi gà chín vàng đều, da giòn và thịt dậy mùi thơm của lá chanh."
+  },
+  {
+    "intent": "nguon_goc_ga_nuong_la_chanh",
+    "patterns": "Món gà nướng lá chanh có nguồn gốc từ đâu?",
+    "responses": "Gà nướng lá chanh là một món ăn truyền thống, rất quen thuộc trong ẩm thực Việt Nam, đặc biệt ở miền Bắc. Món này được yêu thích vì sự kết hợp hoàn hảo giữa thịt gà ngọt mềm và hương thơm đặc trưng, thanh mát của lá chanh."
+  },
+  {
+    "intent": "mo_ta_ga_nuong_la_chanh",
+    "patterns": "Gà nướng lá chanh có hình thức bên ngoài ra sao?",
+    "responses": "Gà nướng lá chanh có lớp da vàng óng, căng bóng và hơi xém nhẹ. Khi cắt ra, phần thịt gà trắng mềm, xen lẫn những sợi lá chanh xanh, tỏa ra mùi thơm dịu nhẹ, trông rất hấp dẫn."
+  },
+  {
+    "intent": "nguyen_lieu_ga_nuong_la_chanh",
+    "patterns": "Cần những nguyên liệu nào để làm món gà nướng lá chanh?",
+    "responses": "Các thành phần chính cho món gà nướng lá chanh gồm gà ta, lá chanh tươi, muối, tiêu, nước mắm, đường, tỏi băm và hành tím băm."
+  },
+  {
+    "intent": "danh_gia_ga_nuong_la_chanh",
+    "patterns": "Người ta thường đánh giá món gà nướng lá chanh như thế nào?",
+    "responses": "Gà nướng lá chanh được đánh giá rất cao nhờ thịt gà ngọt mềm, lớp da giòn, và hương thơm đặc trưng, tươi mát của lá chanh. Món này rất dễ ăn, hấp dẫn và là lựa chọn lý tưởng cho mọi bữa ăn gia đình."
+  },
+  {
+    "intent": "huong_vi_ga_nuong_la_chanh",
+    "patterns": "Hương vị của gà nướng lá chanh khi thưởng thức sẽ như thế nào?",
+    "responses": "Gà nướng lá chanh có hương vị ngọt mặn hài hòa của thịt gà, thơm lừng mùi lá chanh tươi mát. Lớp da giòn tan, thịt gà mềm mọng, mang lại trải nghiệm ẩm thực vô cùng tinh tế và lôi cuốn."
+  },
+  {
+    "intent": "ga_nuong_la_chanh_an_kem",
+    "patterns": "Món gà nướng lá chanh thường được dùng kèm với gì?",
+    "responses": "Gà nướng lá chanh thường được ăn kèm với xôi, cơm nóng hoặc bún. Bạn có thể chấm gà với muối tiêu chanh ớt hoặc nước mắm gừng để tăng thêm vị ngon."
+  },
+  {
+    "intent": "cach_lam_suon_non_nuong_mat_ong",
+    "patterns": "Bạn có thể hướng dẫn làm sườn non nướng mật ong không?",
+    "responses": "Để làm sườn non nướng mật ong, bạn cần sườn non heo chặt miếng vừa ăn. Ướp sườn với mật ong, dầu hào, nước tương, tỏi băm, hành tím băm, đường, tiêu và một chút ngũ vị hương. Nên ướp ít nhất từ 1-2 tiếng để gia vị thấm đều. Sau đó, nướng trên than hoa hoặc lò nướng đến khi sườn chín vàng óng, hơi xém cạnh và dậy mùi thơm lừng."
+  },
+  {
+    "intent": "nguon_goc_suon_non_nuong_mat_ong",
+    "patterns": "Sườn non nướng mật ong xuất phát từ đâu?",
+    "responses": "Sườn non nướng mật ong là món ăn rất được ưa chuộng trong các bữa tiệc BBQ, dã ngoại hoặc bữa ăn gia đình ở Việt Nam. Món này nổi bật với vị ngọt dịu của mật ong, thịt sườn mềm và hương thơm hấp dẫn khi được nướng chín."
+  },
+  {
+    "intent": "mo_ta_suon_non_nuong_mat_ong",
+    "patterns": "Mô tả hình thức bên ngoài của món sườn non nướng mật ong.",
+    "responses": "Sườn non nướng mật ong có màu vàng cánh gián óng ả, rất đẹp mắt. Bề mặt sườn hơi cháy xém và bóng loáng. Miếng sườn trông rất hấp dẫn, tỏa ra mùi thơm ngọt ngào của mật ong và gia vị tẩm ướp."
+  },
+  {
+    "intent": "nguyen_lieu_banh_beo",
+    "patterns": "Những thành phần cần thiết để làm bánh bèo là gì?",
+    "responses": "Bánh bèo cần bột gạo, tôm tươi, thịt ba chỉ, bì heo chiên giòn (tóp mỡ), hành lá, và nước mắm pha."
+  },
+  {
+    "intent": "cach_lam_banh_beo",
+    "patterns": "Bạn có thể hướng dẫn chi tiết cách làm bánh bèo không?",
+    "responses": "Bạn pha bột gạo với nước, để bột nghỉ. Hấp chín tôm rồi giã hoặc xay nhỏ, rim khô. Luộc thịt ba chỉ, thái hạt lựu. Đặt khuôn bánh bèo vào nồi hấp, đổ bột vào hấp chín. Khi ăn, cho bánh ra đĩa, rắc tôm khô, thịt, tóp mỡ, hành lá phi dầu và chan nước mắm chua ngọt."
+  },
+  {
+    "intent": "mo_ta_banh_beo",
+    "patterns": "Mô tả tổng quan về đĩa bánh bèo.",
+    "responses": "Đĩa bánh bèo gồm nhiều chén nhỏ xinh, mỗi chén có một chiếc bánh màu trắng trong, tròn trĩnh, mỏng manh. Trên bề mặt bánh được trang trí tôm cháy, tóp mỡ, và hành phi vàng óng, trông rất dân dã và đẹp mắt."
+  },
+  {
+    "intent": "huong_vi_banh_beo",
+    "patterns": "Hương vị của bánh bèo ra sao?",
+    "responses": "Bánh bèo có vị dai mềm, béo nhẹ của bột gạo, vị ngọt mặn của tôm và thịt, giòn rụm của tóp mỡ, hòa quyện với nước mắm chua ngọt đậm đà. Món ăn này rất hài hòa và dễ gây 'nghiện'."
+  },
+  {
+    "intent": "nguyen_lieu_banh_uot_thit_nuong",
+    "patterns": "Bánh ướt thịt nướng cần những gì để chế biến?",
+    "responses": "Bánh ướt thịt nướng cần bánh ướt (bánh phở ướt), thịt heo nạc vai hoặc ba chỉ để nướng, rau sống các loại, dưa chuột, và nước chấm."
+  },
+  {
+    "intent": "cach_lam_banh_uot_thit_nuong",
+    "patterns": "Quy trình làm bánh ướt thịt nướng như thế nào?",
+    "responses": "Bạn ướp thịt heo với gia vị (sả, tỏi, đường, dầu hào) rồi nướng chín vàng đều. Rửa sạch rau sống và thái dưa chuột. Khi ăn, trải bánh ướt ra, đặt rau sống, dưa chuột, thịt nướng lên rồi cuộn lại. Chấm với nước chấm chua ngọt."
+  },
+  {
+    "intent": "mo_ta_banh_uot_thit_nuong",
+    "patterns": "Hình dáng của đĩa bánh ướt thịt nướng trông ra sao?",
+    "responses": "Đĩa bánh ướt thịt nướng có màu trắng trong của bánh ướt, xen lẫn màu xanh tươi của rau sống và màu vàng nâu hấp dẫn của thịt nướng. Món ăn được trình bày gọn gàng, trông rất tươi ngon và bắt mắt."
+  },
+  {
+    "intent": "huong_vi_banh_uot_thit_nuong",
+    "patterns": "Mùi vị của bánh ướt thịt nướng là gì?",
+    "responses": "Bánh ướt thịt nướng có vị dai mềm của bánh ướt, ngọt đậm đà của thịt nướng, giòn mát của rau sống, và vị chua ngọt của nước chấm. Tổng thể món ăn rất hài hòa, dễ ăn và thanh đạm."
+  },
+  {
+    "intent": "nguyen_lieu_xoi_che_dau_xanh",
+    "patterns": "Xôi chè đậu xanh cần nguyên liệu gì?",
+    "responses": "Xôi chè đậu xanh cần gạo nếp, đậu xanh cà vỏ, đường, nước cốt dừa, và một chút muối."
+  },
+  {
+    "intent": "cach_lam_xoi_che_dau_xanh",
+    "patterns": "Cách làm xôi chè đậu xanh tại nhà?",
+    "responses": "Bạn ngâm nếp và đậu xanh riêng. Hấp nếp thành xôi. Đậu xanh hấp chín rồi giã nhuyễn, sên với đường và nước cốt dừa để làm chè. Khi ăn, múc xôi ra chén, chan chè đậu xanh lên trên, có thể thêm dừa nạo hoặc mè rang."
+  },
+  {
+    "intent": "mo_ta_xoi_che_dau_xanh",
+    "patterns": "Mô tả một chén xôi chè đậu xanh.",
+    "responses": "Chén xôi chè đậu xanh có màu trắng của xôi, bên trên là lớp chè đậu xanh vàng óng, sánh mịn. Món ăn trông rất truyền thống, ấm cúng và hấp dẫn với sự hòa quyện của hai phần."
+  },
+  {
+    "intent": "huong_vi_xoi_che_dau_xanh",
+    "patterns": "Hương vị của xôi chè đậu xanh là gì?",
+    "responses": "Xôi chè đậu xanh có vị dẻo thơm của nếp, ngọt bùi của đậu xanh, béo ngậy của nước cốt dừa. Hương vị tổng thể ngọt dịu, dễ chịu và mang đậm nét ẩm thực truyền thống."
+  },
+  {
+    "intent": "nguyen_lieu_banh_duc_cham_tuong_ban",
+    "patterns": "Bánh đúc chấm tương bần cần những thành phần nào?",
+    "responses": "Bánh đúc chấm tương bần cần bột gạo tẻ, nước vôi trong, lạc rang, hành phi, và tương bần."
+  },
+  {
+    "intent": "cach_lam_banh_duc_cham_tuong_ban",
+    "patterns": "Quy trình chế biến bánh đúc chấm tương bần?",
+    "responses": "Bạn hòa bột gạo tẻ với nước vôi trong, khuấy đều trên lửa nhỏ cho bột sánh lại và chín. Đổ hỗn hợp vào khuôn, để nguội cho bánh đông lại. Khi ăn, cắt bánh đúc thành miếng, ăn kèm lạc rang, hành phi và chấm với tương bần đã pha chế."
+  },
+  {
+    "intent": "mo_ta_banh_duc_cham_tuong_ban",
+    "patterns": "Mô tả hình ảnh của món bánh đúc chấm tương bần.",
+    "responses": "Miếng bánh đúc có màu trắng ngà, bề mặt mịn màng, dẻo dai. Khi trình bày, bánh được cắt miếng, rắc lạc rang, hành phi và kèm chén tương bần đậm đà, trông rất dân dã và giản dị."
+  },
+  {
+    "intent": "huong_vi_banh_duc_cham_tuong_ban",
+    "patterns": "Mùi vị của bánh đúc chấm tương bần là gì?",
+    "responses": "Bánh đúc chấm tương bần có vị béo nhẹ, dẻo dai của bánh, thơm bùi của lạc rang và hành phi, đặc biệt là vị mặn ngọt, đậm đà rất riêng của tương bần. Món ăn này mang hương vị mộc mạc, đặc trưng của ẩm thực đồng quê."
+  },
+  {
+    "intent": "nguyen_lieu_che_khoai_mon_nuoc_cot_dua",
+    "patterns": "Chè khoai môn nước cốt dừa cần các thành phần nào?",
+    "responses": "Chè khoai môn nước cốt dừa cần khoai môn, đường, nước cốt dừa tươi, bột năng, và lá dứa để tạo mùi thơm."
+  },
+  {
+    "intent": "cach_lam_che_khoai_mon_nuoc_cot_dua",
+    "patterns": "Làm thế nào để nấu chè khoai môn nước cốt dừa?",
+    "responses": "Bạn gọt vỏ khoai môn, cắt miếng vừa ăn, hấp hoặc luộc chín. Nấu nước cốt dừa với đường, thêm lá dứa cho thơm. Pha bột năng với nước rồi từ từ cho vào nồi nước cốt dừa để tạo độ sánh. Cuối cùng, cho khoai môn đã nấu chín vào, đun sôi nhẹ là được."
+  },
+  {
+    "intent": "mo_ta_che_khoai_mon_nuoc_cot_dua",
+    "patterns": "Mô tả một bát chè khoai môn nước cốt dừa.",
+    "responses": "Bát chè khoai môn nước cốt dừa có màu tím nhạt đặc trưng của khoai môn, nước chè màu trắng sữa sánh mịn, bốc hơi ấm. Món chè trông rất hấp dẫn, thanh đạm và mang nét truyền thống."
+  },
+  {
+    "intent": "huong_vi_che_khoai_mon_nuoc_cot_dua",
+    "patterns": "Hương vị của chè khoai môn nước cốt dừa là gì?",
+    "responses": "Chè khoai môn nước cốt dừa có vị ngọt dịu, bùi bùi của khoai môn, béo ngậy của nước cốt dừa và thơm nhẹ mùi lá dứa. Món chè này rất mềm mịn, dễ ăn và mang lại cảm giác ấm áp, dễ chịu."
+  },
+  {
+    "intent": "nguyen_lieu_banh_it_tran",
+    "patterns": "Những thành phần cần thiết để làm bánh ít trần là gì?",
+    "responses": "Bánh ít trần cần bột nếp, tôm tươi, thịt ba chỉ, đậu xanh, hành lá, hành phi và gia vị thông thường."
+  },
+  {
+    "intent": "cach_lam_banh_it_tran",
+    "patterns": "Bạn có thể hướng dẫn chi tiết cách chế biến bánh ít trần không?",
+    "responses": "Bạn ngâm và đồ chín đậu xanh, sau đó nghiền nhuyễn. Xào tôm và thịt ba chỉ băm nhỏ cùng hành phi, rồi trộn với đậu xanh để làm nhân. Bột nếp nhào với nước ấm cho dẻo, bọc nhân vào viên tròn. Đem bánh đi hấp đến khi bột trong và bánh nổi lên. Khi ăn rắc thêm hành phi, mỡ hành."
+  },
+  {
+    "intent": "mo_ta_banh_it_tran",
+    "patterns": "Mô tả tổng quan về chiếc bánh ít trần.",
+    "responses": "Chiếc bánh ít trần có hình tròn nhỏ, màu trắng trong mờ của lớp vỏ bột nếp, nhìn rõ được nhân tôm thịt bên trong. Bánh trông giản dị nhưng rất hấp dẫn và mềm mại."
+  },
+  {
+    "intent": "huong_vi_banh_it_tran",
+    "patterns": "Hương vị của bánh ít trần ra sao?",
+    "responses": "Bánh ít trần có vị dai mềm của vỏ bánh, ngọt mặn đậm đà của nhân tôm thịt và đậu xanh, thơm lừng mùi hành phi. Tổng thể hương vị rất hài hòa, dễ ăn và mang đậm nét truyền thống."
+  },
+  {
+    "intent": "nguyen_lieu_banh_khoai_mi_hap_nuoc_cot_dua",
+    "patterns": "Bánh khoai mì hấp nước cốt dừa cần những gì để làm?",
+    "responses": "Bánh khoai mì hấp nước cốt dừa cần khoai mì tươi, đường, nước cốt dừa, bột năng (hoặc bột báng), và đậu phộng rang."
+  },
+  {
+    "intent": "cach_lam_banh_khoai_mi_hap_nuoc_cot_dua",
+    "patterns": "Quy trình làm bánh khoai mì hấp nước cốt dừa như thế nào?",
+    "responses": "Bạn lột vỏ khoai mì, rửa sạch, mài nhuyễn hoặc xay. Trộn khoai mì với đường, nước cốt dừa, bột năng. Đổ hỗn hợp vào khuôn và đem hấp chín. Khi bánh chín, cắt miếng, rắc thêm đậu phộng rang và chan thêm nước cốt dừa."
+  },
+  {
+    "intent": "mo_ta_banh_khoai_mi_hap_nuoc_cot_dua",
+    "patterns": "Hình dáng của bánh khoai mì hấp nước cốt dừa trông ra sao?",
+    "responses": "Bánh khoai mì hấp nước cốt dừa có màu trắng ngà hoặc hơi vàng nhẹ đặc trưng của khoai mì. Bánh có kết cấu dẻo dai, khi cắt ra miếng bánh trông mềm mại và có độ bóng nhẹ. Thường được ăn kèm với nước cốt dừa trắng và đậu phộng rang."
+  },
+  {
+    "intent": "huong_vi_banh_khoai_mi_hap_nuoc_cot_dua",
+    "patterns": "Mùi vị của bánh khoai mì hấp nước cốt dừa là gì?",
+    "responses": "Bánh khoai mì hấp nước cốt dừa có vị ngọt thanh, bùi bùi của khoai mì, béo ngậy của nước cốt dừa và thơm bùi của đậu phộng. Bánh rất dẻo dai, dễ ăn và mang hương vị dân dã đặc trưng."
+  },
+  {
+    "intent": "nguyen_lieu_banh_la_gai",
+    "patterns": "Bánh lá gai cần nguyên liệu gì?",
+    "responses": "Bánh lá gai cần lá gai tươi, bột nếp, đậu xanh cà vỏ, đường, dừa tươi nạo sợi, mè rang, và mỡ heo (hoặc dầu thực vật)."
+  },
+  {
+    "intent": "cach_lam_banh_la_gai",
+    "patterns": "Cách làm bánh lá gai tại nhà?",
+    "responses": "Bạn luộc lá gai, giã hoặc xay nhuyễn, trộn với bột nếp. Đậu xanh hấp chín, sên với đường, dừa sợi để làm nhân. Bọc nhân vào vỏ bánh, gói bằng lá chuối. Đem bánh đi hấp đến khi chín mềm, vỏ bánh đen bóng. Sau đó, phết chút dầu ăn lên mặt bánh và rắc mè rang."
+  },
+  {
+    "intent": "mo_ta_banh_la_gai",
+    "patterns": "Mô tả một chiếc bánh lá gai.",
+    "responses": "Chiếc bánh lá gai có màu đen đặc trưng từ lá gai, hình dạng vuông hoặc tròn được gói kín trong lá chuối. Bánh có vẻ ngoài giản dị, mộc mạc nhưng khi bóc ra, bề mặt bánh bóng mịn và thơm lừng."
+  },
+  {
+    "intent": "huong_vi_banh_la_gai",
+    "patterns": "Hương vị của bánh lá gai là gì?",
+    "responses": "Bánh lá gai có vị ngọt thanh, dẻo thơm của bột nếp và lá gai, bùi bùi của nhân đậu xanh và dừa. Hương vị tổng thể rất hài hòa, độc đáo và là món bánh truyền thống mang đậm nét văn hóa vùng miền."
+  },
+  {
+    "intent": "nguyen_lieu_banh_te",
+    "patterns": "Bánh tẻ cần những thành phần nào?",
+    "responses": "Bánh tẻ cần bột gạo tẻ, thịt nạc vai băm, mộc nhĩ, hành lá, hành khô phi vàng, lá dong hoặc lá chuối để gói."
+  },
+  {
+    "intent": "cach_lam_banh_te",
+    "patterns": "Quy trình chế biến bánh tẻ?",
+    "responses": "Bạn hòa bột gạo tẻ với nước, khuấy trên lửa nhỏ đến khi bột sánh lại. Xào thịt băm với mộc nhĩ và gia vị để làm nhân. Trải lá dong hoặc lá chuối, phết một lớp bột mỏng, đặt nhân vào giữa rồi gói lại hình trụ. Đem bánh đi hấp đến khi chín. Sau đó, ăn kèm với hành phi."
+  },
+  {
+    "intent": "mo_ta_banh_te",
+    "patterns": "Mô tả hình ảnh của món bánh tẻ.",
+    "responses": "Chiếc bánh tẻ có hình trụ dài, được gói cẩn thận trong lá dong hoặc lá chuối. Khi bóc ra, bánh có màu trắng ngà của bột gạo, bên trong là lớp nhân thịt mộc nhĩ. Bánh trông giản dị, mộc mạc và rất gần gũi."
+  },
+  {
+    "intent": "huong_vi_banh_te",
+    "patterns": "Mùi vị của bánh tẻ là gì?",
+    "responses": "Bánh tẻ có vị dai mềm của vỏ bánh, đậm đà của nhân thịt và mộc nhĩ, thơm mùi hành khô. Món bánh này mang hương vị mộc mạc, đặc trưng của ẩm thực đồng bằng Bắc Bộ, rất dễ ăn và thường được dùng làm bữa sáng hoặc bữa phụ."
+  },
+  {
+    "intent": "nguyen_lieu_banh_sau_rieng_hap",
+    "patterns": "Bánh sầu riêng hấp cần các thành phần nào?",
+    "responses": "Bánh sầu riêng hấp cần thịt sầu riêng tươi, bột năng, bột gạo, đường, nước cốt dừa, và trứng gà."
+  },
+  {
+    "intent": "cach_lam_banh_sau_rieng_hap",
+    "patterns": "Làm thế nào để nấu bánh sầu riêng hấp?",
+    "responses": "Bạn nghiền nhuyễn thịt sầu riêng. Trộn đều sầu riêng với bột năng, bột gạo, đường, nước cốt dừa và trứng gà. Đổ hỗn hợp vào khuôn đã lót giấy nến hoặc phết dầu. Đem hấp cách thủy khoảng 20-30 phút cho bánh chín. Khi bánh nguội, cắt miếng vừa ăn."
+  },
+  {
+    "intent": "mo_ta_banh_sau_rieng_hap",
+    "patterns": "Mô tả một miếng bánh sầu riêng hấp.",
+    "responses": "Miếng bánh sầu riêng hấp có màu vàng nhạt đặc trưng của sầu riêng, bề mặt bánh mịn màng và hơi trong. Bánh có kết cấu mềm dẻo, trông rất hấp dẫn và đặc biệt đối với những người yêu thích sầu riêng."
+  },
+  {
+    "intent": "huong_vi_banh_sau_rieng_hap",
+    "patterns": "Hương vị của bánh sầu riêng hấp là gì?",
+    "responses": "Bánh sầu riêng hấp có vị ngọt đậm đà và mùi thơm nồng đặc trưng của sầu riêng, vị béo ngậy của nước cốt dừa và trứng. Bánh mềm dẻo, tan chảy trong miệng, mang lại trải nghiệm hương vị độc đáo và khó quên."
+  },
+  {
+    "intent": "nguyen_lieu_ga_luoc_chao",
+    "patterns": "Những thành phần cần thiết để làm gà luộc chấm chao là gì?",
+    "responses": "Gà luộc chấm chao cần gà ta nguyên con hoặc nửa con, gừng, hành tím, và đặc biệt là chao (đậu phụ lên men) để làm nước chấm."
+  },
+  {
+    "intent": "cach_lam_ga_luoc_chao",
+    "patterns": "Bạn có thể hướng dẫn chi tiết cách chế biến gà luộc chấm chao không?",
+    "responses": "Bạn làm sạch gà, xát muối gừng bên ngoài và trong bụng gà, rửa sạch. Luộc gà với gừng và hành tím đập dập đến khi gà chín tới. Vớt gà ra để nguội, chặt miếng vừa ăn. Pha chao với đường, ớt, tỏi băm để làm nước chấm."
+  },
+  {
+    "intent": "mo_ta_ga_luoc_chao",
+    "patterns": "Mô tả tổng quan về đĩa gà luộc chấm chao.",
+    "responses": "Đĩa gà luộc có màu vàng óng tự nhiên của da gà, miếng thịt trắng ngần. Món ăn được trình bày gọn gàng, bên cạnh là chén chao đỏ cam đặc trưng, trông rất hấp dẫn và truyền thống."
+  },
+  {
+    "intent": "huong_vi_ga_luoc_chao",
+    "patterns": "Hương vị của gà luộc chấm chao ra sao?",
+    "responses": "Gà luộc chấm chao có vị ngọt tự nhiên của thịt gà, da gà dai giòn, khi chấm với chao thì có thêm vị béo bùi, mặn ngọt đặc trưng, thơm nồng mùi chao. Món này rất đậm đà và ngon miệng."
+  },
+  {
+    "intent": "nguyen_lieu_tom_tuoi_hap_bia",
+    "patterns": "Tôm tươi hấp bia cần những gì để chế biến?",
+    "responses": "Tôm tươi hấp bia cần tôm tươi, bia (loại bất kỳ), sả cây, gừng thái lát, và ớt tươi."
+  },
+  {
+    "intent": "cach_lam_tom_tuoi_hap_bia",
+    "patterns": "Quy trình làm tôm tươi hấp bia như thế nào?",
+    "responses": "Bạn rửa sạch tôm. Xếp sả đập dập, gừng thái lát xuống đáy nồi, cho tôm lên trên. Đổ bia ngập khoảng 1/3 tôm. Đậy nắp và hấp cho đến khi tôm chuyển màu đỏ au và chín tới. Bày ra đĩa và chấm muối tiêu chanh hoặc tương ớt."
+  },
+  {
+    "intent": "mo_ta_tom_tuoi_hap_bia",
+    "patterns": "Hình dáng của đĩa tôm tươi hấp bia trông ra sao?",
+    "responses": "Đĩa tôm tươi hấp bia có những con tôm màu đỏ au căng mọng, cuộn tròn đẹp mắt, được bày trên lớp sả và gừng xanh tươi. Món ăn trông rất bắt mắt, bốc khói nghi ngút và thơm lừng."
+  },
+  {
+    "intent": "huong_vi_tom_tuoi_hap_bia",
+    "patterns": "Mùi vị của tôm tươi hấp bia là gì?",
+    "responses": "Tôm tươi hấp bia có vị ngọt tự nhiên, giòn dai của thịt tôm, thơm lừng mùi sả và gừng. Mùi bia nhẹ nhàng giúp tăng thêm hương vị mà không làm át đi vị ngọt của tôm. Món này rất thanh mát và dễ ăn."
+  },
+  {
+    "intent": "nguyen_lieu_thit_ba_chi_luoc_cuon_banh_trang",
+    "patterns": "Thịt ba chỉ luộc cuốn bánh tráng cần nguyên liệu gì?",
+    "responses": "Thịt ba chỉ luộc cuốn bánh tráng cần thịt ba chỉ, bánh tráng cuốn, bún tươi, rau sống các loại (xà lách, rau thơm), dưa chuột, và nước mắm nêm hoặc mắm tôm pha."
+  },
+  {
+    "intent": "cach_lam_thit_ba_chi_luoc_cuon_banh_trang",
+    "patterns": "Cách làm thịt ba chỉ luộc cuốn bánh tráng tại nhà?",
+    "responses": "Bạn luộc chín thịt ba chỉ với chút muối, vớt ra để nguội, thái lát mỏng. Rửa sạch các loại rau sống, thái dưa chuột. Khi ăn, nhúng bánh tráng qua nước, đặt thịt, bún, rau sống, dưa chuột lên rồi cuộn chặt. Chấm với mắm nêm hoặc mắm tôm pha chua ngọt."
+  },
+  {
+    "intent": "mo_ta_thit_ba_chi_luoc_cuon_banh_trang",
+    "patterns": "Mô tả một đĩa thịt ba chỉ luộc cuốn bánh tráng.",
+    "responses": "Đĩa thịt ba chỉ luộc cuốn bánh tráng có những miếng thịt ba chỉ luộc trắng hồng, xen lẫn màu xanh tươi của rau sống và màu trắng của bún. Các nguyên liệu được bày biện gọn gàng, trông rất tươi ngon và hấp dẫn."
+  },
+  {
+    "intent": "huong_vi_thit_ba_chi_luoc_cuon_banh_trang",
+    "patterns": "Hương vị của thịt ba chỉ luộc cuốn bánh tráng là gì?",
+    "responses": "Thịt ba chỉ luộc cuốn bánh tráng có vị ngọt mềm của thịt ba chỉ, tươi mát của rau sống, mềm dai của bún và bánh tráng, hòa quyện với vị đậm đà đặc trưng của mắm nêm hoặc mắm tôm. Món ăn này rất hài hòa, dễ ăn và không hề ngán."
+  },
+  {
+    "intent": "nguyen_lieu_oc_buou_hap_gung",
+    "patterns": "Ốc bươu hấp gừng cần những thành phần nào?",
+    "responses": "Ốc bươu hấp gừng cần ốc bươu tươi, gừng thái lát, sả đập dập, lá chanh (tùy chọn), và các gia vị chấm."
+  },
+  {
+    "intent": "cach_lam_oc_buou_hap_gung",
+    "patterns": "Quy trình chế biến ốc bươu hấp gừng?",
+    "responses": "Bạn rửa sạch ốc bươu, ngâm với ớt để ốc nhả hết chất bẩn. Xếp gừng, sả xuống đáy nồi, cho ốc lên trên. Thêm chút nước và lá chanh (nếu có). Đậy nắp và hấp đến khi ốc mở miệng. Dùng kèm nước mắm gừng hoặc muối tiêu xanh."
+  },
+  {
+    "intent": "mo_ta_oc_buou_hap_gung",
+    "patterns": "Mô tả hình ảnh của món ốc bươu hấp gừng.",
+    "responses": "Đĩa ốc bươu hấp gừng có những con ốc bươu màu nâu sẫm, vỏ bóng loáng, bốc hơi nghi ngút, điểm xuyết màu vàng của gừng và xanh của sả. Món ăn trông rất dân dã, hấp dẫn và thơm lừng."
+  },
+  {
+    "intent": "huong_vi_oc_buou_hap_gung",
+    "patterns": "Mùi vị của ốc bươu hấp gừng là gì?",
+    "responses": "Ốc bươu hấp gừng có vị ngọt dai tự nhiên của thịt ốc, thơm nồng mùi gừng và sả, vị cay nhẹ của ớt (nếu có). Món ăn này rất ấm bụng, đậm đà và là lựa chọn lý tưởng cho các buổi tụ tập."
+  },
+  {
+    "intent": "nguyen_lieu_sup_lo_xanh_luoc",
+    "patterns": "Súp lơ xanh luộc cần các thành phần nào?",
+    "responses": "Súp lơ xanh luộc cần súp lơ xanh tươi, và một chút muối để luộc."
+  },
+  {
+    "intent": "cach_lam_sup_lo_xanh_luoc",
+    "patterns": "Làm thế nào để luộc súp lơ xanh?",
+    "responses": "Bạn cắt súp lơ xanh thành từng miếng vừa ăn, rửa sạch. Đun sôi nước với chút muối, cho súp lơ vào luộc nhanh khoảng 3-5 phút cho súp lơ vừa chín tới và giữ được màu xanh. Vớt ra ngâm vào nước đá để giữ độ giòn và màu sắc."
+  },
+  {
+    "intent": "mo_ta_sup_lo_xanh_luoc",
+    "patterns": "Mô tả một đĩa súp lơ xanh luộc.",
+    "responses": "Đĩa súp lơ xanh luộc có màu xanh tươi non đẹp mắt, từng bông súp lơ còn nguyên hình dạng, trông rất hấp dẫn và thanh mát."
+  },
+  {
+    "intent": "huong_vi_sup_lo_xanh_luoc",
+    "patterns": "Hương vị của súp lơ xanh luộc là gì?",
+    "responses": "Súp lơ xanh luộc có vị ngọt thanh tự nhiên, giòn nhẹ và mát. Món ăn này rất thanh đạm, dễ ăn và bổ dưỡng, thường được dùng kèm với các món mặn hoặc chấm nước tương/kho quẹt."
+  },
+  {
+    "intent": "nguyen_lieu_dau_phong_luoc",
+    "patterns": "Những thành phần cần thiết để làm đậu phộng luộc là gì?",
+    "responses": "Đậu phộng luộc chỉ cần đậu phộng tươi nguyên vỏ và một chút muối để luộc."
+  },
+  {
+    "intent": "cach_lam_dau_phong_luoc",
+    "patterns": "Bạn có thể hướng dẫn chi tiết cách chế biến đậu phộng luộc không?",
+    "responses": "Bạn rửa sạch đậu phộng, loại bỏ những hạt hỏng. Cho đậu vào nồi cùng lượng nước vừa đủ ngập đậu và một thìa cà phê muối. Đun sôi rồi hạ nhỏ lửa, luộc khoảng 30-45 phút đến khi đậu chín mềm, bở tơi. Vớt ra để ráo."
+  },
+  {
+    "intent": "mo_ta_dau_phong_luoc",
+    "patterns": "Mô tả tổng quan về đĩa đậu phộng luộc.",
+    "responses": "Đĩa đậu phộng luộc có những hạt đậu căng tròn, vỏ ngoài hơi sẫm màu do dính đất. Khi tách vỏ, hạt đậu bên trong màu trắng ngà hoặc hồng nhạt, trông rất mộc mạc và hấp dẫn."
+  },
+  {
+    "intent": "huong_vi_dau_phong_luoc",
+    "patterns": "Hương vị của đậu phộng luộc ra sao?",
+    "responses": "Đậu phộng luộc có vị bùi bùi, ngọt nhẹ tự nhiên, xen lẫn chút mặn nhẹ của muối. Hạt đậu mềm, bở tơi, rất dễ ăn và là món ăn vặt lý tưởng."
+  },
+  {
+    "intent": "nguyen_lieu_rau_muong_luoc_dam_toi",
+    "patterns": "Rau muống luộc chấm dấm tỏi cần những gì để chế biến?",
+    "responses": "Rau muống luộc chấm dấm tỏi cần rau muống tươi, tỏi băm, ớt tươi, dấm gạo, đường, và nước mắm để làm nước chấm."
+  },
+  {
+    "intent": "cach_lam_rau_muong_luoc_dam_toi",
+    "patterns": "Quy trình làm rau muống luộc chấm dấm tỏi như thế nào?",
+    "responses": "Bạn nhặt và rửa sạch rau muống. Đun sôi nước, cho chút muối rồi cho rau vào luộc nhanh khoảng 3-5 phút để rau chín tới và giữ được màu xanh. Vớt rau ra ngâm nước lạnh để giữ độ giòn. Pha nước chấm dấm tỏi gồm dấm, đường, nước mắm, tỏi băm, ớt băm."
+  },
+  {
+    "intent": "mo_ta_rau_muong_luoc_dam_toi",
+    "patterns": "Hình dáng của đĩa rau muống luộc chấm dấm tỏi trông ra sao?",
+    "responses": "Đĩa rau muống luộc có màu xanh tươi mướt mắt, cọng rau vẫn giữ được độ cứng cáp nhất định. Món ăn được bày biện đơn giản nhưng rất thanh đạm, bên cạnh là chén nước chấm dấm tỏi màu trong, điểm xuyết tỏi và ớt."
+  },
+  {
+    "intent": "huong_vi_rau_muong_luoc_dam_toi",
+    "patterns": "Mùi vị của rau muống luộc chấm dấm tỏi là gì?",
+    "responses": "Rau muống luộc chấm dấm tỏi có vị ngọt thanh, giòn mát của rau, kết hợp với vị chua cay mặn ngọt đậm đà của nước chấm dấm tỏi. Món này rất dễ ăn, giải nhiệt và kích thích vị giác."
+  },
+  {
+    "intent": "nguyen_lieu_bong_cai_trang_luoc",
+    "patterns": "Bông cải trắng luộc cần nguyên liệu gì?",
+    "responses": "Bông cải trắng luộc chỉ cần bông cải trắng tươi và một ít muối để luộc."
+  },
+  {
+    "intent": "cach_lam_bong_cai_trang_luoc",
+    "patterns": "Cách luộc bông cải trắng tại nhà?",
+    "responses": "Bạn cắt bông cải trắng thành từng nhánh nhỏ, rửa sạch. Đun sôi nước với chút muối, cho bông cải vào luộc khoảng 5-7 phút cho chín tới, vẫn giữ được độ giòn. Vớt ra ngâm vào nước đá để giữ màu trắng và độ giòn."
+  },
+  {
+    "intent": "mo_ta_bong_cai_trang_luoc",
+    "patterns": "Mô tả một đĩa bông cải trắng luộc.",
+    "responses": "Đĩa bông cải trắng luộc có màu trắng tinh khôi, từng bông cải nở đều, trông rất đẹp mắt và thanh khiết. Món ăn đơn giản nhưng hấp dẫn, thường được dùng kèm với các món mặn."
+  },
+  {
+    "intent": "huong_vi_bong_cai_trang_luoc",
+    "patterns": "Hương vị của bông cải trắng luộc là gì?",
+    "responses": "Bông cải trắng luộc có vị ngọt thanh tự nhiên, giòn nhẹ và mát. Món ăn này rất thanh đạm, dễ ăn và bổ dưỡng, thường được dùng kèm nước tương hoặc kho quẹt."
+  },
+  {
+    "intent": "nguyen_lieu_bat_sap_luoc",
+    "patterns": "Bắp sáp luộc cần những thành phần nào?",
+    "responses": "Bắp sáp luộc cần bắp sáp tươi nguyên trái (còn vỏ lụa và râu bắp) và một chút muối."
+  },
+  {
+    "intent": "cach_lam_bat_sap_luoc",
+    "patterns": "Quy trình chế biến bắp sáp luộc?",
+    "responses": "Bạn lột bỏ vài lớp vỏ ngoài của bắp nhưng giữ lại lớp vỏ lụa mỏng bên trong và râu bắp. Xếp bắp vào nồi, đổ nước ngập bắp, thêm chút muối. Đun sôi và luộc khoảng 20-30 phút cho bắp chín mềm. Sau đó, vớt bắp ra để ráo."
+  },
+  {
+    "intent": "mo_ta_bat_sap_luoc",
+    "patterns": "Mô tả hình ảnh của món bắp sáp luộc.",
+    "responses": "Trái bắp sáp luộc có màu trắng đục đặc trưng, căng mọng, hạt bắp xếp đều tăm tắp. Món ăn trông rất dân dã, quen thuộc và toát lên vẻ ngọt ngào, thơm lừng."
+  },
+  {
+    "intent": "huong_vi_bat_sap_luoc",
+    "patterns": "Mùi vị của bắp sáp luộc là gì?",
+    "responses": "Bắp sáp luộc có vị ngọt đậm tự nhiên, dẻo mềm và thơm lừng mùi bắp mới. Hạt bắp căng mọng, mang lại cảm giác rất ngon miệng và là món ăn vặt được nhiều người yêu thích."
+  },
+  {
+    "intent": "nguyen_lieu_sup_lo_xanh_luoc_trung_cut",
+    "patterns": "Súp lơ xanh luộc trứng cút cần các thành phần nào?",
+    "responses": "Súp lơ xanh luộc trứng cút cần súp lơ xanh tươi, trứng cút, và một chút muối để luộc."
+  },
+  {
+    "intent": "cach_lam_sup_lo_xanh_luoc_trung_cut",
+    "patterns": "Làm thế nào để luộc súp lơ xanh với trứng cút?",
+    "responses": "Bạn luộc trứng cút chín, bóc vỏ. Súp lơ xanh cắt miếng vừa ăn, rửa sạch. Đun sôi nước với chút muối, cho súp lơ vào luộc nhanh khoảng 3-5 phút, sau đó cho trứng cút vào đun nóng lại. Vớt ra để ráo."
+  },
+  {
+    "intent": "mo_ta_sup_lo_xanh_luoc_trung_cut",
+    "patterns": "Mô tả một đĩa súp lơ xanh luộc trứng cút.",
+    "responses": "Đĩa súp lơ xanh luộc trứng cút có màu xanh tươi của súp lơ, xen kẽ những quả trứng cút trắng ngần xinh xắn. Món ăn trông rất bắt mắt, thanh mát và đầy đủ dinh dưỡng."
+  },
+  {
+    "intent": "huong_vi_sup_lo_xanh_luoc_trung_cut",
+    "patterns": "Hương vị của súp lơ xanh luộc trứng cút là gì?",
+    "responses": "Súp lơ xanh luộc trứng cút có vị ngọt thanh tự nhiên của súp lơ, vị bùi béo của trứng cút. Món ăn này rất dễ ăn, thanh đạm và bổ dưỡng, thích hợp cho bữa cơm gia đình."
+  }
+]

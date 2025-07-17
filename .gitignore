@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python/
+env/
+venv/
+*.egg
+*.egg-info/
+dist/
+build/
+.ipynb_checkpoints/ # Nếu bạn dùng Jupyter Notebooks
+.vscode/ # Nếu bạn dùng VS Code và muốn bỏ qua cài đặt cá nhân
+*.csv # Bỏ qua các file CSV đầu ra hoặc dữ liệu lớn
+*.json # Bỏ qua các file JSON đầu ra hoặc dữ liệu lớn
+*.xlsx # Bỏ qua các file Excel đầu ra hoặc dữ liệu lớn
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
